@@ -14,7 +14,8 @@ processor = CLIPProcessor.from_pretrained(clip_id)
 app = FastAPI()
 
 @app.post("/encode")
-async def encode(images: List[UploadFile] = File(...), texts: List[str] = Form(...)):
+async def encode(images: List[UploadFile] = File(...), texts: Optional[List[str]] = Form(None)):
+#List[str] = Form(...)):
     image_inputs = []
     text_inputs = []
 
