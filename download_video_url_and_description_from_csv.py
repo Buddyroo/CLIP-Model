@@ -2,35 +2,46 @@ import pandas as pd
 import json
 import os
 
-# Создаем папку для JSON, если она не существует
-if not os.path.exists('video_description'):
-    os.makedirs('video_description')
+def extract_video_id(url: str) -> str:
+    # Разбиваем URL на части по слешу, берем предпоследнюю часть
+    parts = url.strip('/').split('/')
+    unique_id = parts[-2]
+    return unique_id
 
-# Загрузка данных из CSV
-data = pd.read_csv('db_links/yappy_hackaton_2024_400k.csv', header=None, skiprows=2, encoding='utf-8')
+def process_video_csv(csv_path):
+    # Создаем папку для JSON, если она не существует
+    if not os.path.exists('video_description'):
+        os.makedirs('video_description')
 
-# Замена NaN значений на None в описаниях
-data[1] = data[1].apply(lambda x: None if pd.isna(x) else x)
+    # Загрузка данных из CSV
+    data = pd.read_csv(csv_path, header=None, skiprows=1, encoding='utf-8')
 
-# Словарь для хранения данных
-video_data = {}
+    # Замена NaN значений на None в описаниях
+    data[1] = data[1].apply(lambda x: None if pd.isna(x) else x)
 
-# Обработка каждой строки данных
-for index, row in data.iterrows():
-    url = row[0]  # первый столбец - ссылка
-    description = row[1]  # второй столбец - описание, теперь с None вместо NaN
+    # Словарь для хранения данных
+    video_data = {}
 
-    # Извлечение уникального идентификатора из URL
-    unique_id = url.split('/')[-2]
+    # Обработка каждой строки данных
+    for index, row in data.iterrows():
+        url = row[0]  # первый столбец - ссылка
+        description = row[1]  # второй столбец - описание, теперь с None вместо NaN
 
-    # Сохранение URL и описания в словарь
-    video_data[unique_id] = {
-        'url': url,
-        'description': description
-    }
+        # Извлечение уникального идентификатора из URL
+        unique_id = extract_video_id(url)
 
-# Сохранение словаря в JSON файл
-with open('video_description/all_videos.json', 'w', encoding='utf-8') as f:
-    json.dump(video_data, f, ensure_ascii=False)
+        # Сохранение URL и описания в словарь
+        video_data[unique_id] = {
+            'url': url,
+            'description': description
+        }
 
-print("Сохранение описаний и ссылок для всех видео завершено.")
+    # Сохранение словаря в JSON файл
+    with open('video_description/all_videos.json', 'w', encoding='utf-8') as f:
+        json.dump(video_data, f, ensure_ascii=False)
+
+    print("Сохранение описаний и ссылок для всех видео завершено.")
+
+# Вызов функции с указанием пути к CSV файлу
+csv_path = 'db_links/yappy_hackaton_2024_400k.csv'
+process_video_csv(csv_path)
