@@ -1,39 +1,63 @@
-# Given list of times
-times = [
-    6.230917692184448, 34.20923328399658, 6.00733208656311, 31.123637914657593,
-    15.599539756774902, 21.302750825881958, 28.816875457763672, 5.911856651306152,
-    30.212555170059204, 12.409674167633057, 20.050729274749756, 25.263760328292847,
-    103.61328291893005, 27.2608904838562, 23.95987057685852, 32.80495572090149,
-    12.61530590057373, 26.894140481948853, 10.284092664718628, 44.11530303955078,
-    28.092060327529907, 43.44335103034973, 13.89738416671753, 31.313735485076904,
-    30.15320587158203, 69.23862648010254, 53.15635538101196, 17.18008589744568,
-    20.693073749542236, 58.12032222747803, 42.546189069747925, 24.1609525680542,
-    21.744945764541626, 47.06353259086609, 67.39878964424133, 62.24768853187561,
-    12.930297613143921, 81.65519714355469, 64.0447850227356, 17.966851472854614,
-    23.94702410697937, 11.416517972946167, 27.427912712097168, 42.015674352645874,
-    19.38897705078125, 28.30736541748047, 44.02709746360779, 24.37542414665222,
-    25.35192894935608, 24.334617853164673, 36.241647243499756, 14.040082216262817,
-    12.717398166656494, 29.779131650924683, 30.35659694671631, 26.408613204956055,
-    32.914851665496826, 62.28437304496765, 27.129936933517456, 11.265638828277588,
-    30.92566680908203, 30.337502479553223, 21.685948848724365, 21.43765950202942,
-    7.016876697540283, 24.042685985565186, 25.367953777313232, 26.677890062332153,
-    91.71532678604126, 29.371660947799683, 24.85530114173889, 38.48493790626526,
-    28.738181829452515, 29.523765802383423, 25.79624891281128, 27.53608536720276,
-    25.797362804412842, 14.169498443603516, 23.404327630996704, 29.11979866027832,
-    28.743541717529297, 13.021375179290771, 14.868013858795166, 26.788889408111572,
-    32.57924723625183, 28.441741943359375, 15.100266695022583, 40.91843318939209,
-    24.859057188034058, 27.602549076080322, 24.5115385055542, 11.264080047607422,
-    21.025733947753906, 25.017906427383423, 22.969581127166748, 43.54658317565918,
-    25.738426685333252, 28.86629056930542, 38.949718952178955, 27.637693881988525,
-    34.71213746070862, 28.20504903793335, 36.31303358078003, 71.14226603507996,
-    16.10741662979126
-]
 
-# Filter out values less than 19
-filtered_times = [time for time in times if time >= 19]
 
-# Calculate the length and average of the filtered list
-length_of_filtered_times = len(filtered_times)
-average_of_filtered_times = sum(filtered_times) / length_of_filtered_times
+from fastapi import FastAPI, HTTPException, UploadFile, File, Form
+from transformers import CLIPProcessor, CLIPModel
+from PIL import Image
+from io import BytesIO
+import torch
+from typing import List, Optional
 
-print(length_of_filtered_times, average_of_filtered_times)
+clip_id = 'laion/CLIP-ViT-g-14-laion2B-s12B-b42K'
+clip_model = CLIPModel.from_pretrained(clip_id)
+processor = CLIPProcessor.from_pretrained(clip_id)
+
+app = FastAPI()
+
+
+
+@app.post("/encode")
+async def encode(images: List[UploadFile] = File(default=[]), texts: List[str] = Form(None)):
+#List[str] = Form(...)):
+#Optional[List[str]] = Form(None)):
+
+    image_inputs = []
+    text_inputs = {}
+
+    if images:  # Проверка наличия изображени
+        for image_file in images:
+            image = Image.open(BytesIO(await image_file.read()))
+            image_input = processor(images=image, return_tensors="pt")
+            image_inputs.append(image_input["pixel_values"])
+
+
+    if texts:
+        text_inputs = processor(text=texts, return_tensors="pt", padding=True, truncation=True)
+
+    if image_inputs:
+        with torch.no_grad():
+            image_features = clip_model.get_image_features(torch.cat(image_inputs, dim=0))
+            image_features = image_features.mean(dim=0, keepdim=True)
+
+    if text_inputs:
+        with torch.no_grad():
+            text_features = clip_model.get_text_features(**text_inputs)
+            text_features = text_features.mean(dim=0, keepdim=True)
+
+    if image_inputs and text_inputs:
+        features = torch.cat((image_features, text_features), dim=0).mean(dim=0, keepdim=True)
+        features /= features.norm(dim=-1, keepdim=True)
+    elif image_inputs:
+        features = image_features
+    elif text_inputs:
+        features = text_features
+    else:
+        return {"features": None}  # Вместо возбуждения исключения возвращаем None
+
+    if features is None:
+        return {"features": None}  # Возвращает null в JSON, если нет векторов
+    else:
+        return {"features": features.tolist()}  # Возвращает список векторов
+
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to the CLIP API. Use /encode for image and text encoding."}

@@ -1,174 +1,5187 @@
 {
-    "ef285e0241139fc611318ed33071": {
-        "processing_time": 27.391928672790527,
-        "video_duration": 18.794667
+    "7583445545ebbe78c5291344c6f0": {
+        "processing_time": 39.36010479927063,
+        "video_duration": 20.572896,
+        "frames_count": 10
     },
-    "b31bc6864bef9d8a96814f1822ca": {
-        "processing_time": 28.63155460357666,
-        "video_duration": 18.784958
+    "b30b8d754d06902f6ecc40192e97": {
+        "processing_time": 20.83595299720764,
+        "video_duration": 7.500708,
+        "frames_count": 7
     },
-    "b47a9df14a5e97942715e5e705c0": {
-        "processing_time": 10.576905965805054,
-        "video_duration": 10.965
+    "61bc925647cc87c7457f80de7c0b": {
+        "processing_time": 37.596277475357056,
+        "video_duration": 21.061604,
+        "frames_count": 10
     },
-    "b11df3f344d0af773aac81e410ee": {
-        "processing_time": 29.590942859649658,
-        "video_duration": 38.801646
+    "1e94d4e3456a9defec4e19f841dd": {
+        "processing_time": 21.56090497970581,
+        "video_duration": 6.251958,
+        "frames_count": 7
     },
-    "642dc2194fcdb69664f832d5f2dd": {
-        "processing_time": 15.303952693939209,
-        "video_duration": 18.273292
+    "86a631514333866c8cc585f533a2": {
+        "processing_time": 32.45173907279968,
+        "video_duration": 53.894604,
+        "frames_count": 10
     },
-    "f9164f8a41479f961d64842154a7": {
-        "processing_time": 18.943132638931274,
-        "video_duration": 44.97625
+    "f773542d4e2bbcd846dccf05eb56": {
+        "processing_time": 25.319825172424316,
+        "video_duration": 10.077,
+        "frames_count": 10
     },
-    "8a1ff7324073947a31e80f71d001": {
-        "processing_time": 31.082086324691772,
-        "video_duration": 24.102
+    "46f9a0ca4a4c8ab116c9edb110bf": {
+        "processing_time": 29.72076916694641,
+        "video_duration": 32.902688,
+        "frames_count": 10
     },
-    "98de3b4a4d9e83cb5dda828f899e": {
-        "processing_time": 9.778565406799316,
-        "video_duration": 6.3
+    "402f3e0144a2aba9f539439d21af": {
+        "processing_time": 8.844520330429077,
+        "video_duration": 5.037917,
+        "frames_count": 2
     },
-    "85fb6b80491db79e8baebe5c9d80": {
-        "processing_time": 37.07239055633545,
-        "video_duration": 17.067333
+    "c1e6ae534c46862f935d2fd25e5a": {
+        "processing_time": 28.843167543411255,
+        "video_duration": 21.804625,
+        "frames_count": 10
     },
-    "d86600d04e519178a55774dfe65e": {
-        "processing_time": 9.457058668136597,
-        "video_duration": 14.093708
+    "6d70175741dbaa3c19edd68c49e4": {
+        "processing_time": 64.20607709884644,
+        "video_duration": 34.737,
+        "frames_count": 10
     },
-    "a36f6f824fa1a67496d299c8ac6e": {
-        "processing_time": 20.65961456298828,
-        "video_duration": 5.9
+    "164a55034617bab19b987d9d8dd2": {
+        "processing_time": 12.180442333221436,
+        "video_duration": 12.074,
+        "frames_count": 3
     },
-    "0a36f96d4030a0f6ad1b6d7f4902": {
-        "processing_time": 25.090105056762695,
-        "video_duration": 9.172542
+    "e0e84e1f45c098e5f5e6b0ceff4f": {
+        "processing_time": 83.58677124977112,
+        "video_duration": 33.386667,
+        "frames_count": 10
     },
-    "96608b7a4834883ea2dd1c884c63": {
-        "processing_time": 78.25351405143738,
-        "video_duration": 37.466667
+    "402f4c6b4cf3a8956d9fefee00f0": {
+        "processing_time": 43.47664546966553,
+        "video_duration": 41.703,
+        "frames_count": 10
     },
-    "6b969c8c4a2aafcfca057b2a99a2": {
-        "processing_time": 24.63362956047058,
-        "video_duration": 57.957958
+    "89cf4d3340968a2ca4fa3505d635": {
+        "processing_time": 43.08257079124451,
+        "video_duration": 44.2,
+        "frames_count": 10
     },
-    "d5d0dedf44418e1a2b7d5cebe0e8": {
-        "processing_time": 24.547722578048706,
-        "video_duration": 7.035667
+    "2252e44042798abe3c2fe7e64392": {
+        "processing_time": 46.53628349304199,
+        "video_duration": 59.51275,
+        "frames_count": 10
     },
-    "8e9737fd445faf0a20151f8c39f5": {
-        "processing_time": 35.366326570510864,
-        "video_duration": 59.884
+    "0337caa64c8fbe8ebca0433916a2": {
+        "processing_time": 26.53611731529236,
+        "video_duration": 11.733333,
+        "frames_count": 10
     },
-    "2352de2748b3868df583d51a402b": {
-        "processing_time": 10.852087497711182,
-        "video_duration": 15.023958
+    "c69aa4c54205b23b108fd3021986": {
+        "processing_time": 27.383410453796387,
+        "video_duration": 18.0,
+        "frames_count": 10
     },
-    "3604604b4b8b89e34db1e0e91863": {
-        "processing_time": 29.60470724105835,
-        "video_duration": 24.984688
+    "c6e6c53d451787a0fa7e9ab3f799": {
+        "processing_time": 27.692442178726196,
+        "video_duration": 21.4,
+        "frames_count": 10
     },
-    "65c80c3047d08634922cb22f1fee": {
-        "processing_time": 10.834481239318848,
-        "video_duration": 5.086375
+    "db70703c48ccb587fed4a29e74be": {
+        "processing_time": 25.412931442260742,
+        "video_duration": 9.033333,
+        "frames_count": 10
     },
-    "47329b1943349255453b6cec625d": {
-        "processing_time": 29.042766094207764,
-        "video_duration": 14.791771
+    "1335f1a840faa6250edd8c13fe9e": {
+        "processing_time": 37.21107077598572,
+        "video_duration": 59.242667,
+        "frames_count": 10
     },
-    "88ac63a546cb8174020a95470591": {
-        "processing_time": 40.50499868392944,
-        "video_duration": 56.865688
+    "b1f8d14f4570a986a5ff3b09606c": {
+        "processing_time": 28.48453688621521,
+        "video_duration": 7.189,
+        "frames_count": 10
     },
-    "f040f0dd4afc90b8eb12c8d76571": {
-        "processing_time": 12.21727728843689,
-        "video_duration": 20.033389
+    "285bf12747a7907161da9cdc7fcf": {
+        "processing_time": 32.45007848739624,
+        "video_duration": 10.054,
+        "frames_count": 10
     },
-    "47a9e25b4b36bc6254d29f42787a": {
-        "processing_time": 26.688926696777344,
-        "video_duration": 10.63475
+    "42c3376240799def7515a8fb3d99": {
+        "processing_time": 31.976320266723633,
+        "video_duration": 48.066667,
+        "frames_count": 10
     },
-    "ab9d0a504c2a892c88dc02b79b56": {
-        "processing_time": 11.183451414108276,
-        "video_duration": 14.396
+    "68e8dfbc42be8a32beae7a3d38c8": {
+        "processing_time": 12.172023057937622,
+        "video_duration": 30.627,
+        "frames_count": 2
     },
-    "4a6b06514445bbe41cb62a5f279d": {
-        "processing_time": 25.81914210319519,
-        "video_duration": 16.601458
+    "76e87fd14f9db85b062626539fda": {
+        "processing_time": 14.813037395477295,
+        "video_duration": 22.313563,
+        "frames_count": 2
     },
-    "f6e45a2142b095d96b286744441a": {
-        "processing_time": 27.313626289367676,
-        "video_duration": 27.561271
+    "7f51faf94c6789eb1f8e06d8c8e2": {
+        "processing_time": 34.50294780731201,
+        "video_duration": 51.966667,
+        "frames_count": 10
     },
-    "531d4356476a9deb64239aed758a": {
-        "processing_time": 27.607465744018555,
-        "video_duration": 6.7
+    "4f82106f422dbc6d06a4b5b50a74": {
+        "processing_time": 27.68613576889038,
+        "video_duration": 23.573,
+        "frames_count": 10
     },
-    "4ade487d46cfb36205c43e4dca40": {
-        "processing_time": 26.851362943649292,
-        "video_duration": 20.133333
+    "83a958fd48709e4df916f02114e5": {
+        "processing_time": 26.96792721748352,
+        "video_duration": 25.024,
+        "frames_count": 10
     },
-    "a56eb2824b93a57c3f4ad7e02ddd": {
-        "processing_time": 74.35858678817749,
-        "video_duration": 32.437479
+    "89e15fc24d2696c977b75fceb538": {
+        "processing_time": 37.476842164993286,
+        "video_duration": 58.259958,
+        "frames_count": 10
     },
-    "3d901b774fc8b5728833abe9485d": {
-        "processing_time": 25.15579128265381,
-        "video_duration": 14.860792
+    "9002b30c471c863a97986a3dec8d": {
+        "processing_time": 53.20253872871399,
+        "video_duration": 43.862,
+        "frames_count": 10
     },
-    "07e47c1e4af8a1ea0a932b5cdae3": {
-        "processing_time": 64.37756395339966,
-        "video_duration": 16.833667
+    "789b9c784777a0ab664531f7611b": {
+        "processing_time": 37.996098279953,
+        "video_duration": 25.378604,
+        "frames_count": 10
     },
-    "ce3d8db142e38d99c708f406cca0": {
-        "processing_time": 20.661460161209106,
-        "video_duration": 14.101
+    "6e2ed79c40b59762dafd03f177f9": {
+        "processing_time": 35.79358267784119,
+        "video_duration": 17.438,
+        "frames_count": 10
     },
-    "92d9fe2a4fd99509c72ebf46e7d7": {
-        "processing_time": 28.628934621810913,
-        "video_duration": 24.661
+    "7b610c0f4a778573b88aaeb14a83": {
+        "processing_time": 32.86690092086792,
+        "video_duration": 47.300146,
+        "frames_count": 10
     },
-    "d45056f64cd48e919324c2ade667": {
-        "processing_time": 14.71393871307373,
-        "video_duration": 25.124
+    "e028a7364fd7ad384e15eebf9bce": {
+        "processing_time": 25.155790328979492,
+        "video_duration": 13.445458,
+        "frames_count": 10
     },
-    "aa6a2f7b46ad81e3c78e947d472f": {
-        "processing_time": 11.935202360153198,
-        "video_duration": 14.652458
+    "6aa5111b41f591bcd2dbfb6a5fbb": {
+        "processing_time": 44.90044903755188,
+        "video_duration": 40.703771,
+        "frames_count": 15
     },
-    "7aab45314f66a2147fd821906612": {
-        "processing_time": 32.19094681739807,
-        "video_duration": 30.721104
+    "3abace014e46a04fc57478a30d71": {
+        "processing_time": 33.50694441795349,
+        "video_duration": 16.074074,
+        "frames_count": 12
     },
-    "a77cf9a94a78b621c7c754942b29": {
-        "processing_time": 31.119532108306885,
-        "video_duration": 29.837646
+    "396ee65741adac4824fa1c3dcd21": {
+        "processing_time": 40.973654985427856,
+        "video_duration": 15.0,
+        "frames_count": 15
     },
-    "65b82be24517a0e37298975a3b07": {
-        "processing_time": 48.273054122924805,
-        "video_duration": 21.266667
+    "05a2d8474fada8d1132d5714d994": {
+        "processing_time": 54.10555076599121,
+        "video_duration": 23.151396,
+        "frames_count": 15
     },
-    "84a8a71b4d249365ae19fbd1fcff": {
-        "processing_time": 33.39341115951538,
-        "video_duration": 48.018875
+    "91db16c844a8bafdb16a3bc7cf19": {
+        "processing_time": 23.302340745925903,
+        "video_duration": 9.218,
+        "frames_count": 7
     },
-    "3c8921b34ba8ae905ec143136b22": {
-        "processing_time": 35.53430700302124,
-        "video_duration": 58.768896
+    "f0f0263447978e129b42845ec366": {
+        "processing_time": 42.5818612575531,
+        "video_duration": 29.9,
+        "frames_count": 15
     },
-    "d0cce3454eb89b70209b67a4d970": {
-        "processing_time": 29.100096702575684,
-        "video_duration": 25.89
+    "a9ec53bd4c619c60fd8025a1f896": {
+        "processing_time": 53.88600468635559,
+        "video_duration": 40.433333,
+        "frames_count": 15
     },
-    "d9df4fb940939da69c0b351fa170": {
-        "processing_time": 5.469548463821411,
-        "video_duration": 7.082667
+    "8672716e48b387d6685ee7d59667": {
+        "processing_time": 39.795032262802124,
+        "video_duration": 46.510667,
+        "frames_count": 12
     },
-    "ff08193b402296920e2a1995bd16": {
-        "processing_time": 28.848875045776367,
-        "video_duration": 16.133333
+    "cf4a01a14569bab335e95c8f9fd7": {
+        "processing_time": 32.61587190628052,
+        "video_duration": 6.664792,
+        "frames_count": 13
+    },
+    "0e34e5f34473ae806e10b17e0c8a": {
+        "processing_time": 40.88436484336853,
+        "video_duration": 32.600833,
+        "frames_count": 15
+    },
+    "ceb4f06244639d610c6500ef4706": {
+        "processing_time": 38.225213289260864,
+        "video_duration": 25.402646,
+        "frames_count": 15
+    },
+    "81bb540b4faabadd659a03ea60b1": {
+        "processing_time": 46.23912811279297,
+        "video_duration": 58.909,
+        "frames_count": 15
+    },
+    "d5e76b5b4f16bf76d723411844b9": {
+        "processing_time": 20.040141582489014,
+        "video_duration": 6.943417,
+        "frames_count": 8
+    },
+    "96c855694df1ab785cead607953b": {
+        "processing_time": 35.52729153633118,
+        "video_duration": 8.233333,
+        "frames_count": 15
+    },
+    "3c32b15042bfa3000091d1e0a8c1": {
+        "processing_time": 34.582507848739624,
+        "video_duration": 21.804625,
+        "frames_count": 8
+    },
+    "42d4a28c472f96d70a331b7f3f94": {
+        "processing_time": 30.364537000656128,
+        "video_duration": 8.916,
+        "frames_count": 9
+    },
+    "c2ac4e92460faa1a4fbd60d2589e": {
+        "processing_time": 26.82401418685913,
+        "video_duration": 35.933333,
+        "frames_count": 8
+    },
+    "aacf83f54485abce4b4713849386": {
+        "processing_time": 40.82754063606262,
+        "video_duration": 26.586854,
+        "frames_count": 15
+    },
+    "2014833a402f80e13aca1f0aa3d7": {
+        "processing_time": 50.779053688049316,
+        "video_duration": 20.87475,
+        "frames_count": 15
+    },
+    "d8c96b9a4da4943f8bcb1b372ebe": {
+        "processing_time": 38.16511130332947,
+        "video_duration": 19.204,
+        "frames_count": 15
+    },
+    "139f152b464a90246c49d08ea7b9": {
+        "processing_time": 40.26498222351074,
+        "video_duration": 15.872,
+        "frames_count": 15
+    },
+    "0f638259433d8ea04df01105cdca": {
+        "processing_time": 51.81284427642822,
+        "video_duration": 59.071,
+        "frames_count": 15
+    },
+    "cb469f314f2f8d35127856666c20": {
+        "processing_time": 81.09386539459229,
+        "video_duration": 40.6,
+        "frames_count": 15
+    },
+    "a27d387f4d769bea75ecd1487321": {
+        "processing_time": 41.39898991584778,
+        "video_duration": 52.546771,
+        "frames_count": 15
+    },
+    "cf3ef8864d078b6bddd283c98388": {
+        "processing_time": 44.43295407295227,
+        "video_duration": 55.518917,
+        "frames_count": 15
+    },
+    "26c21cb244bf8734dcda0f431327": {
+        "processing_time": 40.35387301445007,
+        "video_duration": 40.633333,
+        "frames_count": 15
+    },
+    "b6634a1549249093dd667cd155ce": {
+        "processing_time": 49.83717393875122,
+        "video_duration": 35.225771,
+        "frames_count": 15
+    },
+    "904f0e984802a51d130c9aeeb84f": {
+        "processing_time": 34.2200710773468,
+        "video_duration": 14.000833,
+        "frames_count": 15
+    },
+    "2a99b6a84471a1e09798d45da908": {
+        "processing_time": 44.61426901817322,
+        "video_duration": 47.438,
+        "frames_count": 15
+    },
+    "52ef99814077a7f8d7d8c8996aa5": {
+        "processing_time": 34.71341681480408,
+        "video_duration": 16.742688,
+        "frames_count": 14
+    },
+    "c1e01ba349d397150f1505d905e2": {
+        "processing_time": 36.4158570766449,
+        "video_duration": 15.070417,
+        "frames_count": 15
+    },
+    "6023827f4c7198a35a931e617b17": {
+        "processing_time": 61.73902630805969,
+        "video_duration": 21.71175,
+        "frames_count": 15
+    },
+    "d0daed544ed689a6f3578ad4d951": {
+        "processing_time": 40.93146872520447,
+        "video_duration": 36.316,
+        "frames_count": 15
+    },
+    "e1c301514978975bf48c7e820fec": {
+        "processing_time": 47.03355693817139,
+        "video_duration": 57.654333,
+        "frames_count": 15
+    },
+    "f5d110f94d76a33ee7579d64350b": {
+        "processing_time": 43.89880728721619,
+        "video_duration": 51.386854,
+        "frames_count": 15
+    },
+    "78a0fc6748d6aa6e399a79ab1cce": {
+        "processing_time": 37.646228075027466,
+        "video_duration": 24.729917,
+        "frames_count": 15
+    },
+    "1205abbc4a27bf867187f1d621c9": {
+        "processing_time": 36.727306604385376,
+        "video_duration": 18.737708,
+        "frames_count": 14
+    },
+    "235c81344ab78a5b75e3ed83c7fa": {
+        "processing_time": 45.87879467010498,
+        "video_duration": 55.287375,
+        "frames_count": 15
+    },
+    "9c1713ca45a58327c2fa1e18ef44": {
+        "processing_time": 45.33634066581726,
+        "video_duration": 58.653,
+        "frames_count": 15
+    },
+    "8dd71af1428283ea619295111374": {
+        "processing_time": 35.278711557388306,
+        "video_duration": 9.172542,
+        "frames_count": 15
+    },
+    "9b6972bb412fb29c580565d9de30": {
+        "processing_time": 42.242788314819336,
+        "video_duration": 53.963,
+        "frames_count": 15
+    },
+    "b2a7bd324021a82016f19c69bb5a": {
+        "processing_time": 8.54438066482544,
+        "video_duration": 9.589042,
+        "frames_count": 2
+    },
+    "57c79f6543caba6460b93df4b301": {
+        "processing_time": 24.856667041778564,
+        "video_duration": 5.874667,
+        "frames_count": 11
+    },
+    "d0988b3940b48ccb108b8079cc4c": {
+        "processing_time": 84.55454540252686,
+        "video_duration": 7.547146,
+        "frames_count": 14
+    },
+    "d4d168dd44acb9f500859dd5c43c": {
+        "processing_time": 21.092611074447632,
+        "video_duration": 14.558104,
+        "frames_count": 8
+    },
+    "81a0dbe84edcad0ff0ff423e1fae": {
+        "processing_time": 34.09269690513611,
+        "video_duration": 13.077,
+        "frames_count": 15
+    },
+    "b27fb44e421aa6c5f10317c64ccc": {
+        "processing_time": 18.549442768096924,
+        "video_duration": 7.778688,
+        "frames_count": 7
+    },
+    "f3f3246049218276c617ff3a4465": {
+        "processing_time": 38.48015260696411,
+        "video_duration": 41.122,
+        "frames_count": 15
+    },
+    "c14e8a3248848cd38525fbc860a9": {
+        "processing_time": 32.59678769111633,
+        "video_duration": 10.891354,
+        "frames_count": 14
+    },
+    "153c85104ffaa335787818455b38": {
+        "processing_time": 10.881307601928711,
+        "video_duration": 8.042292,
+        "frames_count": 3
+    },
+    "243897c74ed58c9bb6406543d8af": {
+        "processing_time": 15.723917722702026,
+        "video_duration": 24.981,
+        "frames_count": 5
+    },
+    "e1f64f88443bbfea6bb25505b77e": {
+        "processing_time": 15.79526138305664,
+        "video_duration": 4.619958,
+        "frames_count": 4
+    },
+    "b2f46c0d467eab88ebfffaf2674d": {
+        "processing_time": 36.29924035072327,
+        "video_duration": 16.266667,
+        "frames_count": 14
+    },
+    "cf00f23d49c0b7c585d3955da66a": {
+        "processing_time": 33.459786891937256,
+        "video_duration": 13.699792,
+        "frames_count": 14
+    },
+    "eec53eff4f50b8376ca2277ca62a": {
+        "processing_time": 40.31958293914795,
+        "video_duration": 42.306771,
+        "frames_count": 15
+    },
+    "d665e143492cb8b7e35bc6bac851": {
+        "processing_time": 17.412890911102295,
+        "video_duration": 55.611792,
+        "frames_count": 3
+    },
+    "ee62e31d4cfd91cc695a1d1a640d": {
+        "processing_time": 46.376819133758545,
+        "video_duration": 21.501688,
+        "frames_count": 15
+    },
+    "5ad73b11475bb7f54c4b227f609e": {
+        "processing_time": 39.692187547683716,
+        "video_duration": 26.816,
+        "frames_count": 15
+    },
+    "462711664b39af22ef467541e9b2": {
+        "processing_time": 45.20106530189514,
+        "video_duration": 55.061,
+        "frames_count": 15
+    },
+    "765642284fae97981b8eb4d849c8": {
+        "processing_time": 33.70946502685547,
+        "video_duration": 7.2685,
+        "frames_count": 15
+    },
+    "26b446574390b630d905e9a06fd6": {
+        "processing_time": 37.61664152145386,
+        "video_duration": 10.937688,
+        "frames_count": 13
+    },
+    "3222a1964cce996a4d1454b29892": {
+        "processing_time": 40.52091932296753,
+        "video_duration": 6.733333,
+        "frames_count": 6
+    },
+    "f9fb19cc47009d6943a5254dca73": {
+        "processing_time": 14.058952331542969,
+        "video_duration": 16.044188,
+        "frames_count": 3
+    },
+    "afd2bc4e4120a4065b2d598a2b6e": {
+        "processing_time": 39.365222215652466,
+        "video_duration": 36.971958,
+        "frames_count": 15
+    },
+    "2abcb5bd4dbbb1d2b23718717b61": {
+        "processing_time": 10.429066181182861,
+        "video_duration": 5.479917,
+        "frames_count": 3
+    },
+    "bce8d2384246b9f6dd40cf7e8e9b": {
+        "processing_time": 22.276587963104248,
+        "video_duration": 15.533354,
+        "frames_count": 8
+    },
+    "f6284de44d2cb18d87d36b67a1c5": {
+        "processing_time": 40.838072299957275,
+        "video_duration": 37.012,
+        "frames_count": 15
+    },
+    "a63d3f3649be8d67f2a7fb108a0c": {
+        "processing_time": 11.706860780715942,
+        "video_duration": 9.171896,
+        "frames_count": 3
+    },
+    "f4ee600742d18db7beff96c8b318": {
+        "processing_time": 46.1212043762207,
+        "video_duration": 13.072854,
+        "frames_count": 12
+    },
+    "aa1bba8b434a8f7ab23b725b86fb": {
+        "processing_time": 37.80118274688721,
+        "video_duration": 20.642,
+        "frames_count": 15
+    },
+    "9267c46d4e71a7ccf537721bc442": {
+        "processing_time": 21.467320442199707,
+        "video_duration": 8.244188,
+        "frames_count": 8
+    },
+    "1d1bde4f4923a79f5f80860decbb": {
+        "processing_time": 20.88588857650757,
+        "video_duration": 23.966667,
+        "frames_count": 2
+    },
+    "a495214b4d04b41fa81bd1b56328": {
+        "processing_time": 36.313029527664185,
+        "video_duration": 14.293,
+        "frames_count": 15
+    },
+    "34126d724f79bcf14bbea0d945b5": {
+        "processing_time": 12.593399047851562,
+        "video_duration": 15.023958,
+        "frames_count": 3
+    },
+    "5853ceee43c48668daf1ecda252e": {
+        "processing_time": 70.44531488418579,
+        "video_duration": 7.872667,
+        "frames_count": 2
+    },
+    "6750f1d040ba87ad95e9a2e20421": {
+        "processing_time": 23.284543991088867,
+        "video_duration": 7.801917,
+        "frames_count": 9
+    },
+    "a07cc5a846baa85a09bc3a55c69f": {
+        "processing_time": 36.55272722244263,
+        "video_duration": 16.044188,
+        "frames_count": 15
+    },
+    "bbab9ee24a8ba87cbfce95f7668f": {
+        "processing_time": 38.10818600654602,
+        "video_duration": 29.373,
+        "frames_count": 15
+    },
+    "807868ee4f7a9deb67a850a14333": {
+        "processing_time": 38.63109469413757,
+        "video_duration": 14.745771,
+        "frames_count": 15
+    },
+    "7a712f8c431e935ea602deb4d696": {
+        "processing_time": 26.831379890441895,
+        "video_duration": 9.3,
+        "frames_count": 11
+    },
+    "f3e0ecae4f9895d2f2c97e928b6f": {
+        "processing_time": 21.427977323532104,
+        "video_duration": 9.311854,
+        "frames_count": 8
+    },
+    "c43225b14ce88dd9abc42504662a": {
+        "processing_time": 46.01454567909241,
+        "video_duration": 58.908229,
+        "frames_count": 15
+    },
+    "2522808f49679bb6ece2fc69285e": {
+        "processing_time": 34.46104097366333,
+        "video_duration": 9.938,
+        "frames_count": 11
+    },
+    "e8ea3f9b43e0b7b5191ae4c43553": {
+        "processing_time": 44.83991360664368,
+        "video_duration": 12.566667,
+        "frames_count": 6
+    },
+    "babb53d24b2994523d5721375091": {
+        "processing_time": 24.129313707351685,
+        "video_duration": 27.421958,
+        "frames_count": 2
+    },
+    "d788f96c454499c2a01f3a5ec2bc": {
+        "processing_time": 33.59725832939148,
+        "video_duration": 8.382,
+        "frames_count": 13
+    },
+    "cf91e19b447c9b0bdfff08fd723e": {
+        "processing_time": 94.97925972938538,
+        "video_duration": 16.371167,
+        "frames_count": 15
+    },
+    "e6cc80a54cc18c9040a6803cbdbd": {
+        "processing_time": 39.98352670669556,
+        "video_duration": 32.133333,
+        "frames_count": 15
+    },
+    "417f03ee46b592b62e9e9027cd50": {
+        "processing_time": 32.48194694519043,
+        "video_duration": 18.7,
+        "frames_count": 11
+    },
+    "f7eaa54a4893a83ea1dcebc56029": {
+        "processing_time": 38.45699691772461,
+        "video_duration": 25.378604,
+        "frames_count": 15
+    },
+    "62790c3049b790af004f4fe6fccb": {
+        "processing_time": 33.345808029174805,
+        "video_duration": 27.934708,
+        "frames_count": 11
+    },
+    "657e522d45c2a7ba814dc19662ec": {
+        "processing_time": 16.587576150894165,
+        "video_duration": 9.219417,
+        "frames_count": 2
+    },
+    "1ff049ed4fb6bf2a2e178977ef71": {
+        "processing_time": 37.644583225250244,
+        "video_duration": 24.080188,
+        "frames_count": 15
+    },
+    "8102476c4f169b12685dd7325934": {
+        "processing_time": 42.28173208236694,
+        "video_duration": 14.071,
+        "frames_count": 14
+    },
+    "19dce3884379b52141ee92d3a5aa": {
+        "processing_time": 8.75815749168396,
+        "video_duration": 5.178708,
+        "frames_count": 2
+    },
+    "d5cce0fa42cd9d21c1cc6958178b": {
+        "processing_time": 44.992233753204346,
+        "video_duration": 59.977,
+        "frames_count": 15
+    },
+    "b586c6d542c9a4c656d6b731a654": {
+        "processing_time": 17.021947860717773,
+        "video_duration": 10.843729,
+        "frames_count": 3
+    },
+    "f7153128442abbaa663b98e586b8": {
+        "processing_time": 93.03254127502441,
+        "video_duration": 13.908771,
+        "frames_count": 15
+    },
+    "242eeccf4215af99883f732358ef": {
+        "processing_time": 49.99819755554199,
+        "video_duration": 35.781958,
+        "frames_count": 15
+    },
+    "3174a69c450796039545bb2151d2": {
+        "processing_time": 46.24781107902527,
+        "video_duration": 57.28,
+        "frames_count": 15
+    },
+    "795a2ff34433ae1366ef265a6c60": {
+        "processing_time": 52.92853379249573,
+        "video_duration": 58.723917,
+        "frames_count": 15
+    },
+    "1fe7b42545d08d7cc1cff26a184d": {
+        "processing_time": 26.6824848651886,
+        "video_duration": 16.787229,
+        "frames_count": 11
+    },
+    "751be2404ef6bbcfdabd6f174ad1": {
+        "processing_time": 29.783456087112427,
+        "video_duration": 8.917,
+        "frames_count": 13
+    },
+    "1568f3194a5e99646d2cbf7fbdb8": {
+        "processing_time": 33.56667113304138,
+        "video_duration": 10.101771,
+        "frames_count": 15
+    },
+    "ec120bc94a0ab873e598cf9640fb": {
+        "processing_time": 21.005175828933716,
+        "video_duration": 12.817,
+        "frames_count": 7
+    },
+    "a528566a44479fea090ed9cc1ea5": {
+        "processing_time": 34.92774152755737,
+        "video_duration": 10.426854,
+        "frames_count": 15
+    },
+    "10bb24724002b023d6d6ff3dfe49": {
+        "processing_time": 27.360334873199463,
+        "video_duration": 5.457354,
+        "frames_count": 12
+    },
+    "30eed7064f20a4b2e874389c8f4a": {
+        "processing_time": 44.49205780029297,
+        "video_duration": 59.140417,
+        "frames_count": 15
+    },
+    "be34aa604d009e1b876fa7820f79": {
+        "processing_time": 38.34986639022827,
+        "video_duration": 17.855333,
+        "frames_count": 15
+    },
+    "6639726244d0bb4ba9bd5e0dada3": {
+        "processing_time": 39.432697057724,
+        "video_duration": 18.041104,
+        "frames_count": 15
+    },
+    "13464fbd417a95089f0ed7d3cd1d": {
+        "processing_time": 27.578668117523193,
+        "video_duration": 41.866229,
+        "frames_count": 5
+    },
+    "177adb05448a9125c2ea491f3773": {
+        "processing_time": 33.04666233062744,
+        "video_duration": 8.684,
+        "frames_count": 13
+    },
+    "70b276d142ffad386fade000617e": {
+        "processing_time": 47.23834800720215,
+        "video_duration": 58.607,
+        "frames_count": 15
+    },
+    "d2beebeb493e8c4d301f869fd61b": {
+        "processing_time": 39.8298602104187,
+        "video_duration": 48.018875,
+        "frames_count": 3
+    },
+    "a460f0894b9581b9506f058eaa6c": {
+        "processing_time": 41.37778091430664,
+        "video_duration": 39.473938,
+        "frames_count": 15
+    },
+    "73125c6448528b4b5ba78d4b47df": {
+        "processing_time": 11.253042221069336,
+        "video_duration": 12.166667,
+        "frames_count": 2
+    },
+    "d72c1e554c00bc9b0068d2111e3c": {
+        "processing_time": 34.51253342628479,
+        "video_duration": 12.466667,
+        "frames_count": 15
+    },
+    "787b2f9a4b669779b5b74e09f361": {
+        "processing_time": 41.624512672424316,
+        "video_duration": 37.545854,
+        "frames_count": 15
+    },
+    "4e5719f542c19503ab641d1f46b4": {
+        "processing_time": 9.18114185333252,
+        "video_duration": 7.2685,
+        "frames_count": 2
+    },
+    "4e89f86e409f9079e336421e7862": {
+        "processing_time": 37.23437213897705,
+        "video_duration": 13.212813,
+        "frames_count": 15
+    },
+    "17ff93d74ba6bc1e5c23c7a3924b": {
+        "processing_time": 49.07652258872986,
+        "video_duration": 48.181,
+        "frames_count": 15
+    },
+    "f0d691194ae8889ae8c3b4809eee": {
+        "processing_time": 33.615750312805176,
+        "video_duration": 10.703604,
+        "frames_count": 8
+    },
+    "ba7160b0427193c4d30e03b19aec": {
+        "processing_time": 34.77565312385559,
+        "video_duration": 11.773167,
+        "frames_count": 15
+    },
+    "4dcf4f6b4a77ad27f4b82e8f540c": {
+        "processing_time": 27.234684467315674,
+        "video_duration": 10.612625,
+        "frames_count": 11
+    },
+    "3519f058431caaa0b2d97861b67c": {
+        "processing_time": 35.16852331161499,
+        "video_duration": 15.674563,
+        "frames_count": 15
+    },
+    "3aeb96c54e7e9d09211f365b5bee": {
+        "processing_time": 37.69628715515137,
+        "video_duration": 24.775708,
+        "frames_count": 15
+    },
+    "9f3d8c8c4f79ab70a3dff6d8322c": {
+        "processing_time": 22.763895750045776,
+        "video_duration": 4.341333,
+        "frames_count": 9
+    },
+    "e904c9ba4f31bf89479181628f8f": {
+        "processing_time": 39.57029986381531,
+        "video_duration": 26.402188,
+        "frames_count": 15
+    },
+    "d14e1a6d4dc3a3f02cae54e6b7a5": {
+        "processing_time": 11.601313829421997,
+        "video_duration": 5.688083,
+        "frames_count": 4
+    },
+    "2c2cff774a51a5262e6a219521b6": {
+        "processing_time": 20.994335174560547,
+        "video_duration": 24.171979,
+        "frames_count": 7
+    },
+    "bca0692a4c28b86459e96cd26a56": {
+        "processing_time": 27.893474817276,
+        "video_duration": 5.688896,
+        "frames_count": 9
+    },
+    "e7d3dc004a1aa6da154625f64b7c": {
+        "processing_time": 40.41383242607117,
+        "video_duration": 32.972,
+        "frames_count": 15
+    },
+    "7dd7b29c4730b13e97f26f7be141": {
+        "processing_time": 15.77376413345337,
+        "video_duration": 10.472,
+        "frames_count": 5
+    },
+    "8434d1e946ad8dcfbe26df09494c": {
+        "processing_time": 14.687652587890625,
+        "video_duration": 10.472854,
+        "frames_count": 5
+    },
+    "4956aa9c465bbd7ac1367fd85ef8": {
+        "processing_time": 36.425819873809814,
+        "video_duration": 22.012,
+        "frames_count": 15
+    },
+    "a573a57e429e9b4e3571603e7d2c": {
+        "processing_time": 37.491159439086914,
+        "video_duration": 9.102,
+        "frames_count": 15
+    },
+    "03adb3e140208aa61d517f027be8": {
+        "processing_time": 36.983598470687866,
+        "video_duration": 57.470479,
+        "frames_count": 5
+    },
+    "256c1c9a42f681db345f50a3484c": {
+        "processing_time": 13.075011014938354,
+        "video_duration": 11.122,
+        "frames_count": 4
+    },
+    "beda774844d39a62af50279ab8cf": {
+        "processing_time": 33.85572624206543,
+        "video_duration": 11.133333,
+        "frames_count": 15
+    },
+    "53b7fd0a4e619212402eb87d3305": {
+        "processing_time": 39.50871014595032,
+        "video_duration": 47.300146,
+        "frames_count": 15
+    },
+    "8fc498d94d4ebf82054b037b1b55": {
+        "processing_time": 16.78655695915222,
+        "video_duration": 17.67,
+        "frames_count": 5
+    },
+    "3e4b1b564b1daecd664b604d4a53": {
+        "processing_time": 25.550018310546875,
+        "video_duration": 7.313479,
+        "frames_count": 11
+    },
+    "c5f87b3b4ebb8f3597db9a9567bd": {
+        "processing_time": 38.49873208999634,
+        "video_duration": 23.892521,
+        "frames_count": 15
+    },
+    "b42f64a241b7b3754cb3035083ae": {
+        "processing_time": 33.60123562812805,
+        "video_duration": 7.019958,
+        "frames_count": 15
+    },
+    "3ec75cba4526991eedafcd3dda3e": {
+        "processing_time": 48.00157856941223,
+        "video_duration": 6.640917,
+        "frames_count": 15
+    },
+    "d5c6990646369b4cf4a870737afe": {
+        "processing_time": 9.831907987594604,
+        "video_duration": 15.023958,
+        "frames_count": 2
+    },
+    "7808113e41fca8bb5e72f5a68ac1": {
+        "processing_time": 34.01080131530762,
+        "video_duration": 7.359917,
+        "frames_count": 15
+    },
+    "22aba5954e219264f68d0f7e55da": {
+        "processing_time": 34.98741006851196,
+        "video_duration": 10.7055,
+        "frames_count": 15
+    },
+    "6d30f4d9414b82d512fc8b62f533": {
+        "processing_time": 44.22093844413757,
+        "video_duration": 41.820229,
+        "frames_count": 15
+    },
+    "e691e8134d3fad320c356c662f10": {
+        "processing_time": 46.952446937561035,
+        "video_duration": 53.289813,
+        "frames_count": 15
+    },
+    "255b6bce4241ac282fe71a40462c": {
+        "processing_time": 24.203038215637207,
+        "video_duration": 8.666667,
+        "frames_count": 10
+    },
+    "0e3f639f42178cd54a72023a2439": {
+        "processing_time": 29.10984992980957,
+        "video_duration": 15.046,
+        "frames_count": 12
+    },
+    "08a542174511bcc1ce3767331e4c": {
+        "processing_time": 54.27710795402527,
+        "video_duration": 24.566667,
+        "frames_count": 15
+    },
+    "6dacf79b47c8bc4a2ac88f81ec3c": {
+        "processing_time": 10.568533420562744,
+        "video_duration": 7.166667,
+        "frames_count": 3
+    },
+    "76db36e6407cbc31d469a0973f89": {
+        "processing_time": 16.267286777496338,
+        "video_duration": 6.548,
+        "frames_count": 6
+    },
+    "656b965a43eb921c86e474213472": {
+        "processing_time": 37.11627817153931,
+        "video_duration": 29.651896,
+        "frames_count": 14
+    },
+    "c48a246c4579931db77c2587bd3f": {
+        "processing_time": 23.971654653549194,
+        "video_duration": 7.709,
+        "frames_count": 7
+    },
+    "ee4816c54ff3a07572801b153ebe": {
+        "processing_time": 11.471978902816772,
+        "video_duration": 13.04638,
+        "frames_count": 3
+    },
+    "9f41816744f684af8509e2659472": {
+        "processing_time": 36.44411087036133,
+        "video_duration": 14.187,
+        "frames_count": 15
+    },
+    "1c41e8fd4fd0925a753352be6770": {
+        "processing_time": 12.112583875656128,
+        "video_duration": 10.82,
+        "frames_count": 2
+    },
+    "dc550c464ff894f567b2f602253e": {
+        "processing_time": 35.277260303497314,
+        "video_duration": 11.818958,
+        "frames_count": 15
+    },
+    "d571d7f9485d91732df127e2cf84": {
+        "processing_time": 36.71202754974365,
+        "video_duration": 19.575521,
+        "frames_count": 15
+    },
+    "f0f173464b36b2a9ffafa1186777": {
+        "processing_time": 24.516005277633667,
+        "video_duration": 8.666667,
+        "frames_count": 10
+    },
+    "420d966047599b1cbd8e4b52fabf": {
+        "processing_time": 35.51955580711365,
+        "video_duration": 13.933333,
+        "frames_count": 15
+    },
+    "1793314b407387443c8cfbc15644": {
+        "processing_time": 37.33966398239136,
+        "video_duration": 21.338333,
+        "frames_count": 15
+    },
+    "fa519565465bad66e5ff75e5a471": {
+        "processing_time": 17.711438417434692,
+        "video_duration": 24.866667,
+        "frames_count": 6
+    },
+    "8a0e6dd74241b336e9669a7639c1": {
+        "processing_time": 34.81569314002991,
+        "video_duration": 18.414521,
+        "frames_count": 15
+    },
+    "ca713297460a9901953efa14bc20": {
+        "processing_time": 15.706871271133423,
+        "video_duration": 5.968188,
+        "frames_count": 6
+    },
+    "4023b849484ea360558953d4f79a": {
+        "processing_time": 34.29162287712097,
+        "video_duration": 59.885354,
+        "frames_count": 12
+    },
+    "c9dbe47b4051b3970b2227bdf36b": {
+        "processing_time": 36.12829089164734,
+        "video_duration": 15.628229,
+        "frames_count": 15
+    },
+    "f91c24e74e8aa16f939a256482a1": {
+        "processing_time": 11.894879341125488,
+        "video_duration": 43.583875,
+        "frames_count": 2
+    },
+    "5b9b940e4ea0b9ea36db92e4b0c5": {
+        "processing_time": 44.917553424835205,
+        "video_duration": 52.965375,
+        "frames_count": 15
+    },
+    "ba3a5fc3493dacb8f96fac27988a": {
+        "processing_time": 35.48156189918518,
+        "video_duration": 13.166667,
+        "frames_count": 15
+    },
+    "340236d7457795b52c4368019977": {
+        "processing_time": 13.023869037628174,
+        "video_duration": 19.597646,
+        "frames_count": 2
+    },
+    "d07c0de7446d80b04635f9038f13": {
+        "processing_time": 35.20050048828125,
+        "video_duration": 13.8,
+        "frames_count": 14
+    },
+    "ce68cd294119863e56fbde236b27": {
+        "processing_time": 40.18641805648804,
+        "video_duration": 34.853,
+        "frames_count": 15
+    },
+    "9551c8944958811dbd303b9efbcd": {
+        "processing_time": 8.058941125869751,
+        "video_duration": 3.971708,
+        "frames_count": 2
+    },
+    "88b882f545eca257e18cb2623ee3": {
+        "processing_time": 41.71852898597717,
+        "video_duration": 38.986958,
+        "frames_count": 15
+    },
+    "cb8289694db3b52be3ab527514ee": {
+        "processing_time": 69.13035774230957,
+        "video_duration": 36.061688,
+        "frames_count": 15
+    },
+    "1d238cbf446d8d7997bf679c4613": {
+        "processing_time": 12.302006483078003,
+        "video_duration": 19.876,
+        "frames_count": 2
+    },
+    "2e03b55d48028238484b52790d35": {
+        "processing_time": 40.333744764328,
+        "video_duration": 39.54425,
+        "frames_count": 15
+    },
+    "9c6a6e1047b98efc2a8c394a6154": {
+        "processing_time": 34.978243350982666,
+        "video_duration": 9.126542,
+        "frames_count": 15
+    },
+    "e9f95f604aecba8058b1afe7e25a": {
+        "processing_time": 46.270246505737305,
+        "video_duration": 43.5,
+        "frames_count": 10
+    },
+    "57f951984f47ad7b60b757dd676c": {
+        "processing_time": 15.364088535308838,
+        "video_duration": 4.436104,
+        "frames_count": 5
+    },
+    "6adcc7774bc2874af3af495303a2": {
+        "processing_time": 16.893667221069336,
+        "video_duration": 5.7,
+        "frames_count": 6
+    },
+    "74b2345e46018a4bed1d3a7c31db": {
+        "processing_time": 34.017940044403076,
+        "video_duration": 9.822708,
+        "frames_count": 15
+    },
+    "778ad5784b448f2573693368972a": {
+        "processing_time": 44.088722467422485,
+        "video_duration": 49.667,
+        "frames_count": 15
+    },
+    "8aaa70c54d7d9ff1898e5b7d9ef4": {
+        "processing_time": 43.862876892089844,
+        "video_duration": 38.847,
+        "frames_count": 15
+    },
+    "09517d274a409c42ac17d90b6119": {
+        "processing_time": 51.13356971740723,
+        "video_duration": 10.844813,
+        "frames_count": 15
+    },
+    "d14456824569ba00a6fc60f78649": {
+        "processing_time": 12.83365249633789,
+        "video_duration": 7.452792,
+        "frames_count": 2
+    },
+    "b52adb07488cb1e345ac5d97cb74": {
+        "processing_time": 11.91083025932312,
+        "video_duration": 8.290188,
+        "frames_count": 4
+    },
+    "7be188414884b1f3ef907b81c5f2": {
+        "processing_time": 43.199976444244385,
+        "video_duration": 11.030583,
+        "frames_count": 15
+    },
+    "10fa42844c0bb0de1fdefcdfa090": {
+        "processing_time": 40.138442039489746,
+        "video_duration": 13.213213,
+        "frames_count": 15
+    },
+    "53ba48114a58b93127c9eaf40bc1": {
+        "processing_time": 34.27077627182007,
+        "video_duration": 6.849896,
+        "frames_count": 14
+    },
+    "3b8c45a04eab8fc9a313c482ee41": {
+        "processing_time": 47.388855934143066,
+        "video_duration": 13.966667,
+        "frames_count": 15
+    },
+    "f7bbfac34001999a32805f98b198": {
+        "processing_time": 14.64818549156189,
+        "video_duration": 12.330458,
+        "frames_count": 5
+    },
+    "f6c3aedb4f4f9ffe084d42de56c1": {
+        "processing_time": 16.326364755630493,
+        "video_duration": 6.154375,
+        "frames_count": 6
+    },
+    "5af81bae4f258654c2fe961088b3": {
+        "processing_time": 16.77939486503601,
+        "video_duration": 8.940771,
+        "frames_count": 6
+    },
+    "5f0752a3466cbf6de82472554a82": {
+        "processing_time": 18.448683500289917,
+        "video_duration": 25.239292,
+        "frames_count": 6
+    },
+    "b9b3d075441e8d6091202af8e39a": {
+        "processing_time": 25.279057025909424,
+        "video_duration": 22.2,
+        "frames_count": 2
+    },
+    "e1fe64794b16be68ae2dd5d022f5": {
+        "processing_time": 23.902432680130005,
+        "video_duration": 9.8,
+        "frames_count": 8
+    },
+    "746ee5a346ec94c8048cc978cbcc": {
+        "processing_time": 18.053539514541626,
+        "video_duration": 36.501771,
+        "frames_count": 4
+    },
+    "4de352b0461d8a598fa18f65a081": {
+        "processing_time": 42.57079267501831,
+        "video_duration": 26.922667,
+        "frames_count": 15
+    },
+    "a29769c7409db3c00edc01cf0e2f": {
+        "processing_time": 35.65394425392151,
+        "video_duration": 11.957479,
+        "frames_count": 15
+    },
+    "83bbe0e3457586956c1aa750242e": {
+        "processing_time": 9.40259861946106,
+        "video_duration": 8.010083,
+        "frames_count": 2
+    },
+    "57840cef4593abdbd9e800f1ef21": {
+        "processing_time": 47.48343849182129,
+        "video_duration": 16.788688,
+        "frames_count": 15
+    },
+    "e2a335ca4ded8eaf811273a794c8": {
+        "processing_time": 17.75933527946472,
+        "video_duration": 9.171083,
+        "frames_count": 5
+    },
+    "f975dbee40ce96e42ef0bd7ab992": {
+        "processing_time": 35.68233132362366,
+        "video_duration": 15.349042,
+        "frames_count": 15
+    },
+    "de5ec5a34ba9bdb5120ae5dc68a0": {
+        "processing_time": 18.921268939971924,
+        "video_duration": 7.401206,
+        "frames_count": 3
+    },
+    "ce2570c14930a8d95fd40c219f5a": {
+        "processing_time": 50.678240060806274,
+        "video_duration": 56.61,
+        "frames_count": 15
+    },
+    "8cb0651a41d586ced4a04e313b57": {
+        "processing_time": 13.181445837020874,
+        "video_duration": 8.31275,
+        "frames_count": 4
+    },
+    "fdc575ee49ce9cc004c9703c663c": {
+        "processing_time": 55.43981337547302,
+        "video_duration": 32.819958,
+        "frames_count": 15
+    },
+    "63fa767c42888d5b6b798001a09d": {
+        "processing_time": 63.19845700263977,
+        "video_duration": 52.987938,
+        "frames_count": 15
+    },
+    "fab5ee1641978cc3715ae612f860": {
+        "processing_time": 48.18547487258911,
+        "video_duration": 59.029,
+        "frames_count": 15
+    },
+    "46106a6e4d9eaec779d3d01a8a1a": {
+        "processing_time": 45.92978048324585,
+        "video_duration": 41.656,
+        "frames_count": 15
+    },
+    "cef5b7de47378eea20697eff9470": {
+        "processing_time": 35.70809054374695,
+        "video_duration": 11.958938,
+        "frames_count": 15
+    },
+    "9f6d28954ba8a09530f041f0619f": {
+        "processing_time": 43.365469455718994,
+        "video_duration": 50.933333,
+        "frames_count": 15
+    },
+    "67b97b644c14ae0489cff93319b0": {
+        "processing_time": 20.208381414413452,
+        "video_duration": 21.849979,
+        "frames_count": 6
+    },
+    "424c03cc4aafa3f9f7676ce9f22d": {
+        "processing_time": 23.408867835998535,
+        "video_duration": 10.612625,
+        "frames_count": 9
+    },
+    "50fa0ba04730b5d8f43e4806da26": {
+        "processing_time": 36.234609603881836,
+        "video_duration": 31.068,
+        "frames_count": 13
+    },
+    "a8168cbe4880a6a88845af08ca49": {
+        "processing_time": 10.935853481292725,
+        "video_duration": 7.546,
+        "frames_count": 3
+    },
+    "e78a5b7d4437aa863bce11d27f26": {
+        "processing_time": 24.610615730285645,
+        "video_duration": 11.168,
+        "frames_count": 9
+    },
+    "66914d3e4b6ba49cef3e77e489c0": {
+        "processing_time": 39.613457679748535,
+        "video_duration": 32.796708,
+        "frames_count": 15
+    },
+    "2c207eae45e9926407f94dab009e": {
+        "processing_time": 33.98033046722412,
+        "video_duration": 8.766667,
+        "frames_count": 15
+    },
+    "043f894d4af59a9a677242832731": {
+        "processing_time": 42.60376834869385,
+        "video_duration": 57.678,
+        "frames_count": 15
+    },
+    "459406074406ba79fda640f26049": {
+        "processing_time": 38.68268823623657,
+        "video_duration": 34.064771,
+        "frames_count": 15
+    },
+    "3960796e48629539b1f97e025e59": {
+        "processing_time": 35.57601523399353,
+        "video_duration": 19.712938,
+        "frames_count": 15
+    },
+    "d56bcf6043158308a76e88729c49": {
+        "processing_time": 26.459324598312378,
+        "video_duration": 14.42025,
+        "frames_count": 9
+    },
+    "ad2b77a74358a92e89b3ce8c6ef3": {
+        "processing_time": 48.137163400650024,
+        "video_duration": 11.833333,
+        "frames_count": 15
+    },
+    "39f64d2e47608037f18c859dad8a": {
+        "processing_time": 14.183875560760498,
+        "video_duration": 6.408708,
+        "frames_count": 4
+    },
+    "8d146c8b478596e1ccb8de9ca4a8": {
+        "processing_time": 35.47211003303528,
+        "video_duration": 16.555833,
+        "frames_count": 15
+    },
+    "dac077e74d618e796e873d33075c": {
+        "processing_time": 31.375431776046753,
+        "video_duration": 7.5,
+        "frames_count": 12
+    },
+    "f68f6c464eb6ad2b7159234ab6b2": {
+        "processing_time": 33.189990520477295,
+        "video_duration": 9.498167,
+        "frames_count": 14
+    },
+    "2072c2fc49c185279351ed7b2bea": {
+        "processing_time": 46.025821924209595,
+        "video_duration": 31.648813,
+        "frames_count": 15
+    },
+    "56e1a5744a19b4fc6f6b21306530": {
+        "processing_time": 54.760939598083496,
+        "video_duration": 53.569542,
+        "frames_count": 15
+    },
+    "54169e854c60994c4041c6692d25": {
+        "processing_time": 39.789742946624756,
+        "video_duration": 39.466667,
+        "frames_count": 14
+    },
+    "44afe787493f9298a663387ce527": {
+        "processing_time": 22.10919451713562,
+        "video_duration": 9.4,
+        "frames_count": 9
+    },
+    "dfa053e14c4c9e89249b1c20584a": {
+        "processing_time": 45.531206130981445,
+        "video_duration": 14.866667,
+        "frames_count": 15
+    },
+    "b5818b0d434085b23c3f66e4b494": {
+        "processing_time": 17.812466382980347,
+        "video_duration": 9.009,
+        "frames_count": 6
+    },
+    "4e68c53e443e9b4e223321faf1f8": {
+        "processing_time": 11.287495613098145,
+        "video_duration": 6.954667,
+        "frames_count": 2
+    },
+    "c98e49a543ae84ea16c44cf8c8e4": {
+        "processing_time": 55.67077398300171,
+        "video_duration": 50.48,
+        "frames_count": 15
+    },
+    "665b9a8e4940813534cc896dd9ef": {
+        "processing_time": 28.044217586517334,
+        "video_duration": 10.7055,
+        "frames_count": 12
+    },
+    "bd7f460e43bcb78583a275c6550d": {
+        "processing_time": 48.3153862953186,
+        "video_duration": 31.648,
+        "frames_count": 15
+    },
+    "2f1e15a24f998e5ae36efc1f0d93": {
+        "processing_time": 37.909154653549194,
+        "video_duration": 19.066667,
+        "frames_count": 15
+    },
+    "e9bc7cd24eb4ba3fdd6ac6e1ca73": {
+        "processing_time": 18.531581163406372,
+        "video_duration": 5.782875,
+        "frames_count": 3
+    },
+    "e70cc1734ce4bf8ef088a6b62e44": {
+        "processing_time": 36.80639910697937,
+        "video_duration": 4.573521,
+        "frames_count": 9
+    },
+    "9e3218944926bfc315eaf053ae36": {
+        "processing_time": 40.44875526428223,
+        "video_duration": 23.68,
+        "frames_count": 15
+    },
+    "4fcc530e4cc784b01c316c7dbcd2": {
+        "processing_time": 33.264456033706665,
+        "video_duration": 55.52,
+        "frames_count": 10
+    },
+    "49e1b43a45dfb0ee8b278ff4b9d1": {
+        "processing_time": 54.12104797363281,
+        "video_duration": 56.533,
+        "frames_count": 15
+    },
+    "e84c0b77414d9b71a25e1d87debd": {
+        "processing_time": 15.079541206359863,
+        "video_duration": 6.665229,
+        "frames_count": 5
+    },
+    "7cc1e07042c8b94f26d62d1cab0c": {
+        "processing_time": 24.716344356536865,
+        "video_duration": 10.4,
+        "frames_count": 10
+    },
+    "9e514b884432947cdcd7fe20e181": {
+        "processing_time": 16.524750232696533,
+        "video_duration": 5.1,
+        "frames_count": 4
+    },
+    "bcc4a88641ee8b0e4bf73a553548": {
+        "processing_time": 32.18494129180908,
+        "video_duration": 45.349667,
+        "frames_count": 9
+    },
+    "19e458b04b63965e59df3253bae1": {
+        "processing_time": 27.15467643737793,
+        "video_duration": 42.714405,
+        "frames_count": 8
+    },
+    "51dd5c854ee7bcf1d224d25c51e2": {
+        "processing_time": 33.61351752281189,
+        "video_duration": 7.036313,
+        "frames_count": 13
+    },
+    "be4aede943709aee6bd50ad3aefb": {
+        "processing_time": 65.53855919837952,
+        "video_duration": 59.882667,
+        "frames_count": 15
+    },
+    "40fcb38943f0b6fb69ef0e065d22": {
+        "processing_time": 47.77348184585571,
+        "video_duration": 52.547854,
+        "frames_count": 15
+    },
+    "0138b03049888f9c9b6cc6da9ba2": {
+        "processing_time": 30.99700927734375,
+        "video_duration": 11.216333,
+        "frames_count": 13
+    },
+    "2aaf53814325bd36aa3daaad766c": {
+        "processing_time": 51.80719470977783,
+        "video_duration": 55.751,
+        "frames_count": 15
+    },
+    "2b48515a40c1bc15115141c255a4": {
+        "processing_time": 37.660510540008545,
+        "video_duration": 15.339958,
+        "frames_count": 15
+    },
+    "ea33dfac4cd1a709ced23626da51": {
+        "processing_time": 74.00455808639526,
+        "video_duration": 17.90325,
+        "frames_count": 15
+    },
+    "de2c7c504716804ed30d7998bc69": {
+        "processing_time": 42.76075839996338,
+        "video_duration": 34.202188,
+        "frames_count": 15
+    },
+    "cbe6269a40da9cc4e7b119c58ea9": {
+        "processing_time": 35.58979773521423,
+        "video_duration": 18.0,
+        "frames_count": 15
+    },
+    "0141cf78423eb9b7f3c2bc0a9d1e": {
+        "processing_time": 42.9879252910614,
+        "video_duration": 35.340792,
+        "frames_count": 15
+    },
+    "c3fe199743308b225afb9f1cf9d7": {
+        "processing_time": 39.02440524101257,
+        "video_duration": 22.639,
+        "frames_count": 15
+    },
+    "7035daff4a61b7304c72ee7b74ec": {
+        "processing_time": 13.94018840789795,
+        "video_duration": 4.387771,
+        "frames_count": 4
+    },
+    "60fc1e37477bb5cfb663001ba9b4": {
+        "processing_time": 19.264325618743896,
+        "video_duration": 6.943854,
+        "frames_count": 2
+    },
+    "0874cfa043a696ee91faf2b083c1": {
+        "processing_time": 31.51647663116455,
+        "video_duration": 7.408271,
+        "frames_count": 12
+    },
+    "563b87b74635bbef9bf9a995b456": {
+        "processing_time": 52.84609007835388,
+        "video_duration": 57.771,
+        "frames_count": 15
+    },
+    "f6b0aea24c21a3470b0acbcc6846": {
+        "processing_time": 32.145360708236694,
+        "video_duration": 9.404729,
+        "frames_count": 11
+    },
+    "49f141cb4f5a95aef1098697fd3a": {
+        "processing_time": 47.56742000579834,
+        "video_duration": 16.137875,
+        "frames_count": 9
+    },
+    "4a49fb324ac797698271adf4833d": {
+        "processing_time": 42.36078095436096,
+        "video_duration": 36.617875,
+        "frames_count": 15
+    },
+    "10de5f8647c2bbc1aa5ccac01434": {
+        "processing_time": 29.095978260040283,
+        "video_duration": 14.433333,
+        "frames_count": 11
+    },
+    "7dfaef71470db60b6a582b86f5bc": {
+        "processing_time": 30.996341228485107,
+        "video_duration": 10.2,
+        "frames_count": 13
+    },
+    "636d5f954dd58640eaa354973caf": {
+        "processing_time": 40.653969526290894,
+        "video_duration": 18.668854,
+        "frames_count": 15
+    },
+    "8d5371a34d449cc4121a02990c1f": {
+        "processing_time": 84.70180106163025,
+        "video_duration": 23.701,
+        "frames_count": 7
+    },
+    "02bd70f24611bddf1295d7f44aa4": {
+        "processing_time": 58.714614152908325,
+        "video_duration": 58.955,
+        "frames_count": 15
+    },
+    "dd5aa8a64022b57329ee263f39c4": {
+        "processing_time": 46.88859176635742,
+        "video_duration": 38.080729,
+        "frames_count": 15
+    },
+    "92eadd344ace81fa01b09faa87cb": {
+        "processing_time": 47.38788628578186,
+        "video_duration": 13.166375,
+        "frames_count": 13
+    },
+    "6b1425504c21bb39f70b8bb6afc8": {
+        "processing_time": 34.12787127494812,
+        "video_duration": 5.566667,
+        "frames_count": 12
+    },
+    "150e80354cc1a68f655727f48908": {
+        "processing_time": 58.52338004112244,
+        "video_duration": 58.833333,
+        "frames_count": 15
+    },
+    "ac70acbc46aebacca1d323d0f935": {
+        "processing_time": 25.227121114730835,
+        "video_duration": 14.140958,
+        "frames_count": 5
+    },
+    "7a85201a401083b71ea7b3dc15d8": {
+        "processing_time": 48.87094569206238,
+        "video_duration": 9.546063,
+        "frames_count": 15
+    },
+    "525f8f4e45aebf7d538c08dcc579": {
+        "processing_time": 43.300960063934326,
+        "video_duration": 26.448625,
+        "frames_count": 15
+    },
+    "b02d7c9640e3b5ee4c335e0b1447": {
+        "processing_time": 42.461671352386475,
+        "video_duration": 9.079,
+        "frames_count": 15
+    },
+    "822c1e9b4d59a9c50057254be0c3": {
+        "processing_time": 28.811158895492554,
+        "video_duration": 8.753938,
+        "frames_count": 2
+    },
+    "97a0b7fe4f0aa9046e9093710615": {
+        "processing_time": 45.408055782318115,
+        "video_duration": 11.35375,
+        "frames_count": 3
+    },
+    "cd28224f4f309390eed98c83aa60": {
+        "processing_time": 59.50546050071716,
+        "video_duration": 59.141,
+        "frames_count": 15
+    },
+    "b6fbcaee41f1a2ecddd7ca67446d": {
+        "processing_time": 20.345016479492188,
+        "video_duration": 7.687,
+        "frames_count": 6
+    },
+    "d0ec335d41fca7fa039b6665f187": {
+        "processing_time": 23.65837049484253,
+        "video_duration": 19.562667,
+        "frames_count": 8
+    },
+    "a178672e4de8a0fd72ae9cc3438a": {
+        "processing_time": 54.07080364227295,
+        "video_duration": 26.215,
+        "frames_count": 15
+    },
+    "0e2032b647db867b8a927a972cfe": {
+        "processing_time": 38.65632677078247,
+        "video_duration": 6.767169,
+        "frames_count": 12
+    },
+    "2c88f8b04b0f814bd0852233c3b2": {
+        "processing_time": 38.932146072387695,
+        "video_duration": 10.612167,
+        "frames_count": 15
+    },
+    "c43d888948608fd01575f423ae85": {
+        "processing_time": 37.98188018798828,
+        "video_duration": 10.333333,
+        "frames_count": 15
+    },
+    "68bbd6ac4492863e96cde8c41b29": {
+        "processing_time": 45.02694630622864,
+        "video_duration": 36.432771,
+        "frames_count": 15
+    },
+    "b912e7694850bd777f44cd11ba65": {
+        "processing_time": 50.36402750015259,
+        "video_duration": 19.133333,
+        "frames_count": 15
+    },
+    "9fbfd82946e6b7d42cd0fa158ac9": {
+        "processing_time": 52.46454119682312,
+        "video_duration": 28.815979,
+        "frames_count": 15
+    },
+    "6bfada5e4dfb85c5bc41422b9967": {
+        "processing_time": 39.474409103393555,
+        "video_duration": 30.0245,
+        "frames_count": 15
+    },
+    "b65ed8624453b46bf401033517f8": {
+        "processing_time": 29.94108486175537,
+        "video_duration": 4.758625,
+        "frames_count": 7
+    },
+    "a5c8da674a2e807a0089c6b07137": {
+        "processing_time": 22.0488178730011,
+        "video_duration": 8.666667,
+        "frames_count": 7
+    },
+    "053423cd4dfbadd5f50f8898db55": {
+        "processing_time": 38.476577043533325,
+        "video_duration": 23.041667,
+        "frames_count": 15
+    },
+    "b9a75405490a9dcd9b470c095825": {
+        "processing_time": 50.87961483001709,
+        "video_duration": 53.243,
+        "frames_count": 15
+    },
+    "a9ab755a4fe6829c9183554f0185": {
+        "processing_time": 13.831379413604736,
+        "video_duration": 5.084375,
+        "frames_count": 3
+    },
+    "bcc0989e463d8c7ecf3ee53c0bc4": {
+        "processing_time": 13.327677726745605,
+        "video_duration": 6.766667,
+        "frames_count": 2
+    },
+    "4954df56427cb14c3ef49c8b3c83": {
+        "processing_time": 51.59202599525452,
+        "video_duration": 31.974542,
+        "frames_count": 15
+    },
+    "ee0cc8ae4f8e87e57f26d9ee8a4f": {
+        "processing_time": 32.41029167175293,
+        "video_duration": 7.733333,
+        "frames_count": 10
+    },
+    "c99d338d45df9d3362f168e329b2": {
+        "processing_time": 21.59564733505249,
+        "video_duration": 7.08275,
+        "frames_count": 7
+    },
+    "f7ffb0e0447ca583967b500452cf": {
+        "processing_time": 46.17815661430359,
+        "video_duration": 55.33425,
+        "frames_count": 15
+    },
+    "364b38634231a8d083e22f7b91f6": {
+        "processing_time": 40.207613468170166,
+        "video_duration": 10.8,
+        "frames_count": 15
+    },
+    "fb4c4f034db0bcf785ebd93975dd": {
+        "processing_time": 40.98261857032776,
+        "video_duration": 15.116,
+        "frames_count": 15
+    },
+    "d536c4484b06b127f2d9d13890f5": {
+        "processing_time": 40.86539626121521,
+        "video_duration": 7.755,
+        "frames_count": 15
+    },
+    "34d969984d388d9e8c8df4b63c44": {
+        "processing_time": 59.92268395423889,
+        "video_duration": 17.766667,
+        "frames_count": 14
+    },
+    "828ff1414322b7dd4532a568bfde": {
+        "processing_time": 108.17361640930176,
+        "video_duration": 39.264146,
+        "frames_count": 15
+    },
+    "c7fd749b4137bc5bd296f26d6a00": {
+        "processing_time": 47.30404448509216,
+        "video_duration": 19.969,
+        "frames_count": 15
+    },
+    "d8ce29f041748c97b7228ffb9232": {
+        "processing_time": 43.80756211280823,
+        "video_duration": 10.766667,
+        "frames_count": 15
+    },
+    "889aa00f47a5a70b7817449cca00": {
+        "processing_time": 45.3745481967926,
+        "video_duration": 38.336,
+        "frames_count": 15
+    },
+    "c99b7aaa46a29db049686bd90ed9": {
+        "processing_time": 44.92905592918396,
+        "video_duration": 50.573,
+        "frames_count": 15
+    },
+    "5458e309442cab100d27deaff907": {
+        "processing_time": 49.48316669464111,
+        "video_duration": 47.4,
+        "frames_count": 15
+    },
+    "075f9d114d5c9307b72a0f2b591b": {
+        "processing_time": 46.859145402908325,
+        "video_duration": 19.992,
+        "frames_count": 15
+    },
+    "458628c94129a4945ae34015de8c": {
+        "processing_time": 97.07230305671692,
+        "video_duration": 43.723,
+        "frames_count": 15
+    },
+    "055e21194c6e9ae1d96768e42b98": {
+        "processing_time": 40.16792273521423,
+        "video_duration": 25.495,
+        "frames_count": 6
+    },
+    "2b522e81451284dbd51e299069e4": {
+        "processing_time": 14.6565523147583,
+        "video_duration": 10.705063,
+        "frames_count": 3
+    },
+    "294143304b44b911d88e47308529": {
+        "processing_time": 56.30270552635193,
+        "video_duration": 58.049896,
+        "frames_count": 15
+    },
+    "d4fb6bf44b9fbfa6771268c12709": {
+        "processing_time": 43.12930369377136,
+        "video_duration": 19.776,
+        "frames_count": 8
+    },
+    "77af3c334e94b6b1d938c589e693": {
+        "processing_time": 24.335011959075928,
+        "video_duration": 11.470667,
+        "frames_count": 3
+    },
+    "1b25f5cc429b8189b348aac85fbf": {
+        "processing_time": 9.560428142547607,
+        "video_duration": 6.804542,
+        "frames_count": 2
+    },
+    "241cda814f9399d0c523ea17bf5f": {
+        "processing_time": 12.11969518661499,
+        "video_duration": 10.7055,
+        "frames_count": 2
+    },
+    "a458a1e94941aca53bdbe40dda89": {
+        "processing_time": 32.54892039299011,
+        "video_duration": 6.525896,
+        "frames_count": 12
+    },
+    "209af43c4db6babb0d6cda7c8405": {
+        "processing_time": 18.072057962417603,
+        "video_duration": 15.081748,
+        "frames_count": 5
+    },
+    "65ed06ad4396b02d3a783ddcb147": {
+        "processing_time": 37.88361883163452,
+        "video_duration": 16.556917,
+        "frames_count": 15
+    },
+    "6505c663401c9b55866f2dbc88e5": {
+        "processing_time": 102.75187253952026,
+        "video_duration": 11.377792,
+        "frames_count": 9
+    },
+    "cdf20d4d44d9a070bb8686aaed92": {
+        "processing_time": 51.002092599868774,
+        "video_duration": 18.1,
+        "frames_count": 15
+    },
+    "b62a85fc47fc99d4bb6fdcc724f1": {
+        "processing_time": 124.61529231071472,
+        "video_duration": 23.706771,
+        "frames_count": 15
+    },
+    "bc2db3de4cea9c27b0cf414a96e8": {
+        "processing_time": 19.543189764022827,
+        "video_duration": 7.866667,
+        "frames_count": 4
+    },
+    "a93e06b04cb49cc5fb6a1166a39e": {
+        "processing_time": 55.30661344528198,
+        "video_duration": 8.452,
+        "frames_count": 4
+    },
+    "bd7affce41acbc69cdd521e62826": {
+        "processing_time": 67.41383910179138,
+        "video_duration": 57.678,
+        "frames_count": 15
+    },
+    "b3f65c834998b0fb3da6b9d50a3b": {
+        "processing_time": 61.23583006858826,
+        "video_duration": 59.989,
+        "frames_count": 15
+    },
+    "38a36ed047458c19afd669f7b023": {
+        "processing_time": 54.62042689323425,
+        "video_duration": 17.414979,
+        "frames_count": 15
+    },
+    "b525bfff43febbf736c7cc590822": {
+        "processing_time": 48.60923719406128,
+        "video_duration": 10.346667,
+        "frames_count": 13
+    },
+    "b4b1ca31478f97a953130cfd8df1": {
+        "processing_time": 35.20042133331299,
+        "video_duration": 22.866667,
+        "frames_count": 15
+    },
+    "0c3835a944e297809b0fc88e5283": {
+        "processing_time": 45.4510395526886,
+        "video_duration": 7.083188,
+        "frames_count": 14
+    },
+    "1b7c924a4abe954e6a9163382055": {
+        "processing_time": 48.38268160820007,
+        "video_duration": 59.814,
+        "frames_count": 15
+    },
+    "c1d180f145ce98a1c24e4ad6d526": {
+        "processing_time": 79.51827239990234,
+        "video_duration": 38.521917,
+        "frames_count": 15
+    },
+    "95808a8d4e2cb2969d6473388b76": {
+        "processing_time": 26.506470441818237,
+        "video_duration": 16.0,
+        "frames_count": 6
+    },
+    "23146679478890440e73b7b807b3": {
+        "processing_time": 161.60982394218445,
+        "video_duration": 58.7,
+        "frames_count": 15
+    },
+    "0ee91b364b4cac12fc7b16a5e78a": {
+        "processing_time": 39.28633213043213,
+        "video_duration": 25.634833,
+        "frames_count": 10
+    },
+    "0986832048e98b37ee0945c379c7": {
+        "processing_time": 45.460885524749756,
+        "video_duration": 7.313479,
+        "frames_count": 10
+    },
+    "ee91f4a34f99bddf7e9c489362e8": {
+        "processing_time": 39.329562187194824,
+        "video_duration": 12.841729,
+        "frames_count": 15
+    },
+    "931e0fc24694963df96e9bf42f10": {
+        "processing_time": 110.35907196998596,
+        "video_duration": 12.074,
+        "frames_count": 14
+    },
+    "6c5ec3494ec09adc340530c009e9": {
+        "processing_time": 60.02708601951599,
+        "video_duration": 28.074021,
+        "frames_count": 15
+    },
+    "a61c6c044ed386436452e0d1d4a0": {
+        "processing_time": 42.74306058883667,
+        "video_duration": 8.288708,
+        "frames_count": 15
+    },
+    "f1ac4ed940b495740081247f3536": {
+        "processing_time": 16.57031798362732,
+        "video_duration": 4.250354,
+        "frames_count": 2
+    },
+    "3db78730422e949dd3f23ae8a4d4": {
+        "processing_time": 107.1934723854065,
+        "video_duration": 45.845,
+        "frames_count": 15
+    },
+    "55ace48345868a0567d11ce30c1b": {
+        "processing_time": 111.06130003929138,
+        "video_duration": 7.222063,
+        "frames_count": 10
+    },
+    "759713444ae69569f63a14bc9eb6": {
+        "processing_time": 51.52966499328613,
+        "video_duration": 43.498667,
+        "frames_count": 15
+    },
+    "cb840991431a8f44b40d8335ae12": {
+        "processing_time": 72.08946585655212,
+        "video_duration": 9.405188,
+        "frames_count": 15
+    },
+    "5ffa6c6a4c0b9fbd3fbcee014bd2": {
+        "processing_time": 43.562565326690674,
+        "video_duration": 10.8,
+        "frames_count": 15
+    },
+    "ddb1915948d4837bbe07419c1514": {
+        "processing_time": 70.13397932052612,
+        "video_duration": 50.2,
+        "frames_count": 15
+    },
+    "c620255943d187c5cad45c97ca23": {
+        "processing_time": 93.44585227966309,
+        "video_duration": 14.303,
+        "frames_count": 15
+    },
+    "0e9546574a39970b3173bfc6ea49": {
+        "processing_time": 67.51486921310425,
+        "video_duration": 59.814,
+        "frames_count": 15
+    },
+    "645c8637425d91fd2d331ba3bcc8": {
+        "processing_time": 45.45295834541321,
+        "video_duration": 23.296,
+        "frames_count": 15
+    },
+    "7a1400ec4808845ef4fe0bc25209": {
+        "processing_time": 101.98321795463562,
+        "video_duration": 29.666667,
+        "frames_count": 15
+    },
+    "64028f94435a95690b4b80a89f84": {
+        "processing_time": 91.3601188659668,
+        "video_duration": 57.3,
+        "frames_count": 11
+    },
+    "25acd54049ea8ec58d8fe12d6716": {
+        "processing_time": 46.493717432022095,
+        "video_duration": 6.34025,
+        "frames_count": 13
+    },
+    "b4aa69ec48c2867bb6e65f9dacfb": {
+        "processing_time": 31.495216131210327,
+        "video_duration": 6.663313,
+        "frames_count": 8
+    },
+    "a493ecbb4a11b1ecc6ae2b72d22c": {
+        "processing_time": 64.088698387146,
+        "video_duration": 53.708854,
+        "frames_count": 15
+    },
+    "914389aa4a5aac01732f697e681f": {
+        "processing_time": 17.80123472213745,
+        "video_duration": 8.801458,
+        "frames_count": 4
+    },
+    "055bca654b518e3151714b2e80c2": {
+        "processing_time": 122.3604063987732,
+        "video_duration": 25.0,
+        "frames_count": 15
+    },
+    "7faee7974643bbc4889689f1adf8": {
+        "processing_time": 101.61819791793823,
+        "video_duration": 7.337,
+        "frames_count": 13
+    },
+    "57ea687f4824b18e08cf8b6431b6": {
+        "processing_time": 123.19906520843506,
+        "video_duration": 12.05225,
+        "frames_count": 3
+    },
+    "2a9ba17a49c5999627b79821ca1f": {
+        "processing_time": 24.000062227249146,
+        "video_duration": 5.271583,
+        "frames_count": 6
+    },
+    "aae55b31464985d27fc592697faf": {
+        "processing_time": 80.05612778663635,
+        "video_duration": 11.5,
+        "frames_count": 15
+    },
+    "64cf42ef4a5c986cad7b1c767732": {
+        "processing_time": 60.17202568054199,
+        "video_duration": 8.985313,
+        "frames_count": 13
+    },
+    "bcb3daac444d8e823b7f8bf9009f": {
+        "processing_time": 48.06681418418884,
+        "video_duration": 14.513563,
+        "frames_count": 15
+    },
+    "84e17aaf4cf3b021bf4d3cba6593": {
+        "processing_time": 115.4611656665802,
+        "video_duration": 41.539688,
+        "frames_count": 15
+    },
+    "2493054c4815bee4713447d3ab3a": {
+        "processing_time": 44.14591670036316,
+        "video_duration": 12.91,
+        "frames_count": 11
+    },
+    "0c2331ce4a339ef521c482254a68": {
+        "processing_time": 18.660821437835693,
+        "video_duration": 13.653,
+        "frames_count": 3
+    },
+    "a4991f1243cda0a1217d03faa84f": {
+        "processing_time": 22.25672936439514,
+        "video_duration": 6.804542,
+        "frames_count": 9
+    },
+    "569c62314fcdaf76a38f3bb2046c": {
+        "processing_time": 38.01202201843262,
+        "video_duration": 26.702958,
+        "frames_count": 14
+    },
+    "91380a70446cbbb765a90eea1fa0": {
+        "processing_time": 52.21584606170654,
+        "video_duration": 27.51675,
+        "frames_count": 13
+    },
+    "7351809c4bd99c52d05c57e0d4ec": {
+        "processing_time": 72.31331753730774,
+        "video_duration": 45.9065,
+        "frames_count": 15
+    },
+    "e08811894a1a8e835f077100b704": {
+        "processing_time": 134.92599654197693,
+        "video_duration": 17.3,
+        "frames_count": 12
+    },
+    "42d33a0a4cf89d4261ef069483b4": {
+        "processing_time": 52.98820924758911,
+        "video_duration": 58.049896,
+        "frames_count": 15
+    },
+    "976fa6d14a75980e1740d9b639a6": {
+        "processing_time": 57.90548539161682,
+        "video_duration": 57.423604,
+        "frames_count": 15
+    },
+    "685f80114db18d5f29238c6698fa": {
+        "processing_time": 59.07835507392883,
+        "video_duration": 18.575979,
+        "frames_count": 12
+    },
+    "c5ee99044c4dae0612798f38f429": {
+        "processing_time": 129.36831307411194,
+        "video_duration": 56.04,
+        "frames_count": 15
+    },
+    "0fde27194861b9f114fa047eb8b7": {
+        "processing_time": 52.8052761554718,
+        "video_duration": 7.268938,
+        "frames_count": 10
+    },
+    "98e74927427980bd10a0a561a85b": {
+        "processing_time": 78.49435448646545,
+        "video_duration": 9.449708,
+        "frames_count": 5
+    },
+    "e3b079d442dfb8c85a04197a3c37": {
+        "processing_time": 44.80298948287964,
+        "video_duration": 18.924,
+        "frames_count": 15
+    },
+    "768258284610b3e14082b2fd021e": {
+        "processing_time": 39.088969230651855,
+        "video_duration": 8.476479,
+        "frames_count": 12
+    },
+    "f3610f3042bb96a4a62f9c58cbd4": {
+        "processing_time": 65.52596044540405,
+        "video_duration": 14.744688,
+        "frames_count": 15
+    },
+    "283897ec4f1fb82b30fc831d6306": {
+        "processing_time": 12.212429285049438,
+        "video_duration": 4.341333,
+        "frames_count": 2
+    },
+    "ce35a8dc4d38ba1023e158e1ea22": {
+        "processing_time": 50.26340174674988,
+        "video_duration": 8.3835,
+        "frames_count": 2
+    },
+    "e30018df4f89800d122234538c61": {
+        "processing_time": 79.73956632614136,
+        "video_duration": 16.789,
+        "frames_count": 9
+    },
+    "34aa48d64b5fbbdb3c984a0cdd4a": {
+        "processing_time": 54.91476130485535,
+        "video_duration": 34.482759,
+        "frames_count": 15
+    },
+    "e84c896044a799f65ef01266b69c": {
+        "processing_time": 156.1987862586975,
+        "video_duration": 11.2,
+        "frames_count": 13
+    },
+    "d0937e914a79a9b3f818c15f8701": {
+        "processing_time": 43.31432008743286,
+        "video_duration": 8.938875,
+        "frames_count": 6
+    },
+    "bb62123d40fda20f33f54af19eaa": {
+        "processing_time": 14.483622789382935,
+        "video_duration": 6.339708,
+        "frames_count": 2
+    },
+    "650b08d04aba9dbcc86e46256a28": {
+        "processing_time": 14.044492721557617,
+        "video_duration": 23.708229,
+        "frames_count": 2
+    },
+    "1d94e1fe46ab9ffaa0ac4835aaf6": {
+        "processing_time": 79.59144854545593,
+        "video_duration": 39.381,
+        "frames_count": 15
+    },
+    "c8a9351b45158ebbb21157fb2708": {
+        "processing_time": 185.57674264907837,
+        "video_duration": 6.1075,
+        "frames_count": 2
+    },
+    "6da52eae45498dc1dfbe18483194": {
+        "processing_time": 72.65222668647766,
+        "video_duration": 12.701,
+        "frames_count": 15
+    },
+    "91f3fc7a47eb9a6bbce0c6cf1138": {
+        "processing_time": 26.16388750076294,
+        "video_duration": 6.016,
+        "frames_count": 10
+    },
+    "b54d4fd247209e03c6fa27161b56": {
+        "processing_time": 37.22147989273071,
+        "video_duration": 11.034483,
+        "frames_count": 15
+    },
+    "29123c2c4767a4c0ff6cb1eedd64": {
+        "processing_time": 78.04327178001404,
+        "video_duration": 59.419875,
+        "frames_count": 15
+    },
+    "1b983b714640a1f81c4b5c796757": {
+        "processing_time": 38.855167627334595,
+        "video_duration": 28.224,
+        "frames_count": 15
+    },
+    "6695f6704059aa79740a2c5cce75": {
+        "processing_time": 36.05483651161194,
+        "video_duration": 29.418875,
+        "frames_count": 15
+    },
+    "0d7c603b478b82282e1638760567": {
+        "processing_time": 74.65058493614197,
+        "video_duration": 13.049,
+        "frames_count": 13
+    },
+    "2a87fede4d85afc51b5102654de2": {
+        "processing_time": 42.30356216430664,
+        "video_duration": 22.208333,
+        "frames_count": 15
+    },
+    "e6cc81e84b8a8a863cf5bec7545b": {
+        "processing_time": 40.1127028465271,
+        "video_duration": 26.410667,
+        "frames_count": 15
+    },
+    "62e64c49458fadfe8e4e81adf128": {
+        "processing_time": 41.33264946937561,
+        "video_duration": 41.122,
+        "frames_count": 15
+    },
+    "8603c75648cfad90f398c19b5133": {
+        "processing_time": 10.633350372314453,
+        "video_duration": 5.688083,
+        "frames_count": 2
+    },
+    "0e87d49945619ddc3680750470f3": {
+        "processing_time": 40.38123965263367,
+        "video_duration": 6.524,
+        "frames_count": 14
+    },
+    "bd08fb5c4811876473f8d5ae0c45": {
+        "processing_time": 83.66220736503601,
+        "video_duration": 15.070854,
+        "frames_count": 15
+    },
+    "c45643a64385b64665085d6e79b2": {
+        "processing_time": 30.7388436794281,
+        "video_duration": 5.2,
+        "frames_count": 12
+    },
+    "903f8bf54edea30225dc8837ebf9": {
+        "processing_time": 13.51602578163147,
+        "video_duration": 5.084375,
+        "frames_count": 1
+    },
+    "50e4b53a4b32ba9861561c584578": {
+        "processing_time": 59.59153938293457,
+        "video_duration": 44.884,
+        "frames_count": 15
+    },
+    "b10c3a2f43e8972d425aaca32571": {
+        "processing_time": 27.335994243621826,
+        "video_duration": 22.366667,
+        "frames_count": 4
+    },
+    "6498368d431ea7db0324f2ab1c02": {
+        "processing_time": 87.0877742767334,
+        "video_duration": 58.514,
+        "frames_count": 15
+    },
+    "023a78a84580b4972b53ab289e77": {
+        "processing_time": 58.31232929229736,
+        "video_duration": 23.336,
+        "frames_count": 15
+    },
+    "f2384b1c4531a3c91110a06c5f62": {
+        "processing_time": 61.43513584136963,
+        "video_duration": 50.039,
+        "frames_count": 15
+    },
+    "afe8db89411ab00bea4f9d8a099e": {
+        "processing_time": 60.05049014091492,
+        "video_duration": 25.166667,
+        "frames_count": 15
+    },
+    "fa6f0b1e47218ab8c4b149d2e023": {
+        "processing_time": 37.97766304016113,
+        "video_duration": 7.244646,
+        "frames_count": 6
+    },
+    "40b8a58c4c84bc8f53bd1a8baf73": {
+        "processing_time": 41.436123847961426,
+        "video_duration": 20.350854,
+        "frames_count": 15
+    },
+    "92ba703a486dab8b392989071712": {
+        "processing_time": 17.88069987297058,
+        "video_duration": 7.133333,
+        "frames_count": 3
+    },
+    "13f3598c44e8b52854eb7cbf10bc": {
+        "processing_time": 61.99929690361023,
+        "video_duration": 32.903771,
+        "frames_count": 15
+    },
+    "ec00068b42e1b30061e7dbda75af": {
+        "processing_time": 54.00604057312012,
+        "video_duration": 14.666667,
+        "frames_count": 15
+    },
+    "6dca5a3e4464948584a321c8ecca": {
+        "processing_time": 65.97354078292847,
+        "video_duration": 34.666583,
+        "frames_count": 15
+    },
+    "f38744194035984873c1c5b484c2": {
+        "processing_time": 80.43790769577026,
+        "video_duration": 57.817688,
+        "frames_count": 15
+    },
+    "fa4d1bb94c81bf4a47915d51c76d": {
+        "processing_time": 76.73574876785278,
+        "video_duration": 58.073,
+        "frames_count": 15
+    },
+    "e7d91d71430bbb88564db07822fd": {
+        "processing_time": 46.29613780975342,
+        "video_duration": 59.072,
+        "frames_count": 15
+    },
+    "71a9eecf430993f69971b74a1a63": {
+        "processing_time": 41.41788673400879,
+        "video_duration": 21.293354,
+        "frames_count": 14
+    },
+    "351f7d6f4addb0c2bbeffb1ec978": {
+        "processing_time": 18.389898538589478,
+        "video_duration": 37.418667,
+        "frames_count": 3
+    },
+    "ac96249349299309620615bd5f69": {
+        "processing_time": 37.324769020080566,
+        "video_duration": 10.266667,
+        "frames_count": 14
+    },
+    "1bb670bb4b3c9afcc35c53da02e6": {
+        "processing_time": 41.35925054550171,
+        "video_duration": 23.0,
+        "frames_count": 15
+    },
+    "cff7ed7d4dd59395d313fba4e51f": {
+        "processing_time": 64.86914896965027,
+        "video_duration": 58.538604,
+        "frames_count": 15
+    },
+    "681e538549b9adf65047eeab345e": {
+        "processing_time": 42.66546130180359,
+        "video_duration": 59.977,
+        "frames_count": 15
+    },
+    "ba08eb0c4e41b5b6138fe4544681": {
+        "processing_time": 33.54899048805237,
+        "video_duration": 13.443542,
+        "frames_count": 15
+    },
+    "8d6e02d945f19afbf0882ce71f13": {
+        "processing_time": 27.897576093673706,
+        "video_duration": 20.758625,
+        "frames_count": 4
+    },
+    "3f0c7b9f4138b2ad5628462fd7b9": {
+        "processing_time": 11.639524221420288,
+        "video_duration": 8.886584,
+        "frames_count": 2
+    },
+    "7ec64f7649d1ac1c84d104e555c8": {
+        "processing_time": 68.14265632629395,
+        "video_duration": 58.792938,
+        "frames_count": 15
+    },
+    "9f1daa8e4396a30f5a04425f8de2": {
+        "processing_time": 47.74548697471619,
+        "video_duration": 32.960894,
+        "frames_count": 15
+    },
+    "4850b2644171b5ed31337a46dc88": {
+        "processing_time": 37.907495737075806,
+        "video_duration": 13.525,
+        "frames_count": 5
+    },
+    "628af25d4f6b910429f653f297de": {
+        "processing_time": 20.566325664520264,
+        "video_duration": 13.212813,
+        "frames_count": 2
+    },
+    "d5a11aa4444e966c6c0e7345522e": {
+        "processing_time": 10.185433864593506,
+        "video_duration": 8.706688,
+        "frames_count": 2
+    },
+    "f9b7b1654ef281d7a66e7dbfd986": {
+        "processing_time": 46.698822259902954,
+        "video_duration": 58.537,
+        "frames_count": 15
+    },
+    "ab3e2a7e49509d50c9dc20dfb1bd": {
+        "processing_time": 57.30116629600525,
+        "video_duration": 14.448276,
+        "frames_count": 15
+    },
+    "379e951b43e09fe1dbb5ab007f7a": {
+        "processing_time": 60.47940635681152,
+        "video_duration": 44.560188,
+        "frames_count": 15
+    },
+    "4bdea89d4f64a6602bb1388d01de": {
+        "processing_time": 60.69534611701965,
+        "video_duration": 59.790583,
+        "frames_count": 15
+    },
+    "0d67bf014f21a87fedad1e98b891": {
+        "processing_time": 42.370014905929565,
+        "video_duration": 17.532167,
+        "frames_count": 8
+    },
+    "261688884bfcbcefff20947639b6": {
+        "processing_time": 42.07630658149719,
+        "video_duration": 13.269384,
+        "frames_count": 7
+    },
+    "41a88a2c48cfbafc58ecf98616ed": {
+        "processing_time": 31.172770023345947,
+        "video_duration": 14.349938,
+        "frames_count": 2
+    },
+    "bfa6ed5945cd9f13c18c06e6762e": {
+        "processing_time": 41.40134811401367,
+        "video_duration": 21.525,
+        "frames_count": 15
+    },
+    "4e228d58479ea873a3c6caaa828e": {
+        "processing_time": 48.796226263046265,
+        "video_duration": 19.922729,
+        "frames_count": 15
+    },
+    "827feefc46959e358efd713be2f5": {
+        "processing_time": 40.02623701095581,
+        "video_duration": 13.8,
+        "frames_count": 15
+    },
+    "69f0e7284eb5946f72a94e9fc91a": {
+        "processing_time": 38.322265625,
+        "video_duration": 14.533333,
+        "frames_count": 6
+    },
+    "530d13a040c394611e01d901d897": {
+        "processing_time": 59.32474088668823,
+        "video_duration": 59.541,
+        "frames_count": 15
+    },
+    "bf1d66cc4372ac4a81f264bad47d": {
+        "processing_time": 36.68210196495056,
+        "video_duration": 17.252,
+        "frames_count": 15
+    },
+    "4f5a51c4438f9a4fa52628546642": {
+        "processing_time": 11.713764190673828,
+        "video_duration": 15.048382,
+        "frames_count": 2
+    },
+    "37ff879c4612a8448f107ce47fb5": {
+        "processing_time": 47.718252420425415,
+        "video_duration": 33.969979,
+        "frames_count": 12
+    },
+    "221f51ea425ea31e0e087cbc9cab": {
+        "processing_time": 58.32374572753906,
+        "video_duration": 6.246833,
+        "frames_count": 10
+    },
+    "77ba190d4685befa9364e17b7f43": {
+        "processing_time": 77.72049522399902,
+        "video_duration": 58.724354,
+        "frames_count": 15
+    },
+    "ab0c9763486c9b43cce82ab3cdc2": {
+        "processing_time": 67.87072539329529,
+        "video_duration": 38.730896,
+        "frames_count": 15
+    },
+    "417d86774275b12198a77fc2a506": {
+        "processing_time": 45.63269519805908,
+        "video_duration": 4.922646,
+        "frames_count": 10
+    },
+    "d26748814ac1a745d2aabfb5e416": {
+        "processing_time": 79.02760219573975,
+        "video_duration": 13.25925,
+        "frames_count": 15
+    },
+    "9451bf634931876119f88809c7de": {
+        "processing_time": 66.672611951828,
+        "video_duration": 30.08,
+        "frames_count": 15
+    },
+    "6ab8c42a42a5939ac2f385724c8c": {
+        "processing_time": 32.476818323135376,
+        "video_duration": 5.966729,
+        "frames_count": 10
+    },
+    "c850f845439294f13722a1052021": {
+        "processing_time": 47.20654916763306,
+        "video_duration": 13.907938,
+        "frames_count": 15
+    },
+    "93080f76431b8982dfe125dba27e": {
+        "processing_time": 32.24989700317383,
+        "video_duration": 8.684,
+        "frames_count": 8
+    },
+    "006307394a13b336aef213c644d8": {
+        "processing_time": 52.54543948173523,
+        "video_duration": 41.679833,
+        "frames_count": 15
+    },
+    "4eb8fd27415797d43dc783cc354d": {
+        "processing_time": 85.77924656867981,
+        "video_duration": 46.207729,
+        "frames_count": 15
+    },
+    "5fcc1e574851a908d6e4691fee40": {
+        "processing_time": 74.17910242080688,
+        "video_duration": 33.3,
+        "frames_count": 15
+    },
+    "63f5ddfd48b08000c970b39d6dd5": {
+        "processing_time": 37.21392202377319,
+        "video_duration": 8.892438,
+        "frames_count": 6
+    },
+    "3fa6cd564b3693752fd8e3156124": {
+        "processing_time": 22.221680402755737,
+        "video_duration": 8.801458,
+        "frames_count": 7
+    },
+    "580cdc11487a96eff35bfc37c9b0": {
+        "processing_time": 26.171880960464478,
+        "video_duration": 12.051813,
+        "frames_count": 2
+    },
+    "abf1947e4adbab18988508ab2e22": {
+        "processing_time": 34.82035040855408,
+        "video_duration": 10.402,
+        "frames_count": 2
+    },
+    "37ea4b6245988dff4211cf641afd": {
+        "processing_time": 16.619078397750854,
+        "video_duration": 12.421875,
+        "frames_count": 3
+    },
+    "b06d1f7b49c79706134afebc3e12": {
+        "processing_time": 48.48781061172485,
+        "video_duration": 28.839,
+        "frames_count": 8
+    },
+    "741e53d54f319b0f06d63bd38b66": {
+        "processing_time": 12.413662195205688,
+        "video_duration": 15.0,
+        "frames_count": 2
+    },
+    "28496c974d25a7cf6adc734bd6de": {
+        "processing_time": 41.88526678085327,
+        "video_duration": 5.133333,
+        "frames_count": 9
+    },
+    "fb32d71643668c50bc2f500a935e": {
+        "processing_time": 7.581589698791504,
+        "video_duration": 9.683813,
+        "frames_count": 1
+    },
+    "873e60e0463dae4488582dfca914": {
+        "processing_time": 45.43259143829346,
+        "video_duration": 39.845,
+        "frames_count": 15
+    },
+    "cc3d27924f6eb51bde1f4cad96ec": {
+        "processing_time": 48.85224437713623,
+        "video_duration": 8.684,
+        "frames_count": 12
+    },
+    "9ee5f4a64367b6252e08b391dc98": {
+        "processing_time": 15.46464204788208,
+        "video_duration": 6.477563,
+        "frames_count": 2
+    },
+    "7d0d9dd54c5e807a974bfeb4e7cc": {
+        "processing_time": 40.1317412853241,
+        "video_duration": 15.023958,
+        "frames_count": 15
+    },
+    "6bebdefd4062ab887fe0eac37403": {
+        "processing_time": 42.30130863189697,
+        "video_duration": 32.4,
+        "frames_count": 7
+    },
+    "d6e014644f1aa10e753da28ee860": {
+        "processing_time": 55.725006103515625,
+        "video_duration": 11.355208,
+        "frames_count": 15
+    },
+    "48a2621d463b96a6de30387b605b": {
+        "processing_time": 72.43493294715881,
+        "video_duration": 10.333542,
+        "frames_count": 13
+    },
+    "8f73baf246cc8aea309828c821b1": {
+        "processing_time": 56.479750633239746,
+        "video_duration": 15.371,
+        "frames_count": 15
+    },
+    "4c75518f42cbbf16985b89e3892b": {
+        "processing_time": 41.956138134002686,
+        "video_duration": 10.379979,
+        "frames_count": 11
+    },
+    "1ec5f10948119bf29d47dd0aa795": {
+        "processing_time": 42.44122076034546,
+        "video_duration": 8.335167,
+        "frames_count": 9
+    },
+    "a6197d784f9e982b424662c90e56": {
+        "processing_time": 55.17254567146301,
+        "video_duration": 47.722667,
+        "frames_count": 15
+    },
+    "a65e6aba47178dd8c39bf5c7e074": {
+        "processing_time": 48.617735862731934,
+        "video_duration": 8.708146,
+        "frames_count": 15
+    },
+    "0942cefe4641a4b51a2b000e8a13": {
+        "processing_time": 22.11303973197937,
+        "video_duration": 10.774,
+        "frames_count": 2
+    },
+    "430665174f33b10235f643c026b3": {
+        "processing_time": 50.167654037475586,
+        "video_duration": 11.028667,
+        "frames_count": 15
+    },
+    "d514614d4b3eaafe0abf2b7ef33a": {
+        "processing_time": 47.24572777748108,
+        "video_duration": 27.066667,
+        "frames_count": 15
+    },
+    "57275476433297629d23a04fc59a": {
+        "processing_time": 29.062284469604492,
+        "video_duration": 7.8,
+        "frames_count": 2
+    },
+    "ee7fb13d46d4bdd7d324b7e4c1ac": {
+        "processing_time": 52.178561210632324,
+        "video_duration": 9.733333,
+        "frames_count": 3
+    },
+    "382d23dd42409bb3d114237a2462": {
+        "processing_time": 64.06803774833679,
+        "video_duration": 16.648708,
+        "frames_count": 15
+    },
+    "9c09f9f54423a7af4bf29c00a173": {
+        "processing_time": 57.27578258514404,
+        "video_duration": 45.627,
+        "frames_count": 15
+    },
+    "ba29cee64d2da68acc6351143406": {
+        "processing_time": 12.039645910263062,
+        "video_duration": 7.733333,
+        "frames_count": 2
+    },
+    "459b95d04c71968bafb6432954f1": {
+        "processing_time": 47.081618785858154,
+        "video_duration": 10.966667,
+        "frames_count": 11
+    },
+    "cf13a0e74a5ba95943668e8c4b74": {
+        "processing_time": 43.552552700042725,
+        "video_duration": 15.0225,
+        "frames_count": 15
+    },
+    "c27c294f4b37a7b2f47b4725425f": {
+        "processing_time": 29.550384283065796,
+        "video_duration": 13.886667,
+        "frames_count": 15
+    },
+    "f365c643421cb9c79d2954b153e8": {
+        "processing_time": 42.814411640167236,
+        "video_duration": 12.8,
+        "frames_count": 15
+    },
+    "f6fdf2a3481fb0e8836ba45b5d9a": {
+        "processing_time": 78.9191620349884,
+        "video_duration": 26.56,
+        "frames_count": 15
+    },
+    "cb5644284178b0c8ef60f5266817": {
+        "processing_time": 22.628058910369873,
+        "video_duration": 19.387854,
+        "frames_count": 2
+    },
+    "d674e2144c319a12932f40feca6f": {
+        "processing_time": 54.721813678741455,
+        "video_duration": 26.402292,
+        "frames_count": 15
+    },
+    "e96dc9a64c9bb435995f70b6ad32": {
+        "processing_time": 43.06356430053711,
+        "video_duration": 29.860875,
+        "frames_count": 14
+    },
+    "4249a37c4953967ef2e6e5bd6a5f": {
+        "processing_time": 22.39217495918274,
+        "video_duration": 15.023958,
+        "frames_count": 10
+    },
+    "2778623d43e7a36ea9c28191ff1e": {
+        "processing_time": 42.68731355667114,
+        "video_duration": 9.774792,
+        "frames_count": 13
+    },
+    "e68f080e45f68439b57ee2458a01": {
+        "processing_time": 25.51325535774231,
+        "video_duration": 5.643542,
+        "frames_count": 3
+    },
+    "024d8e664a5e9d395a04240ae294": {
+        "processing_time": 38.68325638771057,
+        "video_duration": 8.011979,
+        "frames_count": 7
+    },
+    "7e0386ea46bcaeb7fb1fda9fe099": {
+        "processing_time": 33.96641254425049,
+        "video_duration": 22.566667,
+        "frames_count": 13
+    },
+    "e026f6864bfc942af401180c690c": {
+        "processing_time": 23.669769525527954,
+        "video_duration": 9.171896,
+        "frames_count": 2
+    },
+    "4b31e19a4020a2e7910fac18638f": {
+        "processing_time": 55.35380816459656,
+        "video_duration": 39.451792,
+        "frames_count": 15
+    },
+    "b057e4294fcb8d6bcad9866e0896": {
+        "processing_time": 10.503421783447266,
+        "video_duration": 6.709771,
+        "frames_count": 3
+    },
+    "968bda624500a201a58ae3ee2807": {
+        "processing_time": 34.324379205703735,
+        "video_duration": 39.591125,
+        "frames_count": 5
+    },
+    "d56a480448b1bd48db320b84cba7": {
+        "processing_time": 108.1752200126648,
+        "video_duration": 59.884,
+        "frames_count": 15
+    },
+    "fbc0d59c4f9083a109c26ae6cb27": {
+        "processing_time": 48.29128170013428,
+        "video_duration": 33.483,
+        "frames_count": 15
+    },
+    "9764c62e4df6bc403da5666005b8": {
+        "processing_time": 49.48826599121094,
+        "video_duration": 22.976,
+        "frames_count": 15
+    },
+    "5453f3ad4ced8d23a814931e7cd3": {
+        "processing_time": 49.76155090332031,
+        "video_duration": 51.015333,
+        "frames_count": 15
+    },
+    "1d00fec44e4ba7a57e828c7bd238": {
+        "processing_time": 47.40526509284973,
+        "video_duration": 36.366667,
+        "frames_count": 15
+    },
+    "6955e8014fd2b73d4e3ec3a0c607": {
+        "processing_time": 37.97839021682739,
+        "video_duration": 19.882667,
+        "frames_count": 15
+    },
+    "755cb97448258eeffc4e9c4d406d": {
+        "processing_time": 35.74177145957947,
+        "video_duration": 6.616875,
+        "frames_count": 11
+    },
+    "f25212e94d2291f3c346f29db5f3": {
+        "processing_time": 40.66903567314148,
+        "video_duration": 16.880917,
+        "frames_count": 15
+    },
+    "8348d3d240b0a186d79f112c7a07": {
+        "processing_time": 34.32450604438782,
+        "video_duration": 25.402646,
+        "frames_count": 15
+    },
+    "f292ff824aafb62d1aad43752307": {
+        "processing_time": 24.535001039505005,
+        "video_duration": 9.311854,
+        "frames_count": 2
+    },
+    "10d60332485b807ea36f778230dd": {
+        "processing_time": 23.628185749053955,
+        "video_duration": 6.806625,
+        "frames_count": 12
+    },
+    "f69ed67d49b29d0584938e38af1a": {
+        "processing_time": 29.187596321105957,
+        "video_duration": 13.421,
+        "frames_count": 12
+    },
+    "a137d598447389577c83b2ed6d21": {
+        "processing_time": 33.20371389389038,
+        "video_duration": 18.808,
+        "frames_count": 8
+    },
+    "bb49684e4ac29e9a72f757433d24": {
+        "processing_time": 14.60473108291626,
+        "video_duration": 5.033333,
+        "frames_count": 4
+    },
+    "01ff35d84437afafadd31e142a90": {
+        "processing_time": 46.70272994041443,
+        "video_duration": 43.374896,
+        "frames_count": 15
+    },
+    "f455d14742098801a69872d44ac1": {
+        "processing_time": 83.70644068717957,
+        "video_duration": 22.406458,
+        "frames_count": 15
+    },
+    "f0dcdd114f6da6ce3d42cd5d637a": {
+        "processing_time": 40.306464433670044,
+        "video_duration": 7.871,
+        "frames_count": 13
+    },
+    "daec45484791b4137f118469a96c": {
+        "processing_time": 24.789715051651,
+        "video_duration": 19.945146,
+        "frames_count": 10
+    },
+    "4b2d67694761b2f0be53bbc3b68f": {
+        "processing_time": 35.39967179298401,
+        "video_duration": 21.083729,
+        "frames_count": 15
+    },
+    "a2311afc4a6688fd5cd7494f83e1": {
+        "processing_time": 32.47673487663269,
+        "video_duration": 12.470208,
+        "frames_count": 7
+    },
+    "a614c37448aca43cd7461c768b30": {
+        "processing_time": 44.66496968269348,
+        "video_duration": 25.96,
+        "frames_count": 15
+    },
+    "b7af507a42439fbec27ae4373e4d": {
+        "processing_time": 48.77299952507019,
+        "video_duration": 50.7,
+        "frames_count": 15
+    },
+    "653df26d4a599474eb69c2ced814": {
+        "processing_time": 44.936017751693726,
+        "video_duration": 17.623146,
+        "frames_count": 14
+    },
+    "371b510045b68960f9b596114cf7": {
+        "processing_time": 47.01287364959717,
+        "video_duration": 22.1,
+        "frames_count": 15
+    },
+    "458dc6fe4de39f2067023433fd56": {
+        "processing_time": 44.074843645095825,
+        "video_duration": 15.070417,
+        "frames_count": 15
+    },
+    "389463bb4d7099fbfbfa4bd6e402": {
+        "processing_time": 20.000312566757202,
+        "video_duration": 7.639,
+        "frames_count": 2
+    },
+    "9c2163844548b990b153f4e2deb0": {
+        "processing_time": 42.89116168022156,
+        "video_duration": 59.884,
+        "frames_count": 15
+    },
+    "6f85334c4b198cfd7735198c33b3": {
+        "processing_time": 31.099096298217773,
+        "video_duration": 10.426417,
+        "frames_count": 10
+    },
+    "58ac25164e84bb86be893e24a6cf": {
+        "processing_time": 47.62833070755005,
+        "video_duration": 13.305688,
+        "frames_count": 15
+    },
+    "3ce1fe684c6ebee2f9b91c162974": {
+        "processing_time": 39.10257148742676,
+        "video_duration": 6.664792,
+        "frames_count": 13
+    },
+    "9bd796254eb59545ed77641138c3": {
+        "processing_time": 20.825478076934814,
+        "video_duration": 15.061,
+        "frames_count": 8
+    },
+    "8e97507344968ade1eee9ab32ee2": {
+        "processing_time": 50.198517084121704,
+        "video_duration": 57.375708,
+        "frames_count": 15
+    },
+    "bc00a54e43d3852a9efcc3f7da44": {
+        "processing_time": 45.61458373069763,
+        "video_duration": 24.310479,
+        "frames_count": 15
+    },
+    "dcd000d04d799d8b55d34ac5cef9": {
+        "processing_time": 37.54190492630005,
+        "video_duration": 19.296438,
+        "frames_count": 15
+    },
+    "5c7b04b34275bd04275d4c55f009": {
+        "processing_time": 34.66146516799927,
+        "video_duration": 27.167,
+        "frames_count": 15
+    },
+    "d372d0924aec87e6d13b6bcbfe9d": {
+        "processing_time": 25.437105417251587,
+        "video_duration": 7.7,
+        "frames_count": 4
+    },
+    "2e8f4a4d4b769ce40082d293950b": {
+        "processing_time": 15.5567467212677,
+        "video_duration": 31.233333,
+        "frames_count": 4
+    },
+    "3671b9b64750baf6afd65c772420": {
+        "processing_time": 58.73767280578613,
+        "video_duration": 34.435,
+        "frames_count": 15
+    },
+    "9856981349d1a05181d860dde912": {
+        "processing_time": 42.72743630409241,
+        "video_duration": 51.455,
+        "frames_count": 15
+    },
+    "23da085445ec82b568084cc7fbd8": {
+        "processing_time": 30.347198009490967,
+        "video_duration": 32.266667,
+        "frames_count": 8
+    },
+    "bddba6fa4bc6959148d2911587c2": {
+        "processing_time": 82.43053936958313,
+        "video_duration": 33.182417,
+        "frames_count": 15
+    },
+    "8894e7364056837cfe759798336d": {
+        "processing_time": 42.2662193775177,
+        "video_duration": 11.121563,
+        "frames_count": 14
+    },
+    "342571614f6481eb9905513ffba0": {
+        "processing_time": 38.137858629226685,
+        "video_duration": 8.058417,
+        "frames_count": 10
+    },
+    "0d28e67b425d8c80a5b219c06483": {
+        "processing_time": 26.344539880752563,
+        "video_duration": 19.04,
+        "frames_count": 4
+    },
+    "425bbcbe45d3b670068b99916985": {
+        "processing_time": 28.396886110305786,
+        "video_duration": 10.844375,
+        "frames_count": 5
+    },
+    "5da131d24b29babbd0e47ba6b7f9": {
+        "processing_time": 45.07041311264038,
+        "video_duration": 8.853,
+        "frames_count": 15
+    },
+    "176fd40b40c99036e956625e3c84": {
+        "processing_time": 47.490044355392456,
+        "video_duration": 23.197833,
+        "frames_count": 15
+    },
+    "884e206d4b7cb91a7f0a089b100a": {
+        "processing_time": 45.524760246276855,
+        "video_duration": 42.562833,
+        "frames_count": 15
+    },
+    "22d2d8d34d348ffc947014ee683c": {
+        "processing_time": 34.06699013710022,
+        "video_duration": 25.564375,
+        "frames_count": 15
+    },
+    "bfbfce09463c82e1a052199aaf4f": {
+        "processing_time": 44.17408537864685,
+        "video_duration": 46.278458,
+        "frames_count": 15
+    },
+    "a64ab6554caa89e40d112d5f226b": {
+        "processing_time": 16.467947483062744,
+        "video_duration": 11.266667,
+        "frames_count": 5
+    },
+    "4678a2f44063a7ab248bea353ea0": {
+        "processing_time": 24.34596085548401,
+        "video_duration": 12.980604,
+        "frames_count": 9
+    },
+    "47ec0ad845d085957e88695f00d5": {
+        "processing_time": 31.414313077926636,
+        "video_duration": 7.174979,
+        "frames_count": 7
+    },
+    "f27ee0c640298e0123cdea701e8e": {
+        "processing_time": 32.36440849304199,
+        "video_duration": 17.671042,
+        "frames_count": 15
+    },
+    "8bf0fa0948ce88fb2eb7e8ed3bf1": {
+        "processing_time": 42.23348379135132,
+        "video_duration": 13.166375,
+        "frames_count": 15
+    },
+    "9fa43bc347058d5b17a6ff2e4cfd": {
+        "processing_time": 49.18617582321167,
+        "video_duration": 40.751,
+        "frames_count": 15
+    },
+    "99cd647643b38572b535afa40be7": {
+        "processing_time": 25.99389338493347,
+        "video_duration": 11.0,
+        "frames_count": 4
+    },
+    "755770c943b7b856db690d1fa360": {
+        "processing_time": 38.1503005027771,
+        "video_duration": 31.323729,
+        "frames_count": 15
+    },
+    "fd9dd3934b4abd436cfc35fd7293": {
+        "processing_time": 46.218520641326904,
+        "video_duration": 34.620146,
+        "frames_count": 15
+    },
+    "f32fabc746edbdcc93014888b304": {
+        "processing_time": 20.08341693878174,
+        "video_duration": 12.748417,
+        "frames_count": 7
+    },
+    "d15d453344cba726cfa7f3eee011": {
+        "processing_time": 49.719335079193115,
+        "video_duration": 8.769292,
+        "frames_count": 15
+    },
+    "8be7bce44eeba6520cf4b66fb24c": {
+        "processing_time": 32.68633055686951,
+        "video_duration": 10.008896,
+        "frames_count": 12
+    },
+    "5f8554744154aa7342a4f56bd10f": {
+        "processing_time": 28.55471110343933,
+        "video_duration": 11.052708,
+        "frames_count": 15
+    },
+    "978ac6ab4770a0a0da642c5f1268": {
+        "processing_time": 47.50244164466858,
+        "video_duration": 57.702688,
+        "frames_count": 15
+    },
+    "c1d990514fc2bbd4f2351a086a47": {
+        "processing_time": 37.2342324256897,
+        "video_duration": 5.780958,
+        "frames_count": 12
+    },
+    "2ed04bec42d3963bc409f2323599": {
+        "processing_time": 24.51253914833069,
+        "video_duration": 7.453,
+        "frames_count": 12
+    },
+    "a69611fa4bceb0069e5890ec4c51": {
+        "processing_time": 92.3089907169342,
+        "video_duration": 15.348,
+        "frames_count": 15
+    },
+    "4ae3227441e484f6b22364792ce7": {
+        "processing_time": 22.745800733566284,
+        "video_duration": 12.766667,
+        "frames_count": 2
+    },
+    "bc36db504bd28736dc8e355dadb5": {
+        "processing_time": 48.98703455924988,
+        "video_duration": 16.0,
+        "frames_count": 15
+    },
+    "47bee9674e19a0c7fed6b6db4830": {
+        "processing_time": 40.55103087425232,
+        "video_duration": 50.688,
+        "frames_count": 15
+    },
+    "e788e0cc4ccfb6ad33b08b66f208": {
+        "processing_time": 42.41942548751831,
+        "video_duration": 13.966667,
+        "frames_count": 15
+    },
+    "c5f8b4be4b388ef4ca3e0688e4a7": {
+        "processing_time": 36.33666682243347,
+        "video_duration": 24.07975,
+        "frames_count": 15
+    },
+    "f005d5144993a83c2f7be147a753": {
+        "processing_time": 47.99702858924866,
+        "video_duration": 39.404,
+        "frames_count": 15
+    },
+    "b126a7a04496a9340db37a468c8c": {
+        "processing_time": 23.048155069351196,
+        "video_duration": 14.396,
+        "frames_count": 2
+    },
+    "c93c91fa45ce82b4eeca1eb836c2": {
+        "processing_time": 50.388699769973755,
+        "video_duration": 31.552,
+        "frames_count": 15
+    },
+    "7d2dafd64721b719fb8a51956fa2": {
+        "processing_time": 39.02309560775757,
+        "video_duration": 33.715,
+        "frames_count": 11
+    },
+    "3407c602449bb2ebbad9cc12189d": {
+        "processing_time": 41.05233073234558,
+        "video_duration": 11.433333,
+        "frames_count": 15
+    },
+    "8c752ce2433eb798d689e4c09936": {
+        "processing_time": 17.44801092147827,
+        "video_duration": 10.008458,
+        "frames_count": 2
+    },
+    "9271ba4c4976b9e5132009fa5830": {
+        "processing_time": 43.52935791015625,
+        "video_duration": 16.601458,
+        "frames_count": 13
+    },
+    "d43e8f6e43f88ff234dbb600c7a0": {
+        "processing_time": 23.33542037010193,
+        "video_duration": 8.166667,
+        "frames_count": 10
+    },
+    "ef74943a4e3da8f1698f824910e0": {
+        "processing_time": 29.65422797203064,
+        "video_duration": 8.242271,
+        "frames_count": 15
+    },
+    "67a2c98040f88fb21b1d49716532": {
+        "processing_time": 78.58067107200623,
+        "video_duration": 44.582,
+        "frames_count": 15
+    },
+    "29c6d43541c3a4a69fd7f2660a85": {
+        "processing_time": 61.59138345718384,
+        "video_duration": 36.526083,
+        "frames_count": 15
+    },
+    "cdb68972469a90d787d6224f1829": {
+        "processing_time": 14.558141946792603,
+        "video_duration": 33.0,
+        "frames_count": 5
+    },
+    "60d68ede434b837fa2aceac8e524": {
+        "processing_time": 10.859451532363892,
+        "video_duration": 8.568813,
+        "frames_count": 2
+    },
+    "4d2f23ce44649af09905f30b8d8d": {
+        "processing_time": 44.36882162094116,
+        "video_duration": 38.429,
+        "frames_count": 15
+    },
+    "bc4d4af14783b11eb6f40b3d4e11": {
+        "processing_time": 12.986393690109253,
+        "video_duration": 6.033333,
+        "frames_count": 2
+    },
+    "71310d284ce38347b6b8de1abccd": {
+        "processing_time": 45.82452750205994,
+        "video_duration": 7.083188,
+        "frames_count": 14
+    },
+    "df3a6d7341f681e9432c680b34d6": {
+        "processing_time": 41.83008003234863,
+        "video_duration": 11.773604,
+        "frames_count": 15
+    },
+    "020654454f60a00234a00461515d": {
+        "processing_time": 30.14416193962097,
+        "video_duration": 23.616,
+        "frames_count": 13
+    },
+    "8047e03f43e985feaafe81b8cddb": {
+        "processing_time": 17.298537969589233,
+        "video_duration": 6.198917,
+        "frames_count": 2
+    },
+    "055ded7e41a5aaba17c5d1c3b39f": {
+        "processing_time": 39.44416666030884,
+        "video_duration": 40.287271,
+        "frames_count": 7
+    },
+    "857cc8084ec588b52d41b7f37c61": {
+        "processing_time": 26.871411323547363,
+        "video_duration": 32.809,
+        "frames_count": 4
+    },
+    "72f74ddb4df996f27cc2d93eee66": {
+        "processing_time": 51.34714078903198,
+        "video_duration": 59.477,
+        "frames_count": 15
+    },
+    "4eb8dd9f467b8b6d2d274c96029c": {
+        "processing_time": 22.667919397354126,
+        "video_duration": 6.4,
+        "frames_count": 2
+    },
+    "cce876c24b63a2db9fe0d7d97223": {
+        "processing_time": 14.990866422653198,
+        "video_duration": 9.869146,
+        "frames_count": 6
+    },
+    "b28d0de548dabe6ab3a92630609e": {
+        "processing_time": 35.457555055618286,
+        "video_duration": 42.189854,
+        "frames_count": 9
+    },
+    "238f2a4c41619ba2f2d7a44b6da6": {
+        "processing_time": 37.628095388412476,
+        "video_duration": 44.582,
+        "frames_count": 15
+    },
+    "b8d238ea44db833e0bb0ae6a62ec": {
+        "processing_time": 26.688726902008057,
+        "video_duration": 15.534,
+        "frames_count": 11
+    },
+    "177532cd4e80b0b28acdeb564c7b": {
+        "processing_time": 36.583189487457275,
+        "video_duration": 11.192,
+        "frames_count": 15
+    },
+    "2262e2b147a49d3b42e48941879b": {
+        "processing_time": 37.80974221229553,
+        "video_duration": 24.102,
+        "frames_count": 15
+    },
+    "1d088a9345408dc7dd4b6ba8502e": {
+        "processing_time": 7.495920419692993,
+        "video_duration": 5.688083,
+        "frames_count": 2
+    },
+    "b3888b82421ca9e83ac4fc607b10": {
+        "processing_time": 51.94163966178894,
+        "video_duration": 14.83675,
+        "frames_count": 15
+    },
+    "a7c5f1c54118990d8be6381478fb": {
+        "processing_time": 39.98650288581848,
+        "video_duration": 15.046,
+        "frames_count": 13
+    },
+    "fa982ecf4229972dc6a9b141d426": {
+        "processing_time": 8.721872568130493,
+        "video_duration": 9.728354,
+        "frames_count": 2
+    },
+    "eaa8e42a48cd9b3ea6802f93cf14": {
+        "processing_time": 51.03452706336975,
+        "video_duration": 23.801104,
+        "frames_count": 15
+    },
+    "a6fd16b24616a5e5a51965a99cc0": {
+        "processing_time": 24.161593914031982,
+        "video_duration": 10.100688,
+        "frames_count": 3
+    },
+    "b1e05da24e47978ab41a8b55f8ae": {
+        "processing_time": 39.05018424987793,
+        "video_duration": 23.706771,
+        "frames_count": 15
+    },
+    "01a289f24aac8913ea5f8457ae1e": {
+        "processing_time": 45.56547808647156,
+        "video_duration": 11.221,
+        "frames_count": 15
+    },
+    "85080fb649a2b347b7785a217f09": {
+        "processing_time": 44.91784143447876,
+        "video_duration": 36.433333,
+        "frames_count": 15
+    },
+    "bd0bb9c64f5283906a65c31d5dac": {
+        "processing_time": 66.72864437103271,
+        "video_duration": 47.717,
+        "frames_count": 15
+    },
+    "fde051b1447a9991a91cf0b6536e": {
+        "processing_time": 29.435173749923706,
+        "video_duration": 12.841292,
+        "frames_count": 15
+    },
+    "af7eaa0c4298a0194b3ce80d2c58": {
+        "processing_time": 47.12641525268555,
+        "video_duration": 9.960563,
+        "frames_count": 15
+    },
+    "7c8707b94fbdae5f9bf754e73faf": {
+        "processing_time": 37.40865993499756,
+        "video_duration": 47.905585,
+        "frames_count": 10
+    },
+    "97210c7746feac656240b7f587f9": {
+        "processing_time": 11.493292331695557,
+        "video_duration": 6.384688,
+        "frames_count": 5
+    },
+    "82aa84594c648c7df5646adfa8ba": {
+        "processing_time": 38.86246204376221,
+        "video_duration": 55.054,
+        "frames_count": 15
+    },
+    "53ff9f5f4aabbf0f91d747d8e11a": {
+        "processing_time": 38.91507959365845,
+        "video_duration": 22.069,
+        "frames_count": 15
+    },
+    "fd76c17d43e5b4fa6adee4563d79": {
+        "processing_time": 31.080994606018066,
+        "video_duration": 17.856,
+        "frames_count": 15
+    },
+    "b897b507413489bd61b6cedc99cd": {
+        "processing_time": 41.58682298660278,
+        "video_duration": 10.008896,
+        "frames_count": 15
+    },
+    "d56ae6914245a93bc5088c1bf8e3": {
+        "processing_time": 25.940855741500854,
+        "video_duration": 9.566667,
+        "frames_count": 13
+    },
+    "f98971f144d2a178cda4cc29d64e": {
+        "processing_time": 25.8737895488739,
+        "video_duration": 7.933333,
+        "frames_count": 4
+    },
+    "c4ab38ba4fcbaa87d632742fcf22": {
+        "processing_time": 36.94924020767212,
+        "video_duration": 39.775792,
+        "frames_count": 15
+    },
+    "a5a958d0435492f2206ab596375a": {
+        "processing_time": 42.97981548309326,
+        "video_duration": 18.878479,
+        "frames_count": 15
+    },
+    "127521014e2785e34a5600c56fd0": {
+        "processing_time": 7.369454622268677,
+        "video_duration": 4.3,
+        "frames_count": 2
+    },
+    "6429aeb0459ca5841857e6b571ff": {
+        "processing_time": 12.50057053565979,
+        "video_duration": 7.314,
+        "frames_count": 2
+    },
+    "ffb446f04c45bc18d4c7694fecae": {
+        "processing_time": 24.25498676300049,
+        "video_duration": 15.146667,
+        "frames_count": 2
+    },
+    "247b57554652b1a2234dc719cb99": {
+        "processing_time": 33.39877200126648,
+        "video_duration": 42.91,
+        "frames_count": 12
+    },
+    "26d863ff4f2388b52342bab13319": {
+        "processing_time": 16.678998231887817,
+        "video_duration": 5.526,
+        "frames_count": 7
+    },
+    "4f855d73410db9ed97f0576a5f39": {
+        "processing_time": 44.408512115478516,
+        "video_duration": 41.679833,
+        "frames_count": 14
+    },
+    "784ce28646a991a34f1ee2dbb3dc": {
+        "processing_time": 26.503838777542114,
+        "video_duration": 27.615385,
+        "frames_count": 4
+    },
+    "9143395c48e383d0ddec18753e0a": {
+        "processing_time": 49.841557264328,
+        "video_duration": 34.9,
+        "frames_count": 15
+    },
+    "f88cbeea4fa29ca7498cae9261a5": {
+        "processing_time": 43.720152139663696,
+        "video_duration": 28.490083,
+        "frames_count": 15
+    },
+    "cbef16314b1f9096b464c38441e0": {
+        "processing_time": 42.07181119918823,
+        "video_duration": 53.661,
+        "frames_count": 15
+    },
+    "b3a3b4464cd8aaeca3f9270cc6c7": {
+        "processing_time": 44.565022468566895,
+        "video_duration": 54.288,
+        "frames_count": 14
+    },
+    "38843ecd4b678ceed557295e3a07": {
+        "processing_time": 44.16290783882141,
+        "video_duration": 23.445,
+        "frames_count": 15
+    },
+    "b086d9e64106b8711b9234bffae2": {
+        "processing_time": 45.77127933502197,
+        "video_duration": 40.733333,
+        "frames_count": 15
+    },
+    "e0e688af425faf0fcd0de20e21a3": {
+        "processing_time": 31.970529317855835,
+        "video_duration": 29.51175,
+        "frames_count": 14
+    },
+    "5d485ba24dc1a9756e162a133e8b": {
+        "processing_time": 19.146854877471924,
+        "video_duration": 6.293,
+        "frames_count": 9
+    },
+    "15c8d543413bab4e0b8c0896d036": {
+        "processing_time": 37.00111508369446,
+        "video_duration": 26.966667,
+        "frames_count": 15
+    },
+    "d3a0c8284d3da5dc40615e344dbf": {
+        "processing_time": 39.354732513427734,
+        "video_duration": 15.253,
+        "frames_count": 15
+    },
+    "9f4426e443f68517456fb7a528ba": {
+        "processing_time": 16.38091015815735,
+        "video_duration": 59.9,
+        "frames_count": 2
+    },
+    "33557d424afe82f99b65901d8f05": {
+        "processing_time": 55.338258028030396,
+        "video_duration": 29.696,
+        "frames_count": 15
+    },
+    "a0c0c350405c9cd63db9c3ed85ec": {
+        "processing_time": 36.79278898239136,
+        "video_duration": 21.849167,
+        "frames_count": 12
+    },
+    "9b3746c246d98a6ccc4af76fbcea": {
+        "processing_time": 69.20112562179565,
+        "video_duration": 29.433333,
+        "frames_count": 14
+    },
+    "465ec76a4e2d80c3794e061ab41b": {
+        "processing_time": 41.847938776016235,
+        "video_duration": 13.166917,
+        "frames_count": 15
+    },
+    "b25bdb3448779433fa15577404f1": {
+        "processing_time": 35.836533308029175,
+        "video_duration": 18.737708,
+        "frames_count": 15
+    },
+    "ec71457149c893a2b10ef5662631": {
+        "processing_time": 50.811206102371216,
+        "video_duration": 32.764021,
+        "frames_count": 15
+    },
+    "9a64c9574e7c8b44f3120f4c7cd7": {
+        "processing_time": 28.86346936225891,
+        "video_duration": 15.4,
+        "frames_count": 6
+    },
+    "188f622d467aba40388154ea9bd7": {
+        "processing_time": 10.968770027160645,
+        "video_duration": 7.315375,
+        "frames_count": 3
+    },
+    "a26d350a49128c7888a54a1f6a0e": {
+        "processing_time": 26.52419662475586,
+        "video_duration": 11.447,
+        "frames_count": 4
+    },
+    "016f65314b688ba7b5db7fbdbdec": {
+        "processing_time": 14.852469444274902,
+        "video_duration": 20.318125,
+        "frames_count": 6
+    },
+    "8808b3444e36880b563c292b9538": {
+        "processing_time": 28.273223638534546,
+        "video_duration": 11.309208,
+        "frames_count": 15
+    },
+    "4300d92844c49de43bcb45673c85": {
+        "processing_time": 44.26005482673645,
+        "video_duration": 8.618667,
+        "frames_count": 15
+    },
+    "988ffa02435f9fb93cb588b532a6": {
+        "processing_time": 47.72833228111267,
+        "video_duration": 24.497,
+        "frames_count": 15
+    },
+    "fbc2f90a4fd7b09079fdd78bc168": {
+        "processing_time": 42.47357106208801,
+        "video_duration": 20.178,
+        "frames_count": 15
+    },
+    "96f967944c32be90284871467499": {
+        "processing_time": 23.692867517471313,
+        "video_duration": 11.215896,
+        "frames_count": 2
+    },
+    "49c52e754a359bbc5c748e9683f1": {
+        "processing_time": 55.76119065284729,
+        "video_duration": 6.989,
+        "frames_count": 14
+    },
+    "236301d44c0aa709933734f2649e": {
+        "processing_time": 52.16698360443115,
+        "video_duration": 57.877,
+        "frames_count": 15
+    },
+    "c23d860b4db8a01f02725a917ad9": {
+        "processing_time": 155.54357361793518,
+        "video_duration": 29.512,
+        "frames_count": 15
+    },
+    "d34004fc418fabc18da35b99e2aa": {
+        "processing_time": 42.58958029747009,
+        "video_duration": 25.984,
+        "frames_count": 15
+    },
+    "2fd8f69643d6b17637e001e53819": {
+        "processing_time": 16.795187950134277,
+        "video_duration": 35.874021,
+        "frames_count": 5
+    },
+    "229998814a1fae6043de2a31d422": {
+        "processing_time": 14.5179443359375,
+        "video_duration": 15.070417,
+        "frames_count": 2
+    },
+    "4ef63bc44940935eede69e46df8e": {
+        "processing_time": 35.75038480758667,
+        "video_duration": 46.533333,
+        "frames_count": 15
+    },
+    "a1e0712e4553b5f4d094ffe09228": {
+        "processing_time": 50.27572536468506,
+        "video_duration": 28.631292,
+        "frames_count": 14
+    },
+    "e135e054496185d6b3677b143cc8": {
+        "processing_time": 27.99477529525757,
+        "video_duration": 19.620875,
+        "frames_count": 5
+    },
+    "b359233541c98885c100d763d24f": {
+        "processing_time": 149.9461328983307,
+        "video_duration": 44.4,
+        "frames_count": 7
+    },
+    "0424f65a4214a18d322bf583777e": {
+        "processing_time": 47.33935070037842,
+        "video_duration": 21.804188,
+        "frames_count": 15
+    },
+    "2d6348164fee849b07f8b289aa86": {
+        "processing_time": 48.13333559036255,
+        "video_duration": 20.643646,
+        "frames_count": 15
+    },
+    "b778a85046d794ab841a0194f040": {
+        "processing_time": 43.991912841796875,
+        "video_duration": 22.244729,
+        "frames_count": 15
+    },
+    "4accea9c470198c46602f5572c66": {
+        "processing_time": 32.7808313369751,
+        "video_duration": 27.168771,
+        "frames_count": 15
+    },
+    "2f9e82344250b32663a2a0c28348": {
+        "processing_time": 14.385361671447754,
+        "video_duration": 5.596667,
+        "frames_count": 2
+    },
+    "361ba6c24a82bd898bc4ce07acf7": {
+        "processing_time": 38.79583764076233,
+        "video_duration": 42.098875,
+        "frames_count": 15
+    },
+    "67d3403449a292c1d503259161fb": {
+        "processing_time": 17.437504053115845,
+        "video_duration": 12.05225,
+        "frames_count": 2
+    },
+    "5166b2e64b81857b9801b3d6a41b": {
+        "processing_time": 29.72636914253235,
+        "video_duration": 9.078188,
+        "frames_count": 14
+    },
+    "4440b199448b949b1d492676e967": {
+        "processing_time": 35.20489835739136,
+        "video_duration": 9.219417,
+        "frames_count": 10
+    },
+    "72ea01a848e8808e60b2f4db4069": {
+        "processing_time": 33.26860547065735,
+        "video_duration": 11.772,
+        "frames_count": 15
+    },
+    "b320688a4c7b8f56380f836379d9": {
+        "processing_time": 45.84612226486206,
+        "video_duration": 46.718,
+        "frames_count": 15
+    },
+    "53ab6c804659bf388816b893b44b": {
+        "processing_time": 27.091965198516846,
+        "video_duration": 23.793103,
+        "frames_count": 12
+    },
+    "ad6932e54e3aa2fa3e318560c1c8": {
+        "processing_time": 27.096190690994263,
+        "video_duration": 3.181792,
+        "frames_count": 5
+    },
+    "625d83c24b548a28bd2d4aa6562c": {
+        "processing_time": 13.521281480789185,
+        "video_duration": 12.840646,
+        "frames_count": 2
+    },
+    "2c3178c84bd8b21da5e33a495d31": {
+        "processing_time": 43.67715787887573,
+        "video_duration": 13.817167,
+        "frames_count": 11
+    },
+    "51355b694e4b85d8b7da049b8f89": {
+        "processing_time": 50.98879408836365,
+        "video_duration": 46.138,
+        "frames_count": 15
+    },
+    "e020745a4fdd92c7b789bc031c28": {
+        "processing_time": 28.3324077129364,
+        "video_duration": 7.733333,
+        "frames_count": 6
+    },
+    "c207bf434acf8d199dbc901f67f8": {
+        "processing_time": 14.299130201339722,
+        "video_duration": 10.239188,
+        "frames_count": 5
+    },
+    "3229bd7241acbae3b2a5354c9ec5": {
+        "processing_time": 49.81093072891235,
+        "video_duration": 30.115479,
+        "frames_count": 15
+    },
+    "266296e94521a7cecd2b9abea018": {
+        "processing_time": 45.85815691947937,
+        "video_duration": 19.11,
+        "frames_count": 15
+    },
+    "b74fd07f48ce95599c3f61ed5223": {
+        "processing_time": 30.81904101371765,
+        "video_duration": 6.0,
+        "frames_count": 7
+    },
+    "49b641bb4f0bb3e1cf3d7986e521": {
+        "processing_time": 22.48338007926941,
+        "video_duration": 7.267042,
+        "frames_count": 2
+    },
+    "e4739d1140e5885098409eb0c9b1": {
+        "processing_time": 7.642163276672363,
+        "video_duration": 5.037917,
+        "frames_count": 2
+    },
+    "bcc726eb40a3997b5c974f61fa6d": {
+        "processing_time": 48.49755549430847,
+        "video_duration": 57.70225,
+        "frames_count": 15
+    },
+    "5377edf749059d430e02b94a3040": {
+        "processing_time": 44.69373321533203,
+        "video_duration": 19.574,
+        "frames_count": 15
+    },
+    "0f29ac9f4cc388a6c021bbcbc65b": {
+        "processing_time": 15.615607976913452,
+        "video_duration": 36.942958,
+        "frames_count": 3
+    },
+    "6053939b42ce8f153e46e60df430": {
+        "processing_time": 27.131710052490234,
+        "video_duration": 9.566667,
+        "frames_count": 8
+    },
+    "5908c66b4ebd9d68c3352aa69e35": {
+        "processing_time": 33.340798139572144,
+        "video_duration": 15.023,
+        "frames_count": 11
+    },
+    "c9170b004918944e54fcee070068": {
+        "processing_time": 46.73698592185974,
+        "video_duration": 30.022604,
+        "frames_count": 15
+    },
+    "fb988fa84b289353c8e21427f8fe": {
+        "processing_time": 30.638310432434082,
+        "video_duration": 4.761292,
+        "frames_count": 7
+    },
+    "ff209c664f41a047ea5fbb60db9c": {
+        "processing_time": 37.7231125831604,
+        "video_duration": 14.433333,
+        "frames_count": 15
+    },
+    "7a6992434390871521c4e7bd0535": {
+        "processing_time": 26.77788257598877,
+        "video_duration": 11.307313,
+        "frames_count": 14
+    },
+    "ca912e0641c5a95500397d8b55b7": {
+        "processing_time": 44.60275197029114,
+        "video_duration": 26.133333,
+        "frames_count": 15
+    },
+    "d6663f0d419a961289835eef4a3d": {
+        "processing_time": 41.14350938796997,
+        "video_duration": 27.766667,
+        "frames_count": 15
+    },
+    "bdb6f11d46fc8ee60060c11a455b": {
+        "processing_time": 40.04011106491089,
+        "video_duration": 15.256167,
+        "frames_count": 15
+    },
+    "584fcc1f416b8d0901521a1e70e0": {
+        "processing_time": 115.8666136264801,
+        "video_duration": 16.603375,
+        "frames_count": 15
+    },
+    "0b495ae04047a41e70d23889b867": {
+        "processing_time": 45.945637702941895,
+        "video_duration": 23.430042,
+        "frames_count": 15
+    },
+    "7dee57464143ab012d0340222552": {
+        "processing_time": 50.981632471084595,
+        "video_duration": 46.881,
+        "frames_count": 15
+    },
+    "1bddbbda43e3a66e751cd56bed8c": {
+        "processing_time": 43.62556982040405,
+        "video_duration": 24.149,
+        "frames_count": 15
+    },
+    "6478c1c244cea09cecc2ba0c8278": {
+        "processing_time": 37.43899750709534,
+        "video_duration": 27.423854,
+        "frames_count": 15
+    },
+    "cbbcc1dc4399a2ac10df373a5739": {
+        "processing_time": 22.532730102539062,
+        "video_duration": 6.385,
+        "frames_count": 2
+    },
+    "a337b18c47f88dfbd3a0c9e23736": {
+        "processing_time": 30.101271629333496,
+        "video_duration": 27.266667,
+        "frames_count": 15
+    },
+    "32a3a7a54599b14ac9496c044bd3": {
+        "processing_time": 10.211407899856567,
+        "video_duration": 7.547146,
+        "frames_count": 3
+    },
+    "cea8ca7841dabc80c833bc8318c6": {
+        "processing_time": 33.42776012420654,
+        "video_duration": 8.666667,
+        "frames_count": 11
+    },
+    "9ca7a7764816bf5762b90c4977d7": {
+        "processing_time": 38.052544355392456,
+        "video_duration": 6.756208,
+        "frames_count": 13
+    },
+    "056e6dcc421d8486552696ada3b5": {
+        "processing_time": 59.53269290924072,
+        "video_duration": 23.151396,
+        "frames_count": 7
+    },
+    "4a4fea60469287ca1e960da47f3c": {
+        "processing_time": 44.423401832580566,
+        "video_duration": 37.268,
+        "frames_count": 15
+    },
+    "db55d5fe43789a9566f11ee5887f": {
+        "processing_time": 27.668792724609375,
+        "video_duration": 12.912913,
+        "frames_count": 5
+    },
+    "7dc24de34479985bbada019a2b15": {
+        "processing_time": 50.25994515419006,
+        "video_duration": 59.883458,
+        "frames_count": 15
+    },
+    "cb55b69b4f6d8eb57273d3a9575c": {
+        "processing_time": 17.11630392074585,
+        "video_duration": 5.827396,
+        "frames_count": 2
+    },
+    "f9bd22654c22b7d17df423b3a8da": {
+        "processing_time": 36.46244525909424,
+        "video_duration": 29.533333,
+        "frames_count": 13
+    },
+    "21f018c248ab9bee658859a3b273": {
+        "processing_time": 33.199013233184814,
+        "video_duration": 15.371,
+        "frames_count": 8
+    },
+    "c03b329741c48c3ed2316411ceba": {
+        "processing_time": 57.59242033958435,
+        "video_duration": 57.408,
+        "frames_count": 15
+    },
+    "e91b18644fe09c6e9ef4df9bfea8": {
+        "processing_time": 28.83058500289917,
+        "video_duration": 46.068,
+        "frames_count": 5
+    },
+    "87882072421ca166b83f8d8c7369": {
+        "processing_time": 34.20764660835266,
+        "video_duration": 8.522813,
+        "frames_count": 7
+    },
+    "e14deca7477a83653a7a93d7f1fd": {
+        "processing_time": 9.505757331848145,
+        "video_duration": 14.381048,
+        "frames_count": 2
+    },
+    "3af71cf648a09100dd46656d5101": {
+        "processing_time": 47.21261548995972,
+        "video_duration": 47.577688,
+        "frames_count": 15
+    },
+    "732c00fe4170a93bc4afa21b3e42": {
+        "processing_time": 43.48559832572937,
+        "video_duration": 31.648813,
+        "frames_count": 15
+    },
+    "db16d6034012b8b2a856a48e29e5": {
+        "processing_time": 8.674171447753906,
+        "video_duration": 15.069771,
+        "frames_count": 2
+    },
+    "dcbe9d404a7b882855e6bd5aba3b": {
+        "processing_time": 47.974690198898315,
+        "video_duration": 51.328,
+        "frames_count": 15
+    },
+    "408bf6dd4afaa989d9880c1a977d": {
+        "processing_time": 7.456161260604858,
+        "video_duration": 7.919208,
+        "frames_count": 2
+    },
+    "81b6519a4cfca5056afe7e10c6e1": {
+        "processing_time": 8.272470712661743,
+        "video_duration": 15.033333,
+        "frames_count": 2
+    },
+    "dc72ff7945acbb9993364feffed4": {
+        "processing_time": 52.160943269729614,
+        "video_duration": 21.526,
+        "frames_count": 15
+    },
+    "77ce9f3f44649319f4c842d9aa5f": {
+        "processing_time": 34.645296812057495,
+        "video_duration": 53.707771,
+        "frames_count": 15
+    },
+    "35fcad274a00a3eb96d904478b6c": {
+        "processing_time": 43.31368684768677,
+        "video_duration": 14.978063,
+        "frames_count": 15
+    },
+    "2230784c4e57a5123120d1bef21a": {
+        "processing_time": 42.899659156799316,
+        "video_duration": 45.533333,
+        "frames_count": 15
+    },
+    "18eea34841a282670801a7b10923": {
+        "processing_time": 19.66261100769043,
+        "video_duration": 13.582875,
+        "frames_count": 7
+    },
+    "520e7ab541f3bc1325a539026af6": {
+        "processing_time": 46.563805103302,
+        "video_duration": 30.812083,
+        "frames_count": 15
+    },
+    "e48acbf24ab885b3f9c2a36b90fe": {
+        "processing_time": 38.101784467697144,
+        "video_duration": 19.712938,
+        "frames_count": 15
+    },
+    "4dd3388348df8b3c4ab47559244d": {
+        "processing_time": 29.438687086105347,
+        "video_duration": 15.068938,
+        "frames_count": 11
+    },
+    "5f8d63ea49a2842a89c9626b7020": {
+        "processing_time": 42.586257457733154,
+        "video_duration": 15.451,
+        "frames_count": 15
+    },
+    "2d2b2a544cee9af14cc113d691e5": {
+        "processing_time": 29.440983772277832,
+        "video_duration": 9.078188,
+        "frames_count": 14
+    },
+    "6f5c3f9a4911a6c22108609f418e": {
+        "processing_time": 46.915855884552,
+        "video_duration": 52.686,
+        "frames_count": 15
+    },
+    "483a6070421e93f5bc124d9b03e0": {
+        "processing_time": 39.56375551223755,
+        "video_duration": 57.817688,
+        "frames_count": 15
+    },
+    "a23c0d1140db8482c4d05b7584bb": {
+        "processing_time": 7.7887022495269775,
+        "video_duration": 8.847458,
+        "frames_count": 2
+    },
+    "6c658a534dd889165a2bb663c0b2": {
+        "processing_time": 27.614360809326172,
+        "video_duration": 14.325917,
+        "frames_count": 2
+    },
+    "c308ba7748deb63106220f67a9aa": {
+        "processing_time": 59.81766486167908,
+        "video_duration": 53.056,
+        "frames_count": 15
+    },
+    "dcceaa38435ca587249c56e80ca7": {
+        "processing_time": 34.7044951915741,
+        "video_duration": 36.013354,
+        "frames_count": 15
+    },
+    "4234c43d4c28aeb0fa597726b213": {
+        "processing_time": 121.68151807785034,
+        "video_duration": 59.946667,
+        "frames_count": 15
+    },
+    "d13c38b14cfea70a54056a5eef5e": {
+        "processing_time": 40.338005781173706,
+        "video_duration": 14.590771,
+        "frames_count": 15
+    },
+    "2c4ef45845939bf3355656405965": {
+        "processing_time": 21.106838703155518,
+        "video_duration": 7.081271,
+        "frames_count": 3
+    },
+    "28a181f14c8eb9664edad9155c6a": {
+        "processing_time": 23.847497940063477,
+        "video_duration": 25.473396,
+        "frames_count": 7
+    },
+    "55591ca94e36ab40867864009232": {
+        "processing_time": 51.43884205818176,
+        "video_duration": 39.404,
+        "frames_count": 15
+    },
+    "3b5a1a494f1796ab6953c4eb5de4": {
+        "processing_time": 8.895984649658203,
+        "video_duration": 6.663313,
+        "frames_count": 2
+    },
+    "495a15f948b5ace49de91c617c34": {
+        "processing_time": 12.711950778961182,
+        "video_duration": 8.753938,
+        "frames_count": 3
+    },
+    "115d1262439bb5ebbddad11fb95c": {
+        "processing_time": 48.04150414466858,
+        "video_duration": 19.529167,
+        "frames_count": 15
+    },
+    "56ea37bb4ec3b9bad4c6148d3531": {
+        "processing_time": 22.68864345550537,
+        "video_duration": 15.0225,
+        "frames_count": 2
+    },
+    "2c64747f42df968933181e53a859": {
+        "processing_time": 57.47550582885742,
+        "video_duration": 40.055521,
+        "frames_count": 15
+    },
+    "49659e5741c8905c371d85b0090f": {
+        "processing_time": 51.192060708999634,
+        "video_duration": 12.533333,
+        "frames_count": 11
+    },
+    "af0a0ab0429d95fca796ce1e9106": {
+        "processing_time": 29.377253532409668,
+        "video_duration": 12.423333,
+        "frames_count": 5
+    },
+    "985f27da4684af3d3adc67ab1472": {
+        "processing_time": 54.18737053871155,
+        "video_duration": 50.178979,
+        "frames_count": 15
+    },
+    "1d5327524aed984a5dfab98c21d1": {
+        "processing_time": 23.858535528182983,
+        "video_duration": 14.000833,
+        "frames_count": 2
+    },
+    "ac9892af46a9a89d06ae2843fc2d": {
+        "processing_time": 48.74208402633667,
+        "video_duration": 55.424,
+        "frames_count": 15
+    },
+    "46b91ad841898ad8e96d2cf05146": {
+        "processing_time": 41.16931128501892,
+        "video_duration": 10.285625,
+        "frames_count": 15
+    },
+    "11211e1844778296a6cefc2e2377": {
+        "processing_time": 44.691134214401245,
+        "video_duration": 38.133333,
+        "frames_count": 15
+    },
+    "ff28748349c7b60ba3edb98fae7b": {
+        "processing_time": 42.98912215232849,
+        "video_duration": 45.302,
+        "frames_count": 15
+    },
+    "ac2b14a0417f81d0b366e747a144": {
+        "processing_time": 46.82818675041199,
+        "video_duration": 36.548,
+        "frames_count": 15
+    },
+    "1a98f8ca48ee869c1149c7ee53a0": {
+        "processing_time": 27.713632106781006,
+        "video_duration": 11.54,
+        "frames_count": 10
+    },
+    "a75aa6c848b2868a7ec2773e7413": {
+        "processing_time": 39.49543809890747,
+        "video_duration": 11.494979,
+        "frames_count": 15
+    },
+    "121f545e4e49b51f8a081b2b2bc3": {
+        "processing_time": 35.816455125808716,
+        "video_duration": 6.153,
+        "frames_count": 11
+    },
+    "53855435482a88b0688298008c37": {
+        "processing_time": 14.905244827270508,
+        "video_duration": 17.833333,
+        "frames_count": 6
+    },
+    "06b2d77e4cc3b0e99f047346dc0f": {
+        "processing_time": 40.698575019836426,
+        "video_duration": 45.371792,
+        "frames_count": 15
+    },
+    "dd64a9b640ae99e4c495165e219c": {
+        "processing_time": 24.256320476531982,
+        "video_duration": 10.333542,
+        "frames_count": 9
+    },
+    "71bf800c40cc939fafc3b5006d6f": {
+        "processing_time": 24.68061852455139,
+        "video_duration": 15.185854,
+        "frames_count": 3
+    },
+    "bf6ff3254c7797dea1e01c207333": {
+        "processing_time": 34.5419397354126,
+        "video_duration": 26.634375,
+        "frames_count": 5
+    },
+    "d5f06b67439bb4718a4c5de6b6ed": {
+        "processing_time": 41.386393785476685,
+        "video_duration": 40.472,
+        "frames_count": 15
+    },
+    "7b3c63b949b9b7e9b80a5b51f84b": {
+        "processing_time": 8.901623725891113,
+        "video_duration": 32.113,
+        "frames_count": 2
+    },
+    "2247bf994f6fb62505166275ef98": {
+        "processing_time": 23.225908279418945,
+        "video_duration": 24.009,
+        "frames_count": 7
+    },
+    "ea418097448f8e9ad6fffa9eb09a": {
+        "processing_time": 9.953590393066406,
+        "video_duration": 12.841729,
+        "frames_count": 2
+    },
+    "0ff7640d4da8ba0ebc19cfc22cdf": {
+        "processing_time": 45.03981566429138,
+        "video_duration": 36.572521,
+        "frames_count": 15
+    },
+    "a1087cb948b194d1a7751feb702f": {
+        "processing_time": 41.465092420578,
+        "video_duration": 25.147875,
+        "frames_count": 15
+    },
+    "b9d3e8dd46d58f0d62f39512a587": {
+        "processing_time": 32.85189771652222,
+        "video_duration": 7.545688,
+        "frames_count": 12
+    },
+    "3f5879154ca08d2f52242b08feca": {
+        "processing_time": 22.82460618019104,
+        "video_duration": 11.266667,
+        "frames_count": 2
+    },
+    "350c3f074b43a920db548ef8e841": {
+        "processing_time": 24.97501277923584,
+        "video_duration": 7.175625,
+        "frames_count": 4
+    },
+    "aa24a1764b9da681700f88e13265": {
+        "processing_time": 34.7346773147583,
+        "video_duration": 22.133333,
+        "frames_count": 15
+    },
+    "625a146f4b46badbeae948c6e4be": {
+        "processing_time": 48.39636206626892,
+        "video_duration": 56.447729,
+        "frames_count": 15
+    },
+    "a76ebebd4edaa368a2a8fc86476d": {
+        "processing_time": 42.34585189819336,
+        "video_duration": 10.147771,
+        "frames_count": 15
+    },
+    "e9ca24e84ac09416f2350b1e12ce": {
+        "processing_time": 37.76247048377991,
+        "video_duration": 12.633333,
+        "frames_count": 12
+    },
+    "453d5a654ecc9faaa1d14265b7fa": {
+        "processing_time": 25.1131010055542,
+        "video_duration": 15.1,
+        "frames_count": 12
+    },
+    "badf206c4daf9905c34ca9949c2a": {
+        "processing_time": 28.897257566452026,
+        "video_duration": 10.433333,
+        "frames_count": 6
+    },
+    "3eedbd02460eb14d38234b3db222": {
+        "processing_time": 7.411094665527344,
+        "video_duration": 3.366083,
+        "frames_count": 2
+    },
+    "d22d31c840b3877a090a5194a2a9": {
+        "processing_time": 46.08669424057007,
+        "video_duration": 15.018667,
+        "frames_count": 15
+    },
+    "4fa175574608858bf19a6a546976": {
+        "processing_time": 27.003900051116943,
+        "video_duration": 17.485729,
+        "frames_count": 11
+    },
+    "b999c9334be6b484310138c1b670": {
+        "processing_time": 51.19781494140625,
+        "video_duration": 10.19275,
+        "frames_count": 15
+    },
+    "61f357ea4681aa25bcc1346b1b84": {
+        "processing_time": 43.48366093635559,
+        "video_duration": 18.969896,
+        "frames_count": 15
+    },
+    "a24940c34eafa4ae17da8e668e8e": {
+        "processing_time": 37.30128788948059,
+        "video_duration": 34.266667,
+        "frames_count": 13
+    },
+    "32b739c54b2890dea8bd4b9cd363": {
+        "processing_time": 22.94644808769226,
+        "video_duration": 18.7,
+        "frames_count": 6
+    },
+    "b92f2b694491a4beb3802a81d20e": {
+        "processing_time": 38.892497539520264,
+        "video_duration": 35.968813,
+        "frames_count": 15
+    },
+    "7198271e4f17b8c3d6eb647d1a06": {
+        "processing_time": 46.60132908821106,
+        "video_duration": 32.633333,
+        "frames_count": 13
+    },
+    "2e7bf8664daba56cbc8d06ce5d6e": {
+        "processing_time": 46.61581897735596,
+        "video_duration": 31.021875,
+        "frames_count": 15
+    },
+    "b4f8a7eb4eb98ac9ef5cd7550ba1": {
+        "processing_time": 44.04001259803772,
+        "video_duration": 17.299958,
+        "frames_count": 15
+    },
+    "abc9384a48d1be5314ac7a722210": {
+        "processing_time": 22.732037782669067,
+        "video_duration": 21.802729,
+        "frames_count": 2
+    },
+    "d63ea85d4458bbb179c21cd2b146": {
+        "processing_time": 57.936742305755615,
+        "video_duration": 57.5,
+        "frames_count": 15
+    },
+    "d8452ff0421dbd4a43aa2a4c328d": {
+        "processing_time": 40.26829528808594,
+        "video_duration": 13.907938,
+        "frames_count": 13
+    },
+    "64fa6c9d4495b39a32e274d6fd93": {
+        "processing_time": 47.21364092826843,
+        "video_duration": 59.466667,
+        "frames_count": 15
+    },
+    "8759d7c643459cfba2e36be59d43": {
+        "processing_time": 35.488126039505005,
+        "video_duration": 32.133333,
+        "frames_count": 15
+    },
+    "f27bf31647eeb5f516a766f345a7": {
+        "processing_time": 42.98504686355591,
+        "video_duration": 11.633333,
+        "frames_count": 15
+    },
+    "473e9ead48fdb385b7b676052ed3": {
+        "processing_time": 42.29717469215393,
+        "video_duration": 7.848,
+        "frames_count": 15
+    },
+    "01fe1d164017945f823bca824574": {
+        "processing_time": 47.40320563316345,
+        "video_duration": 39.133333,
+        "frames_count": 7
+    },
+    "e578e5a549ba8ce59c58caf986d4": {
+        "processing_time": 50.51108694076538,
+        "video_duration": 30.511,
+        "frames_count": 15
+    },
+    "b1a13a944fd7b723a71e5a5348a6": {
+        "processing_time": 58.75021529197693,
+        "video_duration": 52.175896,
+        "frames_count": 15
+    },
+    "1a1fcace4b0a8f77457138a11ed0": {
+        "processing_time": 45.54432415962219,
+        "video_duration": 8.7,
+        "frames_count": 15
+    },
+    "c354c47b4a1d9fa8e40e945a3624": {
+        "processing_time": 30.783005714416504,
+        "video_duration": 16.671938,
+        "frames_count": 7
+    },
+    "1f4996404f2690f52c7a0b0ca0cf": {
+        "processing_time": 20.468811511993408,
+        "video_duration": 6.525458,
+        "frames_count": 8
+    },
+    "6d4ce244429fa3bbad5f1ec57b8e": {
+        "processing_time": 26.706523895263672,
+        "video_duration": 48.135625,
+        "frames_count": 4
+    },
+    "de0ee496458a835ba8904cc461ff": {
+        "processing_time": 40.01329278945923,
+        "video_duration": 7.2685,
+        "frames_count": 9
+    },
+    "5ab3be394117afa1b2c7c03b57d4": {
+        "processing_time": 22.35744571685791,
+        "video_duration": 5.8,
+        "frames_count": 3
+    },
+    "35fbf9704acc9d0e3888cd6df306": {
+        "processing_time": 41.130266189575195,
+        "video_duration": 14.233333,
+        "frames_count": 12
+    },
+    "9594ff9b49878a11e1d7fe1b4212": {
+        "processing_time": 22.190553903579712,
+        "video_duration": 5.225583,
+        "frames_count": 2
+    },
+    "7e7020a640398e1e6101d9a6e08b": {
+        "processing_time": 40.369452476501465,
+        "video_duration": 5.037917,
+        "frames_count": 9
+    },
+    "3cb3e1d8484299dbb5aa588e7611": {
+        "processing_time": 49.30975961685181,
+        "video_duration": 11.587854,
+        "frames_count": 14
+    },
+    "b17a5d2e4cdc8e73fe2e85d356e6": {
+        "processing_time": 37.744917154312134,
+        "video_duration": 17.972,
+        "frames_count": 11
+    },
+    "a2591aae44b4b5a679d8babab6ae": {
+        "processing_time": 40.047199010849,
+        "video_duration": 32.368,
+        "frames_count": 15
+    },
+    "211fa09f4f028b697421a43b45cc": {
+        "processing_time": 48.02943825721741,
+        "video_duration": 52.220875,
+        "frames_count": 15
+    },
+    "a252d5b84ec388232284bdf98f80": {
+        "processing_time": 37.327337980270386,
+        "video_duration": 8.256,
+        "frames_count": 11
+    },
+    "55cde0a445279469d370f2b0393c": {
+        "processing_time": 40.15325856208801,
+        "video_duration": 13.25925,
+        "frames_count": 15
+    },
+    "8a3ee0d6408d80ca4045cb8fb430": {
+        "processing_time": 23.798192501068115,
+        "video_duration": 5.333333,
+        "frames_count": 7
+    },
+    "12b114834286814c74ac719e10d4": {
+        "processing_time": 8.00489354133606,
+        "video_duration": 5.968625,
+        "frames_count": 2
+    },
+    "a0e4ac4a441ab859977fc2d9d509": {
+        "processing_time": 24.269028902053833,
+        "video_duration": 14.884,
+        "frames_count": 4
+    },
+    "335927394d129fda7844a1aa2ed4": {
+        "processing_time": 49.33414816856384,
+        "video_duration": 51.293979,
+        "frames_count": 15
+    },
+    "569aad8b4d04ba0ab1d3bf15360d": {
+        "processing_time": 40.37172603607178,
+        "video_duration": 28.908854,
+        "frames_count": 11
+    },
+    "7ecaea61412b9093d41ea37c1e50": {
+        "processing_time": 44.04364800453186,
+        "video_duration": 18.877021,
+        "frames_count": 15
+    },
+    "c8caf22e40f3b5eede5b87cead89": {
+        "processing_time": 43.0032525062561,
+        "video_duration": 28.885,
+        "frames_count": 15
+    },
+    "3a93bbcb4ec4a99e24be63dc053f": {
+        "processing_time": 46.08258104324341,
+        "video_duration": 40.746667,
+        "frames_count": 15
+    },
+    "f9347d8d4fdcafaca35d9b2195e6": {
+        "processing_time": 44.99947929382324,
+        "video_duration": 13.723646,
+        "frames_count": 15
+    },
+    "9dc3b3cf481aa3a781fef55adc40": {
+        "processing_time": 53.58954215049744,
+        "video_duration": 58.583146,
+        "frames_count": 15
+    },
+    "714da4804b659c672dad475e133b": {
+        "processing_time": 46.10866189002991,
+        "video_duration": 33.69325,
+        "frames_count": 15
+    },
+    "305132564cb09116bba64bef2b98": {
+        "processing_time": 102.21021556854248,
+        "video_duration": 56.447729,
+        "frames_count": 15
+    },
+    "a0c9d0134543bf8e77966ad0cd01": {
+        "processing_time": 46.1223680973053,
+        "video_duration": 50.178,
+        "frames_count": 15
+    },
+    "625b595f4179a6ff17e97b4d09c2": {
+        "processing_time": 8.382020950317383,
+        "video_duration": 6.966667,
+        "frames_count": 2
+    },
+    "f292d239408b8c898826affb8248": {
+        "processing_time": 31.704933166503906,
+        "video_duration": 30.441,
+        "frames_count": 15
+    },
+    "3574f29f44b0bb88f64cbb11247f": {
+        "processing_time": 31.109267950057983,
+        "video_duration": 8.708583,
+        "frames_count": 15
+    },
+    "2b97efa8411ab71fd74e5d79ec11": {
+        "processing_time": 46.90207862854004,
+        "video_duration": 10.674847,
+        "frames_count": 15
+    },
+    "677f62d34d6c85cc3c6738b32987": {
+        "processing_time": 27.35956311225891,
+        "video_duration": 16.7,
+        "frames_count": 5
+    },
+    "b425ffc146ff98ba935b614a92f3": {
+        "processing_time": 25.4771671295166,
+        "video_duration": 11.925,
+        "frames_count": 11
+    },
+    "a31f33534ba4b4adec7f6af9379c": {
+        "processing_time": 32.40405082702637,
+        "video_duration": 19.109208,
+        "frames_count": 8
+    },
+    "3d43314049d69b9eee1f2a8c40e9": {
+        "processing_time": 35.57243061065674,
+        "video_duration": 20.066667,
+        "frames_count": 13
+    },
+    "a80232254aada99f9a996c40ac96": {
+        "processing_time": 36.395336389541626,
+        "video_duration": 15.033333,
+        "frames_count": 11
+    },
+    "dda6f47743efa5e9569f7ba8c896": {
+        "processing_time": 31.597491025924683,
+        "video_duration": 10.774,
+        "frames_count": 15
+    },
+    "1262721f426c8274edf0dbcb175d": {
+        "processing_time": 12.455338954925537,
+        "video_duration": 6.153938,
+        "frames_count": 4
+    },
+    "463ea749430f9f74a62a0ea02734": {
+        "processing_time": 29.79867935180664,
+        "video_duration": 11.609979,
+        "frames_count": 3
+    },
+    "04f14c014dbb8845e4cdb599ddcb": {
+        "processing_time": 18.69802737236023,
+        "video_duration": 9.356833,
+        "frames_count": 7
+    },
+    "fac997ca43d8ac007e78e1f12b48": {
+        "processing_time": 44.0162467956543,
+        "video_duration": 52.629,
+        "frames_count": 15
+    },
+    "b25a1c8844878a0ddeff4f0671a4": {
+        "processing_time": 23.412436485290527,
+        "video_duration": 31.464146,
+        "frames_count": 2
+    },
+    "ddd42e27450bb2f24c6129e13488": {
+        "processing_time": 28.547318935394287,
+        "video_duration": 10.077,
+        "frames_count": 14
+    },
+    "2bb03a114f72b0a8ffdf412a04ef": {
+        "processing_time": 44.39372372627258,
+        "video_duration": 14.68,
+        "frames_count": 12
+    },
+    "004b62a3438a92be48e114942578": {
+        "processing_time": 36.906580686569214,
+        "video_duration": 7.639,
+        "frames_count": 11
+    },
+    "9d65160248b49104864b7777debb": {
+        "processing_time": 44.76944947242737,
+        "video_duration": 44.792479,
+        "frames_count": 15
+    },
+    "6fc34a6a47c9ab5c92cb287c9dc1": {
+        "processing_time": 21.12576150894165,
+        "video_duration": 8.149396,
+        "frames_count": 2
+    },
+    "fafc5e5e4778b17447e7f95a78e3": {
+        "processing_time": 51.78647065162659,
+        "video_duration": 14.535708,
+        "frames_count": 15
+    },
+    "82a6b6ba4cfaa6758ecbf89b56eb": {
+        "processing_time": 44.047534704208374,
+        "video_duration": 15.442375,
+        "frames_count": 15
+    },
+    "489273284bb9a4e68c6de3fccc55": {
+        "processing_time": 24.188629388809204,
+        "video_duration": 8.637833,
+        "frames_count": 3
+    },
+    "3fa638944fab8259e147944fe77a": {
+        "processing_time": 62.52064490318298,
+        "video_duration": 29.978063,
+        "frames_count": 15
+    },
+    "a641e0244f7699f6b98183cfc826": {
+        "processing_time": 47.67042684555054,
+        "video_duration": 26.8,
+        "frames_count": 15
+    },
+    "fff6d27f4ccf96d0c4b6fe9e86f2": {
+        "processing_time": 33.76447939872742,
+        "video_duration": 11.354,
+        "frames_count": 8
+    },
+    "f0b976564b8b8505a32f114ed1ee": {
+        "processing_time": 45.9519579410553,
+        "video_duration": 41.170083,
+        "frames_count": 15
+    },
+    "7aba77a1490aa1b56ea3c812bc96": {
+        "processing_time": 16.988110780715942,
+        "video_duration": 6.943854,
+        "frames_count": 2
+    },
+    "c5044a264262838dd44768ac64b4": {
+        "processing_time": 27.390636682510376,
+        "video_duration": 9.079667,
+        "frames_count": 2
+    },
+    "4e27db7a4d4f9e0f87279654e4df": {
+        "processing_time": 41.462406635284424,
+        "video_duration": 9.664,
+        "frames_count": 2
+    },
+    "08c2c906401e838139b60f16775e": {
+        "processing_time": 29.02388072013855,
+        "video_duration": 12.213708,
+        "frames_count": 13
+    },
+    "a8f5679c47af88c751b87db86df0": {
+        "processing_time": 30.70096206665039,
+        "video_duration": 10.241104,
+        "frames_count": 6
+    },
+    "1e049a69411caf27d1555023d87c": {
+        "processing_time": 30.91554284095764,
+        "video_duration": 11.576271,
+        "frames_count": 7
+    },
+    "8bc74b9d469f8a9764a171bb82f1": {
+        "processing_time": 23.247503757476807,
+        "video_duration": 9.055792,
+        "frames_count": 2
+    },
+    "7ec5c987426f816947564dac865d": {
+        "processing_time": 57.92931866645813,
+        "video_duration": 32.252,
+        "frames_count": 15
+    },
+    "e644957e43d5996778e80a4926ee": {
+        "processing_time": 115.15434837341309,
+        "video_duration": 26.446729,
+        "frames_count": 15
+    },
+    "5141457c44c494ef5a3d9dc76941": {
+        "processing_time": 25.45320987701416,
+        "video_duration": 10.232245,
+        "frames_count": 4
+    },
+    "1278ea604a5a9a798135efde9129": {
+        "processing_time": 14.541923999786377,
+        "video_duration": 12.237583,
+        "frames_count": 4
+    },
+    "207da5e147228a047ea9687753de": {
+        "processing_time": 51.68400812149048,
+        "video_duration": 37.592292,
+        "frames_count": 15
+    },
+    "f38571594d3ba85935cccf0d180d": {
+        "processing_time": 45.13725709915161,
+        "video_duration": 10.82,
+        "frames_count": 15
+    },
+    "3e0a2b26487bb6044b5825dfd523": {
+        "processing_time": 38.135878801345825,
+        "video_duration": 15.070417,
+        "frames_count": 12
+    },
+    "923cc9e54b14a1b117af57344fc8": {
+        "processing_time": 30.874563932418823,
+        "video_duration": 39.5,
+        "frames_count": 13
+    },
+    "7a78abde4d8bafe17a6f192ff8db": {
+        "processing_time": 41.26994776725769,
+        "video_duration": 15.0,
+        "frames_count": 13
+    },
+    "3c6325ca4249bd04c1025cca459d": {
+        "processing_time": 40.3053765296936,
+        "video_duration": 6.9,
+        "frames_count": 14
+    },
+    "8db969fd4f838d97ba6e29038c18": {
+        "processing_time": 33.05627465248108,
+        "video_duration": 12.7005,
+        "frames_count": 15
+    },
+    "a36bdf784372b1baafdd6f8c93ca": {
+        "processing_time": 38.51975417137146,
+        "video_duration": 13.722188,
+        "frames_count": 12
+    },
+    "c544fe1d47a9added234deae486d": {
+        "processing_time": 32.648131132125854,
+        "video_duration": 19.294979,
+        "frames_count": 15
+    },
+    "b708278f447882618a888a5384bc": {
+        "processing_time": 23.359387159347534,
+        "video_duration": 31.950667,
+        "frames_count": 2
+    },
+    "b429544a4d058f0ab5cae91faedb": {
+        "processing_time": 40.56608200073242,
+        "video_duration": 22.777979,
+        "frames_count": 15
+    },
+    "96801dde4a5380a5279cfeb3c929": {
+        "processing_time": 42.05307340621948,
+        "video_duration": 15.1,
+        "frames_count": 15
+    },
+    "193985f44382bb156227082875aa": {
+        "processing_time": 22.549699544906616,
+        "video_duration": 7.127729,
+        "frames_count": 2
+    },
+    "60a0b4774e4fa9814ca17d5dac7c": {
+        "processing_time": 51.79596662521362,
+        "video_duration": 23.658667,
+        "frames_count": 15
+    },
+    "77fa5969474393712f0b594d3841": {
+        "processing_time": 28.699997186660767,
+        "video_duration": 9.544063,
+        "frames_count": 14
+    },
+    "b78fa7c14877a2671ab51811fdbb": {
+        "processing_time": 37.828163146972656,
+        "video_duration": 11.926625,
+        "frames_count": 12
+    },
+    "1c13003140c8b511b0ac106b2083": {
+        "processing_time": 61.035528898239136,
+        "video_duration": 35.318646,
+        "frames_count": 15
+    },
+    "69e74eba482699df382ff0cf0b20": {
+        "processing_time": 58.65928554534912,
+        "video_duration": 10.008896,
+        "frames_count": 11
+    },
+    "d432174047608236e6943aaad90f": {
+        "processing_time": 39.688358545303345,
+        "video_duration": 58.35175,
+        "frames_count": 15
+    },
+    "121664c848d89fff4bbd5698ab58": {
+        "processing_time": 43.284931659698486,
+        "video_duration": 39.822,
+        "frames_count": 15
+    },
+    "6093004048b9afe5aa8e3f8623a1": {
+        "processing_time": 30.795939207077026,
+        "video_duration": 22.215,
+        "frames_count": 15
+    },
+    "36220b894c4984224d6c5a1f3806": {
+        "processing_time": 41.6093213558197,
+        "video_duration": 15.603813,
+        "frames_count": 15
+    },
+    "b759e6834915a448c0680a3dfb7b": {
+        "processing_time": 18.435263633728027,
+        "video_duration": 20.409542,
+        "frames_count": 2
+    },
+    "ed176c43482b98d40788c118433f": {
+        "processing_time": 53.87273120880127,
+        "video_duration": 27.562,
+        "frames_count": 15
+    },
+    "59b7792847718373087b52219641": {
+        "processing_time": 49.66076612472534,
+        "video_duration": 15.65,
+        "frames_count": 15
+    },
+    "3b29dab84f6698a09d8a74749523": {
+        "processing_time": 47.172144651412964,
+        "video_duration": 59.095875,
+        "frames_count": 15
+    },
+    "553005e64bf9b11653c40f7bc1a9": {
+        "processing_time": 26.057440996170044,
+        "video_duration": 8.753125,
+        "frames_count": 14
+    },
+    "2d0f539f4e5196ccaba9152652cf": {
+        "processing_time": 40.33588910102844,
+        "video_duration": 59.7,
+        "frames_count": 15
+    },
+    "e579e57748988bb798a96d301d2a": {
+        "processing_time": 42.20708775520325,
+        "video_duration": 16.649896,
+        "frames_count": 15
+    },
+    "c6cfd4cd4f19acb2a7208cc6e20c": {
+        "processing_time": 33.3216655254364,
+        "video_duration": 14.7,
+        "frames_count": 15
+    },
+    "62fd16fe4d7c938601e2d333282f": {
+        "processing_time": 26.630412340164185,
+        "video_duration": 9.356833,
+        "frames_count": 5
+    },
+    "5b057b5c4ef68ae36df97d25c26c": {
+        "processing_time": 28.40218210220337,
+        "video_duration": 8.382,
+        "frames_count": 14
+    },
+    "c4ff6bbd468ebfabd75c82bd84ba": {
+        "processing_time": 43.26605987548828,
+        "video_duration": 44.766667,
+        "frames_count": 15
+    },
+    "fc41a91848728f484441898fd7b8": {
+        "processing_time": 35.45315217971802,
+        "video_duration": 13.933333,
+        "frames_count": 15
+    },
+    "1ecfdd134b879c3fd22b6d866160": {
+        "processing_time": 32.160914182662964,
+        "video_duration": 20.885,
+        "frames_count": 6
+    },
+    "c3e674374cdea1df2cd352da7a7b": {
+        "processing_time": 48.10879850387573,
+        "video_duration": 36.76,
+        "frames_count": 15
+    },
+    "17a4d64c461d80dda7a1ef35238c": {
+        "processing_time": 40.326324462890625,
+        "video_duration": 22.269125,
+        "frames_count": 12
+    },
+    "59a0fccb44879271e2be8e0a23d3": {
+        "processing_time": 42.47128939628601,
+        "video_duration": 16.278292,
+        "frames_count": 15
+    },
+    "500794b94c718e5b09e35103b4f6": {
+        "processing_time": 52.60986042022705,
+        "video_duration": 9.078188,
+        "frames_count": 2
+    },
+    "4a37aada42569060bad38825e7b4": {
+        "processing_time": 45.903382301330566,
+        "video_duration": 43.52,
+        "frames_count": 15
+    },
+    "7c32358f4d04b7a8940620172eba": {
+        "processing_time": 36.43910598754883,
+        "video_duration": 16.240917,
+        "frames_count": 15
+    },
+    "94f0ed4541a2b6d83a94a5c42575": {
+        "processing_time": 48.24339556694031,
+        "video_duration": 50.736708,
+        "frames_count": 15
+    },
+    "3770121f4f87a6bd77cb408f3162": {
+        "processing_time": 36.67009949684143,
+        "video_duration": 14.698896,
+        "frames_count": 10
+    },
+    "2e9b9d2a4ecb8bb50ce140a95dd2": {
+        "processing_time": 26.155964374542236,
+        "video_duration": 28.966667,
+        "frames_count": 4
+    },
+    "d35d8b2e426c9ff592f828bce5ec": {
+        "processing_time": 37.561527252197266,
+        "video_duration": 38.660417,
+        "frames_count": 15
+    },
+    "7ee5a80642a8a34e7f04af8b50d6": {
+        "processing_time": 48.822274923324585,
+        "video_duration": 35.596854,
+        "frames_count": 15
+    },
+    "9820057b41d8b5e4b86b2539eab4": {
+        "processing_time": 48.19589185714722,
+        "video_duration": 29.433333,
+        "frames_count": 15
+    },
+    "1c0faa1f49a3b3f69c6f86b8b147": {
+        "processing_time": 47.26243495941162,
+        "video_duration": 47.809896,
+        "frames_count": 15
+    },
+    "067ae55b4411a3cc556c377158df": {
+        "processing_time": 35.37037444114685,
+        "video_duration": 9.365,
+        "frames_count": 10
+    },
+    "a3df1ff84c2d97a9b499724780ac": {
+        "processing_time": 35.85182428359985,
+        "video_duration": 12.770979,
+        "frames_count": 15
+    },
+    "c263af464f4da0bc3cdaf0690716": {
+        "processing_time": 38.40545153617859,
+        "video_duration": 30.250667,
+        "frames_count": 15
+    },
+    "c33bf8c748018dc564bb5f213333": {
+        "processing_time": 37.39954662322998,
+        "video_duration": 27.1,
+        "frames_count": 15
+    },
+    "10293eee4c4295e3dd89488f5172": {
+        "processing_time": 44.683719635009766,
+        "video_duration": 18.5,
+        "frames_count": 15
+    },
+    "9572b60b4b16a05cc9bb35038616": {
+        "processing_time": 44.02655911445618,
+        "video_duration": 22.592208,
+        "frames_count": 15
+    },
+    "5271b41e47e79579719d96ca679e": {
+        "processing_time": 49.57301092147827,
+        "video_duration": 36.629,
+        "frames_count": 15
+    },
+    "7ace14ce4fa6a5b2064c4190d508": {
+        "processing_time": 26.94319486618042,
+        "video_duration": 51.338521,
+        "frames_count": 4
+    },
+    "968a66894deeabf1986f6fc07118": {
+        "processing_time": 20.758413076400757,
+        "video_duration": 5.550771,
+        "frames_count": 2
+    },
+    "99b159e44389899c3c2f09c72dd3": {
+        "processing_time": 48.223567485809326,
+        "video_duration": 14.071,
+        "frames_count": 11
+    },
+    "3932438e453b8c8b51ffcb073a29": {
+        "processing_time": 28.481773614883423,
+        "video_duration": 10.983,
+        "frames_count": 6
+    },
+    "4b6496eb4f47ab9bd6e5cb9365df": {
+        "processing_time": 33.233007192611694,
+        "video_duration": 11.446625,
+        "frames_count": 15
+    },
+    "18545fa34526a36a3da70add7afc": {
+        "processing_time": 41.58591318130493,
+        "video_duration": 41.261063,
+        "frames_count": 12
+    },
+    "e1717985491aa8dea17542913d59": {
+        "processing_time": 46.56815528869629,
+        "video_duration": 33.813,
+        "frames_count": 15
+    },
+    "d9de685e4165b59c01806f595206": {
+        "processing_time": 47.778881788253784,
+        "video_duration": 23.660333,
+        "frames_count": 15
+    },
+    "66a778224fe88b3ec7ab045db075": {
+        "processing_time": 24.854807138442993,
+        "video_duration": 5.409438,
+        "frames_count": 4
+    },
+    "ec23ce2644588529044cf4089f1e": {
+        "processing_time": 18.08318543434143,
+        "video_duration": 8.382,
+        "frames_count": 7
+    },
+    "048dcea54ff2b6af92d862813a6f": {
+        "processing_time": 34.415032386779785,
+        "video_duration": 13.443542,
+        "frames_count": 10
+    },
+    "5194fe564f2399da88b9efd46de2": {
+        "processing_time": 38.819029331207275,
+        "video_duration": 18.418418,
+        "frames_count": 4
+    },
+    "058832b84f3183874fba81802088": {
+        "processing_time": 31.779477834701538,
+        "video_duration": 15.626229,
+        "frames_count": 15
+    },
+    "a9e51eed42d4828763c90e0b2f22": {
+        "processing_time": 41.05834984779358,
+        "video_duration": 58.816,
+        "frames_count": 15
+    },
+    "7c28e6624134b57fb608c77d25ff": {
+        "processing_time": 34.50288462638855,
+        "video_duration": 19.365,
+        "frames_count": 15
+    },
+    "0e02e0b14cfcb43c6946f235311a": {
+        "processing_time": 79.30249691009521,
+        "video_duration": 59.001917,
+        "frames_count": 15
+    },
+    "a67237f540f6b7dcfa708f437e04": {
+        "processing_time": 33.80561447143555,
+        "video_duration": 30.070938,
+        "frames_count": 15
+    },
+    "b727022c4664b798ba22173b5055": {
+        "processing_time": 35.46656107902527,
+        "video_duration": 8.476375,
+        "frames_count": 13
+    },
+    "f938d4044ec39afef1f3563df892": {
+        "processing_time": 16.803771495819092,
+        "video_duration": 6.293271,
+        "frames_count": 3
+    },
+    "da82988b4f43b0fa6d26b97907a2": {
+        "processing_time": 48.244710206985474,
+        "video_duration": 48.947667,
+        "frames_count": 15
+    },
+    "a730a9d240c6aaf09108ec6d0ee0": {
+        "processing_time": 97.70547699928284,
+        "video_duration": 55.379,
+        "frames_count": 15
+    },
+    "9e45c7854ef78ae6cc757dbba380": {
+        "processing_time": 29.527003288269043,
+        "video_duration": 42.028,
+        "frames_count": 10
+    },
+    "fb018caa41978b5f3e946df8372d": {
+        "processing_time": 37.62779688835144,
+        "video_duration": 37.779958,
+        "frames_count": 15
+    },
+    "e9e3783a4d75a76b639329cad243": {
+        "processing_time": 45.39660096168518,
+        "video_duration": 59.477,
+        "frames_count": 15
+    },
+    "f03dfc194fb5be0ea58ff25123e3": {
+        "processing_time": 13.837890625,
+        "video_duration": 5.17925,
+        "frames_count": 6
+    },
+    "bdbca9874183870e703955bc9278": {
+        "processing_time": 34.65642738342285,
+        "video_duration": 20.688167,
+        "frames_count": 15
+    },
+    "b5824dce40efa91cc0e13ea9a0c0": {
+        "processing_time": 44.23671913146973,
+        "video_duration": 28.666667,
+        "frames_count": 15
+    },
+    "f9eb3ae3447fb0a1c9a7825421c9": {
+        "processing_time": 37.09737777709961,
+        "video_duration": 22.966667,
+        "frames_count": 14
+    },
+    "01ec1b8c403e80e2b09208909294": {
+        "processing_time": 31.606545209884644,
+        "video_duration": 17.136,
+        "frames_count": 15
+    },
+    "da64d0314dd48c4cb800dbc69f73": {
+        "processing_time": 28.627376794815063,
+        "video_duration": 4.155563,
+        "frames_count": 7
+    },
+    "2ae0fbba46d7b9352aeb01ebd63c": {
+        "processing_time": 19.614383697509766,
+        "video_duration": 5.968188,
+        "frames_count": 6
+    },
+    "1fadc9a246ef8368ca25fc767323": {
+        "processing_time": 39.82027506828308,
+        "video_duration": 12.005813,
+        "frames_count": 13
+    },
+    "d4219c37460e9b2a8d26ef9ad842": {
+        "processing_time": 52.82516884803772,
+        "video_duration": 59.003,
+        "frames_count": 15
+    },
+    "c2f0de234b3b8a93fdf29ea3316b": {
+        "processing_time": 41.63670611381531,
+        "video_duration": 42.956917,
+        "frames_count": 15
+    },
+    "713041b44c8c9be18e9a52d35e51": {
+        "processing_time": 36.82600378990173,
+        "video_duration": 6.709771,
+        "frames_count": 11
+    },
+    "914694864dcd92a1e59987296385": {
+        "processing_time": 29.475257396697998,
+        "video_duration": 9.366577,
+        "frames_count": 8
+    },
+    "f8f4ca9a470fba0a8ef72e2c5fe6": {
+        "processing_time": 35.625426292419434,
+        "video_duration": 53.545,
+        "frames_count": 15
+    },
+    "2b0695484e4183273bc5f2bfe8b8": {
+        "processing_time": 48.00493550300598,
+        "video_duration": 59.08,
+        "frames_count": 15
+    },
+    "fd51d66d434f9d0912f3879a8fd5": {
+        "processing_time": 25.552979469299316,
+        "video_duration": 7.315375,
+        "frames_count": 4
+    },
+    "5833c42245a29580ce621666fc00": {
+        "processing_time": 31.71895170211792,
+        "video_duration": 5.085,
+        "frames_count": 6
+    },
+    "4ea691154293bf11b8881bd94658": {
+        "processing_time": 29.992627382278442,
+        "video_duration": 12.470208,
+        "frames_count": 14
+    },
+    "e7f293b44944ab76f26eef780888": {
+        "processing_time": 29.952542066574097,
+        "video_duration": 9.683375,
+        "frames_count": 7
+    },
+    "de0819fb4ff7a12c7ff70ace03d7": {
+        "processing_time": 54.065794944763184,
+        "video_duration": 51.687,
+        "frames_count": 15
+    },
+    "1bc374c1463ab1812faf236ac934": {
+        "processing_time": 33.05584764480591,
+        "video_duration": 11.632396,
+        "frames_count": 8
+    },
+    "be82d1884e37b924093387eddbf4": {
+        "processing_time": 62.28931665420532,
+        "video_duration": 57.933792,
+        "frames_count": 15
+    },
+    "d71fb11e406281dfc7e615c7c372": {
+        "processing_time": 48.70131254196167,
+        "video_duration": 24.218,
+        "frames_count": 15
+    },
+    "b76b53a743d1a126198af02c0c49": {
+        "processing_time": 44.024503231048584,
+        "video_duration": 15.023,
+        "frames_count": 15
+    },
+    "383c2790489ead2875c40328edaf": {
+        "processing_time": 51.34022331237793,
+        "video_duration": 54.823417,
+        "frames_count": 15
+    },
+    "10320221492aba1f1fbf5399dad0": {
+        "processing_time": 41.56986856460571,
+        "video_duration": 9.566667,
+        "frames_count": 15
+    },
+    "dd67a1414b7cafe890047057d4bb": {
+        "processing_time": 30.318092107772827,
+        "video_duration": 9.776708,
+        "frames_count": 15
+    },
+    "5bae4bb24b949544db3569c2fc8a": {
+        "processing_time": 47.95228552818298,
+        "video_duration": 49.759563,
+        "frames_count": 15
+    },
+    "5926ee94438d9c1dc6c7d458f334": {
+        "processing_time": 28.960498809814453,
+        "video_duration": 4.387771,
+        "frames_count": 6
+    },
+    "4276818344c083c1ab238507f45f": {
+        "processing_time": 33.57924246788025,
+        "video_duration": 13.257792,
+        "frames_count": 6
+    },
+    "83df2554411c92ee948fbd5ab026": {
+        "processing_time": 35.798495054244995,
+        "video_duration": 12.300762,
+        "frames_count": 15
+    },
+    "5ec1d394430aa9154d1dce8ebea3": {
+        "processing_time": 22.263124465942383,
+        "video_duration": 5.039396,
+        "frames_count": 2
+    },
+    "41d039834a41a1bb92a17ba02096": {
+        "processing_time": 47.96775674819946,
+        "video_duration": 49.27275,
+        "frames_count": 5
+    },
+    "0b753c2b4f9aa8fc2cb24a6015ad": {
+        "processing_time": 53.23110914230347,
+        "video_duration": 36.533333,
+        "frames_count": 15
     }
 }

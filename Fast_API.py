@@ -16,17 +16,18 @@ app = FastAPI()
 
 
 @app.post("/encode")
-async def encode(images: List[UploadFile] = File(), texts: List[str] = Form(None)):
+async def encode(images: List[UploadFile] = File(default=[]), texts: List[str] = Form(None)):
 #List[str] = Form(...)):
 #Optional[List[str]] = Form(None)):
 
     image_inputs = []
     text_inputs = {}
 
-    for image_file in images:
-        image = Image.open(BytesIO(await image_file.read()))
-        image_input = processor(images=image, return_tensors="pt")
-        image_inputs.append(image_input["pixel_values"])
+    if images:  # Проверка наличия изображени
+        for image_file in images:
+            image = Image.open(BytesIO(await image_file.read()))
+            image_input = processor(images=image, return_tensors="pt")
+            image_inputs.append(image_input["pixel_values"])
 
 
     if texts:
@@ -50,9 +51,12 @@ async def encode(images: List[UploadFile] = File(), texts: List[str] = Form(None
     elif text_inputs:
         features = text_features
     else:
-        raise HTTPException(status_code=400, detail="No valid images or texts provided.")
+        return {"features": None}  # Вместо возбуждения исключения возвращаем None
 
-    return {"features": features.tolist()}
+    if features is None:
+        return {"features": None}  # Возвращает null в JSON, если нет векторов
+    else:
+        return {"features": features.tolist()}  # Возвращает список векторов
 
 @app.get("/")
 def read_root():

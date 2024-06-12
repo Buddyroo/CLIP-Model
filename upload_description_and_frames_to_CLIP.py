@@ -29,6 +29,7 @@ def process_video_data(video_id):
         response = requests.post(url, files=files, data=data)
         if response.status_code == 200:
             vector = response.json().get('features', None)
+
             result = True
         else:
             log_message = f"Failed to get a proper response. Status code: {response.status_code}\nResponse: {response.text}"
@@ -55,5 +56,10 @@ def delete_frames(folder, video_id):
     log_message = "All frames have been deleted."
     print(log_message)
     logging.info(log_message)
+
+
+
+#print(process_video_data('402f3e0144a2aba9f539439d21af'))
+
 
 
