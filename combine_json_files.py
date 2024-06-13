@@ -44,3 +44,7 @@ with open(output_file, 'w') as f:
 
 print(f"Combined data has been saved to {output_file}")
 
+# Подсчет количества ключей
+key_count = len(combined_data)
+print(f"The number of keys in {output_file} is {key_count}") #2000
+
