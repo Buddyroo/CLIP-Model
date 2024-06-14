@@ -3,40 +3,42 @@ import time
 import os
 import logging
 import numpy as np
-from upload_only_TEXT_vector import process_only_text_data
-from faiss_module import FaissIndex  # Импортируем класс FaissIndex
 from upload_search_request_to_CLIP import process_search_request
+from faiss_module import FaissIndex  # Ваш класс FaissIndex
 
 # Настройка логирования
 logging.basicConfig(filename='processing.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Путь к файлам для записи и загрузки индексов
-video_index_file_path = 'video_index.faiss'
-text_index_file_path = 'text_index.faiss'
+video_index_file_path = 'video_separated_frames_index.faiss'
+vectors_file_path = 'vectors_separated_frames_1.json'
 user_search_file_path = 'user_search.json'
 faiss_statistics_file_path = 'FAISS_statistics.json'
 all_videos_file_path = 'video_description/all_videos.json'
 
-# Загрузка комбинированных векторов из файла
-def load_combined_vectors(file_path='combined_vectors.json'):
+# Функция для загрузки векторов из JSON файла
+def load_vectors(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         try:
-            combined_vectors = json.load(f)
-            logging.debug(f"Combined vectors loaded: {combined_vectors}")
+            vectors_data = json.load(f)
+            logging.debug(f"Vectors loaded: {vectors_data}")
         except json.JSONDecodeError as e:
             logging.error(f"Error loading JSON file {file_path}: {str(e)}")
             raise
-    video_vectors = [np.array(v['video_vector'][0]) for v in combined_vectors.values() if v.get('video_vector')]
-    text_vectors = [np.array(v['text_vector'][0]) for v in combined_vectors.values() if v.get('text_vector')]
+    video_vectors = []
+    video_ids = []
+    for video_id, data in vectors_data.items():
+        for vector in data['vectors']:
+            video_vectors.append(np.array(vector, dtype='float32'))
+            video_ids.append(video_id)
     logging.debug(f"Video vectors: {video_vectors}")
-    logging.debug(f"Text vectors: {text_vectors}")
-    return combined_vectors, video_vectors, text_vectors
+    return video_vectors, video_ids
 
 try:
-    combined_vectors, video_vectors, text_vectors = load_combined_vectors()
-    logging.info("Successfully loaded combined vectors.")
+    video_vectors, video_ids = load_vectors(vectors_file_path)
+    logging.info("Successfully loaded vectors.")
 except Exception as e:
-    logging.error(f"Failed to load combined vectors: {str(e)}")
+    logging.error(f"Failed to load vectors: {str(e)}")
     raise
 
 # Размерность векторов
@@ -45,19 +47,15 @@ logging.info(f"Vector dimension: {d}")
 
 # Создание или загрузка Faiss индексов
 video_index = FaissIndex(d, index_type='FlatL2')
-text_index = FaissIndex(d, index_type='FlatL2')
 
-if os.path.exists(video_index_file_path) and os.path.exists(text_index_file_path):
+if os.path.exists(video_index_file_path):
     # Загрузка индексов из файлов
     video_index.load_index(video_index_file_path)
-    text_index.load_index(text_index_file_path)
     logging.info("Loaded existing Faiss indices.")
 else:
     # Добавление векторов и сохранение индексов
-    video_index.add_vectors(np.vstack(video_vectors).astype('float32'))
-    text_index.add_vectors(np.vstack(text_vectors).astype('float32'))
+    video_index.add_vectors(np.vstack(video_vectors))
     video_index.save_index(video_index_file_path)
-    text_index.save_index(text_index_file_path)
     logging.info("Created and saved new Faiss indices.")
 
 def load_json(file_path):
@@ -101,7 +99,6 @@ def user_search_request():
     logging.debug(f"Search query: {search_query}")
 
     start_time = time.time()  # Засекаем время начала обработки
-
     try:
         # Обработка введенного текста
         success, vector = process_search_request(search_query)
@@ -119,55 +116,37 @@ def user_search_request():
         k = 15  # Количество ближайших соседей для поиска
         start_faiss_time = time.time()
         video_distances, video_indices = video_index.search_vectors(query_vector, k)
-        text_distances, text_indices = text_index.search_vectors(query_vector, k)
         faiss_search_time = time.time() - start_faiss_time
 
         logging.info(f"FAISS search time: {faiss_search_time:.2f} seconds.")
         logging.debug(f"Video distances: {video_distances}, Video indices: {video_indices}")
-        logging.debug(f"Text distances: {text_distances}, Text indices: {text_indices}")
 
         video_results = []
-        text_results = []
 
         for i in range(k):
-            best_video_match = list(combined_vectors.values())[video_indices[0][i]]
-            best_text_match = list(combined_vectors.values())[text_indices[0][i]]
-
-            video_description = all_videos.get(list(combined_vectors.keys())[video_indices[0][i]], {}).get('description', '')
-            text_description = all_videos.get(list(combined_vectors.keys())[text_indices[0][i]], {}).get('description', '')
-
+            video_index_id = video_indices[0][i]
+            best_video_match_id = video_ids[video_index_id]
+            video_url = all_videos.get(best_video_match_id, {}).get('url', '')
             video_results.append({
-                "url": best_video_match['url'],
-                "description": video_description,
-                "type": 'video',
-                "video_distance": float(video_distances[0][i]),
-                "text_distance": float(text_distances[0][i])
-            })
-
-            text_results.append({
-                "url": best_text_match['url'],
-                "description": text_description,
-                "type": 'text',
-                "video_distance": float(video_distances[0][i]),
-                "text_distance": float(text_distances[0][i])
+                "url": video_url,
+                "video_distance": float(video_distances[0][i])
             })
 
         user_search_data[search_query] = clip_processing_time
         faiss_statistics[search_query] = {
             "video_results": video_results,
-            "text_results": text_results,
             "clip_processing_time": clip_processing_time,
             "faiss_search_time": faiss_search_time
         }
 
-        formatted_video_results = "\n".join([f"{i+1}. Video Distance: {result['video_distance']:.2f}, Text Distance: {result['text_distance']:.2f}\nDescription: {result['description']}\nURL: {result['url']}" for i, result in enumerate(video_results)])
-        formatted_text_results = "\n".join([f"{i+1}. Video Distance: {result['video_distance']:.2f}, Text Distance: {result['text_distance']:.2f}\nDescription: {result['description']}\nURL: {result['url']}" for i, result in enumerate(text_results)])
+        formatted_video_results = "\n".join(
+            [f"{i + 1}. Video Distance: {result['video_distance']:.2f}\nURL: {result['url']}" for i, result in
+             enumerate(video_results)])
 
         log_message = (f"Successfully processed data for query '{search_query}'.\n"
                        f"Processing time: {clip_processing_time:.2f} seconds,\n"
                        f"FAISS search time: {faiss_search_time:.2f} seconds.\n"
-                       f"Top 10 results by video distance:\n{formatted_video_results}\n\n"
-                       f"Top 10 results by text distance:\n{formatted_text_results}")
+                       f"Top 15 results by video distance:\n{formatted_video_results}")
         print(log_message)
         logging.info(log_message)
     except Exception as e:
