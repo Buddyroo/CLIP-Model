@@ -12,8 +12,8 @@ from upload_only_VIDEO_vector import process_only_video_data, delete_frames
 # Настройка логирования
 logging.basicConfig(filename='processing.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-vectors_file_path = 'vectors_separated_frames_1.json'
-statistics_file_path = 'statistics_separated_frames.json'
+vectors_file_path = 'normalized_vectors_separated_frames_1.json'
+statistics_file_path = 'normalized_statistics_separated_frames.json'
 unprocessed_videos_log = 'unprocessed_videos.log'
 
 def load_json(file_path):
@@ -115,7 +115,7 @@ def main_handle_videos():
         video_ids = list(all_videos.keys())
         start_index = video_ids.index(last_processed_id) + 1
     else:
-        video_ids = list(all_videos.keys())[:100]
+        video_ids = list(all_videos.keys())[1112:4000]
 
     for i in range(start_index, len(video_ids)):
         video_id = video_ids[i]

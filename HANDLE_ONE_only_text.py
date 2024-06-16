@@ -10,7 +10,7 @@ logging.basicConfig(filename='processing.log', level=logging.INFO, format='%(asc
 
 # Изменение названий файлов векторов
 vectors_file_paths = [f"vectors_text_{i+1}.json" for i in range(40)]
-statistics_file_path = 'statistics_text.json'
+statistics_file_path = 'RANDOM_OLD/statistics_text.json'
 
 def load_json(file_path):
     if not os.path.exists(file_path):

@@ -10,8 +10,8 @@ from faiss_module import FaissIndex  # Ваш класс FaissIndex
 logging.basicConfig(filename='processing.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Путь к файлам для записи и загрузки индексов
-video_index_file_path = 'video_separated_frames_index.faiss'
-vectors_file_path = 'vectors_separated_frames_1.json'
+video_index_file_path = 'new_vectors.faiss'
+vectors_file_path = 'normalized_vectors.json'
 user_search_file_path = 'user_search.json'
 faiss_statistics_file_path = 'FAISS_statistics.json'
 all_videos_file_path = 'video_description/all_videos.json'
@@ -122,6 +122,9 @@ def user_search_request():
         logging.debug(f"Video distances: {video_distances}, Video indices: {video_indices}")
 
         video_results = []
+        print(video_indices[0][0])
+        print(video_indices[0])
+
 
         for i in range(k):
             video_index_id = video_indices[0][i]
