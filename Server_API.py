@@ -5,6 +5,7 @@ import logging
 import requests
 import spacy
 import whisper
+from whisper import load_model
 
 
 from SERVER_subtitles_extraction_easyocr_extra import get_subtitles
