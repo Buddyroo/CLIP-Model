@@ -10,8 +10,8 @@ from upload_search_request_to_CLIP import process_search_request
 logging.basicConfig(filename='processing.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Путь к файлам для записи и загрузки индексов
-video_index_file_path = 'video_separated_frames_index.faiss'
-vectors_file_path = 'vectors_separated_frames_1.json'
+video_index_file_path = 'video_index_4.faiss'
+vectors_file_path = 'ADD_to_db/DONE_normalized_vectors_4.json'
 user_search_file_path = 'user_search.json'
 faiss_statistics_file_path = 'FAISS_statistics.json'
 all_videos_file_path = 'video_description/all_videos.json'
