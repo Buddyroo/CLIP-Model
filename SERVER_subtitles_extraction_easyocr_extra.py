@@ -104,7 +104,7 @@ def get_subtitles(video_path):
 
         cap.release()
 
-        return subtitles, processing_time
+        return subtitles if subtitles else None, processing_time  # Возвращаем None, если субтитров нет
     except Exception as e:
         logging.error(f'Ошибка обработки видео: {str(e)}')
         return None, None

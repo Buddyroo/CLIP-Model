@@ -4,8 +4,6 @@ import os
 import logging
 import requests
 
-
-
 from download_video_by_url_and_make_frames import create_thumbnails_for_video_message, get_video_duration
 from upload_only_VIDEO_vector import process_only_video_data, delete_frames
 
@@ -115,7 +113,7 @@ def main_handle_videos():
         video_ids = list(all_videos.keys())
         start_index = video_ids.index(last_processed_id) + 1
     else:
-        video_ids = list(all_videos.keys())[1112:4000]
+        video_ids = list(all_videos.keys())[2462:4000]
 
     for i in range(start_index, len(video_ids)):
         video_id = video_ids[i]

@@ -15,4 +15,4 @@ def find_json_error(file_path):
                 print(f"Error in line {e.lineno}: {error_line}")
 
 # Замените 'vectors_separated_frames_1.json' на путь к вашему JSON-файлу
-find_json_error('vectors_separated_frames_1.json')
+find_json_error('vectors_to_normalize_6.json')

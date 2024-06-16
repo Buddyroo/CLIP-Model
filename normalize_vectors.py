@@ -37,7 +37,7 @@ def normalize_json_vectors(input_file, output_file):
         json.dump(data, f, indent=4)
 
 if __name__ == "__main__":
-    input_file = 'vectors_separated_frames_1.json'
-    output_file = 'normalized_vectors.json'
+    input_file = 'vectors_to_normalize_7.json'
+    output_file = 'ADD_to_db/DONE_normalized_vectors_6.json'
     normalize_json_vectors(input_file, output_file)
     print(f"Normalized vectors saved to {output_file}")

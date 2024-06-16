@@ -5,7 +5,7 @@ import logging
 import requests
 import spacy
 import whisper
-from whisper import load_model
+
 
 
 from SERVER_subtitles_extraction_easyocr_extra import get_subtitles
@@ -129,23 +129,31 @@ def main_handle_videos():
 
     # блок извлечения субтитров
     subtitles, subtitles_processing_time = get_subtitles(video_path)
-    print(subtitles)
+
 
     cleaned_subtitles = None
+    print(subtitles)
     if subtitles is not None:
+
         subtitles_by_keywords = extract_keywords(subtitles, nlp)
         print(subtitles_by_keywords)
-        subtitles_translated = translate_text(subtitles_by_keywords)
-        cleaned_subtitles = extract_keywords(subtitles_translated, nlp)
-        print(cleaned_subtitles)
-        all_texts.append(cleaned_subtitles)
+        if subtitles_by_keywords is not None:
+            subtitles_translated = translate_text(subtitles_by_keywords)
+            if subtitles_translated is not None:
+                cleaned_subtitles = extract_keywords(subtitles_translated, nlp)
+                all_texts.append(cleaned_subtitles)
+
+
 
     audio_transcription_translated = None
     #извлечение аудиодорожки с помощью Whisper
     audio_transcription, audio_processing_time = encode_and_transcribe(video_path, whisper_model)
+    print(audio_transcription)
     if audio_transcription is not None:
         audio_transcription_translated = translate_text(audio_transcription)
-        all_texts.append(audio_transcription_translated)
+        if audio_transcription_translated is not None:
+            print(audio_transcription_translated)
+            all_texts.append(audio_transcription_translated)
 
     success, image_vectors, text_vector = process_only_video_data(video_id, all_texts)
     if success and image_vectors is not None:
@@ -164,14 +172,7 @@ def main_handle_videos():
         #блок извлечения субтитров
         subtitles, subtitles_processing_time = get_subtitles(video_path)
 
-        if subtitles:
-            subtitles = translate_text(subtitles)
 
-            #
-            # vectors[video_id]["subtitles"] = subtitles
-            # log_message = f"Successfully extracted subtitles for {video_id}."
-            # print(log_message)
-            # logging.info(log_message)
 
     else:
         log_message = f"Data for {video_id} was not processed, frames remain in the folder."
@@ -204,6 +205,8 @@ def main_handle_videos():
     # Сохранение данных после обработки видео
     save_json(vectors, vectors_file_path)
     save_json(statistics, statistics_file_path)
+    # Удаление видео после обработки
+    os.unlink(video_path)
 
 if __name__ == "__main__":
     try:

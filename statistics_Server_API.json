@@ -1,10 +1,12 @@
 {
     "f6e45a2142b095d96b286744441a": {
-        "processing_time": 182.81930422782898,
+        "processing_time": 229.6924924850464,
         "video_duration": 27.561271,
         "frames_count": 15,
         "description": "Where is it to eat a real Turkish baklava in Petersburg?",
-        "subtitles": "awesome, turkish, good, they, chief chef, kits, baklav almond, eat, walnut, almonds, baklava, locum, forget, adjournment, visit, natural, gifts, bringing, ready, iecke, true, chef, preparing, suggest, species, chief, baklav, establishments, jeeves, almond, orscha",
-        "subtitles_processing_time": 56.16565942764282
+        "subtitles": "they, preparing, true, establishments, iecke, locum, kits, suggest, orscha, chief, good, awesome, forget, eat, almonds, bringing, baklav, turkish, baklava, gifts, adjournment, walnut, ready, jeeves, almond, visit, species, natural, chef",
+        "subtitles_processing_time": 55.14657115936279,
+        "audio_transription": "Where to eat the real Turkish shit in Petersburg?, Including ready-made gift kits. The pahlova is really real., She's being cooked here by a chef from Turkey, and if you come in onions., If he's here, he's here, too., And the other thing is coffee on the east side., It's a sand cook., I'm very excited to see him, and I advise you to visit him.",
+        "audio_transription_processing": 30.022165060043335
     }
 }

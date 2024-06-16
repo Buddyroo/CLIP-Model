@@ -35,4 +35,4 @@ def process_only_text_data(video_id):
     return result, vector
 
  #Вызов функции для обработки данных
-#print(process_only_text_data('402f3e0144a2aba9f539439d21af'))
+print(process_only_text_data('ef285e0241139fc611318ed33071'))
