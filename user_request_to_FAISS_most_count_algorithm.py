@@ -3,8 +3,6 @@ import time
 import os
 import logging
 import numpy as np
-
-from SERVER_translation import translate_text
 from faiss_module import FaissIndex  # Импортируем класс FaissIndex
 from upload_search_request_to_CLIP import process_search_request
 
@@ -108,12 +106,11 @@ def user_search_request():
         if search_query.lower() == 'exit':
             break
         logging.debug(f"Search query: {search_query}")
-        search_translated = translate_text(search_query)
 
         start_time = time.time()  # Засекаем время начала обработки
         try:
             # Обработка введенного текста
-            success, vector = process_search_request(search_translated)
+            success, vector = process_search_request(search_query)
             logging.debug(f"Processing result: success={success}, vector={vector}")
             if not success:
                 raise ValueError("Failed to process text data.")
