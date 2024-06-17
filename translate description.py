@@ -66,7 +66,7 @@ def translate_text(text):
 
 
 # Функция для перевода описаний видео
-def translate_descriptions(input_file, output_file, limit=2000):
+def translate_descriptions(input_file, output_file, limit=2500):
     with open(input_file, 'r', encoding='utf-8') as f:
         videos = json.load(f)
 

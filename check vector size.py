@@ -51,6 +51,6 @@ def main(json_file_path, output_file_path):
 
 
 if __name__ == "__main__":
-    json_file_path = 'ADD_to_db/DONE_normalized_vectors_2.json'
-    output_file_path = 'ADD_to_db/CLEANED_normalized_vectors_2.json'
+    json_file_path = 'DONE_normalized_vectors_1.json'
+    output_file_path = 'ADD_to_db/DONE_normalized_vectors_1.json'
     main(json_file_path, output_file_path)

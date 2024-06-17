@@ -21,5 +21,5 @@ def check_json_vectors(input_file):
                       f"Found length {vector_length}, expected length {expected_length}")
 
 if __name__ == "__main__":
-    input_file = '/DONE_normalized_vectors_2.json'
+    input_file = '/DONE_normalized_vectors_1.json'
     check_json_vectors(input_file)

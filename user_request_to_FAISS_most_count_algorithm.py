@@ -3,6 +3,8 @@ import time
 import os
 import logging
 import numpy as np
+
+from SERVER_translation import translate_text
 from faiss_module import FaissIndex  # Импортируем класс FaissIndex
 from upload_search_request_to_CLIP import process_search_request
 
@@ -10,32 +12,39 @@ from upload_search_request_to_CLIP import process_search_request
 logging.basicConfig(filename='processing.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Путь к файлам для записи и загрузки индексов
-video_index_file_path = 'video_index_4.faiss'
-vectors_file_path = 'ADD_to_db/DONE_normalized_vectors_4.json'
+video_index_file_path = 'video_index_without_5.faiss'
+json_files = [
+    'ADD_to_db/DONE_normalized_vectors_1.json',
+    'ADD_to_db/DONE_normalized_vectors_2.json',
+    'ADD_to_db/DONE_normalized_vectors_3.json',
+    'ADD_to_db/DONE_normalized_vectors_4.json',
+    'ADD_to_db/DONE_normalized_vectors_6.json'
+]
 user_search_file_path = 'user_search.json'
 faiss_statistics_file_path = 'FAISS_statistics.json'
 all_videos_file_path = 'video_description/all_videos.json'
 
-# Функция для загрузки векторов из JSON файла
-def load_vectors(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        try:
-            vectors_data = json.load(f)
-            logging.debug(f"Vectors loaded: {vectors_data}")
-        except json.JSONDecodeError as e:
-            logging.error(f"Error loading JSON file {file_path}: {str(e)}")
-            raise
+# Функция для загрузки векторов из JSON файлов
+def load_vectors(file_paths):
     video_vectors = []
     video_keys = []
-    for video_id, data in vectors_data.items():
-        for vector in data['vectors']:
-            video_vectors.append(np.array(vector))
-            video_keys.append(video_id)
+    for file_path in file_paths:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            try:
+                vectors_data = json.load(f)
+                logging.debug(f"Vectors loaded from {file_path}: {vectors_data}")
+            except json.JSONDecodeError as e:
+                logging.error(f"Error loading JSON file {file_path}: {str(e)}")
+                raise
+        for video_id, data in vectors_data.items():
+            for vector in data['vectors']:
+                video_vectors.append(np.array(vector))
+                video_keys.append(video_id)
     return video_vectors, video_keys
 
 try:
-    video_vectors, video_keys = load_vectors(vectors_file_path)
-    logging.info("Successfully loaded vectors.")
+    video_vectors, video_keys = load_vectors(json_files)
+    logging.info("Successfully loaded vectors from all JSON files.")
 except Exception as e:
     logging.error(f"Failed to load vectors: {str(e)}")
     raise
@@ -93,63 +102,67 @@ def user_search_request():
     faiss_statistics = load_json(faiss_statistics_file_path)
     all_videos = load_all_videos()
 
-    # Ввод слова или фразу для поиска
-    search_query = input("Введите слово или фразу для поиска: ")
-    logging.debug(f"Search query: {search_query}")
+    while True:
+        # Ввод слова или фразу для поиска
+        search_query = input("Введите слово или фразу для поиска (или 'exit' для выхода): ")
+        if search_query.lower() == 'exit':
+            break
+        logging.debug(f"Search query: {search_query}")
+        search_translated = translate_text(search_query)
 
-    start_time = time.time()  # Засекаем время начала обработки
-    try:
-        # Обработка введенного текста
-        success, vector = process_search_request(search_query)
-        logging.debug(f"Processing result: success={success}, vector={vector}")
-        if not success:
-            raise ValueError("Failed to process text data.")
+        start_time = time.time()  # Засекаем время начала обработки
+        try:
+            # Обработка введенного текста
+            success, vector = process_search_request(search_translated)
+            logging.debug(f"Processing result: success={success}, vector={vector}")
+            if not success:
+                raise ValueError("Failed to process text data.")
 
-        clip_processing_time = time.time() - start_time  # Вычисляем время обработки
-        logging.info(f"CLIP processing time: {clip_processing_time:.2f} seconds.")
+            clip_processing_time = time.time() - start_time  # Вычисляем время обработки
+            logging.info(f"CLIP processing time: {clip_processing_time:.2f} seconds.")
 
-        # Поиск по Faiss индексам
-        query_vector = np.array(vector).astype('float32').reshape(1, -1)
-        logging.debug(f"Query vector: {query_vector}")
+            # Поиск по Faiss индексам
+            query_vector = np.array(vector).astype('float32').reshape(1, -1)
+            logging.debug(f"Query vector: {query_vector}")
 
-        k = 100  # Количество ближайших соседей для поиска (увеличено для большей выборки)
-        start_faiss_time = time.time()
-        video_distances, video_indices = video_index.search_vectors(query_vector, k)
-        faiss_search_time = time.time() - start_faiss_time
+            k = 100  # Количество ближайших соседей для поиска (увеличено для большей выборки)
+            start_faiss_time = time.time()
+            video_distances, video_indices = video_index.search_vectors(query_vector, k)
+            faiss_search_time = time.time() - start_faiss_time
 
-        logging.info(f"FAISS search time: {faiss_search_time:.2f} seconds.")
-        logging.debug(f"Video distances: {video_distances}, Video indices: {video_indices}")
+            logging.info(f"FAISS search time: {faiss_search_time:.2f} seconds.")
+            logging.debug(f"Video distances: {video_distances}, Video indices: {video_indices}")
 
-        video_results = {}
+            video_results = {}
 
-        for i in range(k):
-            video_id = video_keys[video_indices[0][i]]
-            distance = video_distances[0][i]
-            if video_id not in video_results:
-                video_results[video_id] = {'count': 0, 'total_distance': 0, 'url': all_videos.get(video_id, {}).get('url', '')}
-            video_results[video_id]['count'] += 1
-            video_results[video_id]['total_distance'] += distance
+            for i in range(k):
+                video_id = video_keys[video_indices[0][i]]
+                distance = video_distances[0][i]
+                if video_id not in video_results:
+                    video_results[video_id] = {'count': 0, 'total_distance': 0, 'url': all_videos.get(video_id, {}).get('url', '')}
+                video_results[video_id]['count'] += 1
+                video_results[video_id]['total_distance'] += distance
 
-        # Сортировка по количеству совпадений
-        sorted_video_results = sorted(video_results.items(), key=lambda x: (-x[1]['count'], x[1]['total_distance']))
+            # Сортировка по количеству совпадений
+            sorted_video_results = sorted(video_results.items(), key=lambda x: (-x[1]['count'], x[1]['total_distance']))
 
-        formatted_video_results = "\n".join(
-            [f"{i + 1}. Video ID: {video_id}, Count: {result['count']}, Total Distance: {result['total_distance']:.2f}\nURL: {result['url']}" for i, (video_id, result) in enumerate(sorted_video_results)])
+            formatted_video_results = "\n".join(
+                [f"{i + 1}. Video ID: {video_id}, Count: {result['count']}, Total Distance: {result['total_distance']:.2f}\nURL: {result['url']}" for i, (video_id, result) in enumerate(sorted_video_results)])
 
-        log_message = (f"Successfully processed data for query '{search_query}'.\n"
-                       f"Processing time: {clip_processing_time:.2f} seconds,\n"
-                       f"FAISS search time: {faiss_search_time:.2f} seconds.\n"
-                       f"Top results by video distance and count:\n{formatted_video_results}")
-        print(log_message)
-        logging.info(log_message)
-    except Exception as e:
-        log_message = f"An error occurred: {str(e)}"
-        print(log_message)
-        logging.error(log_message)
+            log_message = (f"Successfully processed data for query '{search_query}'.\n"
+                           f"Processing time: {clip_processing_time:.2f} seconds,\n"
+                           f"FAISS search time: {faiss_search_time:.2f} seconds.\n"
+                           f"Top results by video distance and count:\n{formatted_video_results}")
+            print(log_message)
+            logging.info(log_message)
+        except Exception as e:
+            log_message = f"An error occurred: {str(e)}"
+            print(log_message)
+            logging.error(log_message)
 
-    # Сохранение данных после обработки
-    save_json(user_search_data, user_search_file_path)
-    save_json(faiss_statistics, faiss_statistics_file_path)
+        # Сохранение данных после обработки
+        save_json(user_search_data, user_search_file_path)
+        save_json(faiss_statistics, faiss_statistics_file_path)
 
 if __name__ == "__main__":
     try:

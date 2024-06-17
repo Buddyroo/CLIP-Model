@@ -71,13 +71,15 @@ def translate_transcriptions(input_file, output_file):
         transcriptions = json.load(f)
 
     translated_transcriptions = {}
-
-    for key, value in transcriptions.items():
+    total_transcriptions = len(transcriptions)
+    for i, (key, value) in enumerate(transcriptions.items(), 1):
         transcription = value.get('transcription', '')
         if transcription:
             translated_transcription = translate_text(transcription)
             value['transcription'] = translated_transcription
         translated_transcriptions[key] = value
+        # Вывод прогресса
+        print(f'Перевод {i} из {total_transcriptions} завершен.')
 
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(translated_transcriptions, f, ensure_ascii=False, indent=4)
