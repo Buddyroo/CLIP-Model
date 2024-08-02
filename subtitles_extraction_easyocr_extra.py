@@ -16,9 +16,9 @@ subtitles_extraction_dir = 'subtitles_extraction'
 os.makedirs(subtitles_extraction_dir, exist_ok=True)
 
 # Имена файлов для результатов
-subtitles_json_file = os.path.join(subtitles_extraction_dir, 'subtitles_easyocr_Lisa.json')
-none_subtitles_json_file = os.path.join(subtitles_extraction_dir, 'none_subtitles_1.json')
-subtitles_fail_json_file = os.path.join(subtitles_extraction_dir, 'subtitles_fail.json')
+subtitles_json_file = os.path.join(subtitles_extraction_dir, 'subtitles_easyocr_Lisa_FINAL.json')
+none_subtitles_json_file = os.path.join(subtitles_extraction_dir, 'none_subtitles_1_FINAL.json')
+subtitles_fail_json_file = os.path.join(subtitles_extraction_dir, 'subtitles_fail_FINAL.json')
 
 # Инициализация EasyOCR
 reader = easyocr.Reader(['ru', 'en'])
@@ -128,7 +128,7 @@ except json.JSONDecodeError as e:
     raise
 
 # Ограничение количества видео для тестирования (обрабатываем только первые 50 видео)
-all_videos = dict(list(all_videos.items())[:10])
+all_videos = dict(list(all_videos.items())[2000:3000])
 
 subtitles_results = {}
 none_subtitles_results = {}
